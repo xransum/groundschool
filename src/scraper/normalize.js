@@ -1,12 +1,13 @@
 /**
- * Merges and deduplicates questions from multiple sources (PDF, PSI portal)
- * into a single canonical questions.json dataset.
+ * Merges and deduplicates questions from multiple sources (PDF, PSI portal,
+ * external community bank) into a single canonical questions.json dataset.
  *
  * Dedup strategy:
  *  - Primary key is question ID (PAR-XXXX) when available
- *  - For questions without IDs (PSI source), normalized question text is used
- *  - PDF questions take precedence over PSI questions for the same content
- *    because they include the correct answer
+ *  - For questions without IDs (PSI/EXT source), normalized question text is used
+ *  - When a PDF question with correct: null matches an external question by
+ *    normalized text, the correct answer is back-filled from the external record
+ *  - Otherwise earlier sources win on conflict (PDF > PSI > external)
  */
 
 import { createHash } from 'crypto';
@@ -42,15 +43,30 @@ function assignId(q, index) {
 }
 
 /**
+ * Returns a sort key for an ID so that PAR < PSI < EXT, with numeric order
+ * within each prefix.
+ */
+function sortKey(id) {
+  if (id.startsWith('PAR-')) return [0, parseInt(id.slice(4), 10)];
+  if (id.startsWith('PSI-')) return [1, parseInt(id.slice(4), 10)];
+  if (id.startsWith('EXT-')) return [2, parseInt(id.slice(4), 10)];
+  return [3, 0];
+}
+
+/**
  * Merges questions from multiple source arrays, deduplicating by question ID
  * and by normalized question text.
  *
  * Sources are processed in priority order -- earlier sources win on conflict.
- * Expected order: [pdfQuestions, psiQuestions]
+ * Expected order: [pdfQuestions, psiQuestions, externalQuestions]
+ *
+ * Special case: when an earlier-source question has correct: null and a
+ * later-source question matches by normalized text with a non-null correct
+ * value, the correct answer is back-filled into the earlier record.
  */
 export function mergeQuestions(sources) {
-  const byId = new Map();
-  const byText = new Map();
+  const byId = new Map();       // id -> index in result
+  const byText = new Map();     // normalizedText -> index in result
   const result = [];
   let psiIndex = 0;
 
@@ -59,15 +75,23 @@ export function mergeQuestions(sources) {
       const id = q.id || assignId(q, psiIndex++);
       const textKey = normalizeText(q.question);
 
-      // Skip if we already have this question (by ID or by text)
+      // If we already have this question by text, attempt to back-fill correct
+      if (byText.has(textKey)) {
+        const existingIdx = byText.get(textKey);
+        if (result[existingIdx].correct === null && q.correct !== null) {
+          result[existingIdx].correct = q.correct;
+        }
+        continue;
+      }
+
+      // Skip true ID duplicates (same PAR/PSI/EXT id appearing twice)
       if (byId.has(id)) continue;
-      if (byText.has(textKey)) continue;
 
       const normalized = {
         id,
         question: q.question.trim(),
         answers: q.answers.map(a => a.trim()),
-        correct: q.correct,
+        correct: q.correct ?? null,
         subject: q.subject || 'General',
         acs_code: q.acs_code || null,
         plt_code: q.plt_code || null,
@@ -75,17 +99,18 @@ export function mergeQuestions(sources) {
         source: q.source || 'unknown',
       };
 
-      byId.set(id, true);
-      byText.set(textKey, true);
+      byId.set(id, result.length);
+      byText.set(textKey, result.length);
       result.push(normalized);
     }
   }
 
-  // Sort: PAR questions first (by numeric ID), then PSI supplements
+  // Sort: PAR first, then PSI, then EXT -- numeric within each prefix
   result.sort((a, b) => {
-    const aNum = parseInt(a.id.replace(/\D/g, ''), 10) || 99999;
-    const bNum = parseInt(b.id.replace(/\D/g, ''), 10) || 99999;
-    return aNum - bNum;
+    const [ap, an] = sortKey(a.id);
+    const [bp, bn] = sortKey(b.id);
+    if (ap !== bp) return ap - bp;
+    return an - bn;
   });
 
   return result;

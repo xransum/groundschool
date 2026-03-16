@@ -7,7 +7,7 @@
       "September 1, 2016.",
       "September 30, 2016."
     ],
-    "correct": null,
+    "correct": 2,
     "subject": "Preflight Preparation",
     "acs_code": "PA.I.B.K1b",
     "plt_code": null,
@@ -22,7 +22,7 @@
       "Airplane, rotorcraft, glider, lighter-than-air.",
       "Single-engine land and sea, multiengine land and sea."
     ],
-    "correct": null,
+    "correct": 1,
     "subject": "Preflight Preparation",
     "acs_code": "PA.I.A.K1",
     "plt_code": null,
@@ -45,21 +45,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0003",
-    "question": "(Refer to figure 36.) Determine the approximate manifold pressure setting with 2,450 RPM to achieve 65 percent maximum continuous power at 6,500 feet with a temperature of 36 °F higher than standard.",
-    "answers": [
-      "19.8 inches Hg.",
-      "20.8 inches Hg.",
-      "21.0 inches Hg."
-    ],
-    "correct": null,
-    "subject": "Aerodynamics",
-    "acs_code": null,
-    "plt_code": "PLT278",
-    "figure": "Figure 36",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0004",
     "question": "During operations outside controlled airspace at altitudes of more than 1,200 feet AGL, but less than 10,000 feet MSL, the minimum flight visibility for day VFR flight is",
     "answers": [
@@ -72,21 +57,6 @@
     "acs_code": "PA.I.E.K1",
     "plt_code": null,
     "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0004",
-    "question": "(Refer to figure 36.) Approximately what true airspeed should a pilot expect with 65 percent maximum continuous power at 9,500 feet with a temperature of 36 °F below standard?",
-    "answers": [
-      "178 MPH.",
-      "181 MPH.",
-      "183 MPH."
-    ],
-    "correct": null,
-    "subject": "Regulations",
-    "acs_code": null,
-    "plt_code": "PLT012",
-    "figure": "Figure 36",
     "source": "pdf"
   },
   {
@@ -105,21 +75,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0005",
-    "question": "(Refer to figure 8.) What is the effect of a temperature increase from 35 to 50 °F on the density altitude if the pressure altitude remains at 3,000 feet MSL?",
-    "answers": [
-      "1,000-foot increase.",
-      "1,100-foot decrease.",
-      "1,300-foot increase."
-    ],
-    "correct": null,
-    "subject": "Aircraft Systems",
-    "acs_code": null,
-    "plt_code": "PLT124",
-    "figure": "Figure 8",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0006",
     "question": "During operations outside controlled airspace at altitudes of more than 1,200 feet AGL, but less than 10,000 feet MSL, the minimum distance below clouds requirement for VFR flight at night is",
     "answers": [
@@ -132,21 +87,6 @@
     "acs_code": "PA.I.E.K1",
     "plt_code": null,
     "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0006",
-    "question": "(Refer to figure 39.) Determine the approximate landing ground roll distance. Pressure altitude 5,000 ft Headwind Calm Temperature 101 °F",
-    "answers": [
-      "445 feet.",
-      "545 feet.",
-      "495 feet."
-    ],
-    "correct": null,
-    "subject": "Regulations",
-    "acs_code": null,
-    "plt_code": "PLT008",
-    "figure": "Figure 39",
     "source": "pdf"
   },
   {
@@ -165,21 +105,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0007",
-    "question": "(Refer to figure 39.) Determine the total distance required to land over a 50-foot obstacle. Pressure altitude 5,000 ft Headwind 8 kts Temperature 41 °F Runway Hard surface",
-    "answers": [
-      "837 feet.",
-      "956 feet.",
-      "1,076 feet."
-    ],
-    "correct": null,
-    "subject": "Regulations",
-    "acs_code": null,
-    "plt_code": "PLT008",
-    "figure": "Figure 39",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0008",
     "question": "Pre-takeoff briefing of passengers about the use of seat belts for a flight is the responsibility of",
     "answers": [
@@ -195,21 +120,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0008",
-    "question": "When activated, an emergency locator transmitter (ELT) transmits on",
-    "answers": [
-      "118.0 and 118.8 MHz.",
-      "121.5 and 243.0 MHz.",
-      "123.0 and 119.0 MHz."
-    ],
-    "correct": null,
-    "subject": "Emergency Procedures",
-    "acs_code": null,
-    "plt_code": "PLT402",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0009",
     "question": "A 100-hour inspection was due at 3302.5 hours. The 100-hour inspection was actually done at 3309.5 hours. When is the next 100-hour inspection due?",
     "answers": [
@@ -221,21 +131,6 @@
     "subject": "Preflight Preparation",
     "acs_code": "PA.I.B.K1b",
     "plt_code": null,
-    "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0009",
-    "question": "Unless otherwise authorized, if flying a transponder equipped aircraft, a recreational pilot should squawk which VFR code?",
-    "answers": [
-      "1200.",
-      "7600.",
-      "7700."
-    ],
-    "correct": null,
-    "subject": "Emergency Procedures",
-    "acs_code": null,
-    "plt_code": "PLT497",
     "figure": null,
     "source": "pdf"
   },
@@ -300,21 +195,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0013",
-    "question": "(Refer to figure 4.) Which color identifies the normal flap operating range?",
-    "answers": [
-      "The lower limit of the white arc to the upper limit of the green arc.",
-      "The green arc.",
-      "The white arc."
-    ],
-    "correct": null,
-    "subject": "Navigation",
-    "acs_code": null,
-    "plt_code": "PLT088",
-    "figure": "Figure 4",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0014",
     "question": "(Refer to FAA-CT-8080-2H, Figures 32 and 33.) Which action can adjust the airplane`s weight to maximum gross weight and the CG within limits for takeoff? Front seat occupants: 425 lb Rear seat occupants: 300 lb Fuel, main tanks: 44 gal",
     "answers": [
@@ -327,21 +207,6 @@
     "acs_code": "PA.I.F.K2f",
     "plt_code": null,
     "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0014",
-    "question": "(Refer to figure 4.) Which marking identifies the never-exceed speed?",
-    "answers": [
-      "Upper limit of the green arc.",
-      "Upper limit of the white arc.",
-      "The red radial line."
-    ],
-    "correct": null,
-    "subject": "Navigation",
-    "acs_code": null,
-    "plt_code": "PLT088",
-    "figure": "Figure 4",
     "source": "pdf"
   },
   {
@@ -372,21 +237,6 @@
     "acs_code": "PA.III.A.K4",
     "plt_code": null,
     "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0016",
-    "question": "(Refer to figure 4.) What is the full flap operating range for the airplane?",
-    "answers": [
-      "60 to 100 MPH.",
-      "60 to 208 MPH.",
-      "65 to 165 MPH."
-    ],
-    "correct": null,
-    "subject": "Navigation",
-    "acs_code": null,
-    "plt_code": "PLT088",
-    "figure": "Figure 4",
     "source": "pdf"
   },
   {
@@ -435,21 +285,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0019",
-    "question": "A below glide slope indication from a pulsating approach slope indicator is a",
-    "answers": [
-      "pulsating white light.",
-      "steady white light.",
-      "pulsating red light."
-    ],
-    "correct": null,
-    "subject": "Aircraft Systems",
-    "acs_code": null,
-    "plt_code": "PLT147",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0020",
     "question": "(Refer to FAA-CT-8080-2H, Figure 48.) The portion of the runway identified by the letter A may be used for",
     "answers": [
@@ -461,21 +296,6 @@
     "subject": "Preflight Procedures",
     "acs_code": "PA.II.D.K3",
     "plt_code": null,
-    "figure": "Figure 48",
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0020",
-    "question": "(Refer to figure 48.) W hile on final approach to a runway equipped with a standard 2-bar VASI, the lig hts appear as shown by illustration D. This means that the aircraft is",
-    "answers": [
-      "above the glide slope.",
-      "below the glide slope.",
-      "on the glide slope."
-    ],
-    "correct": null,
-    "subject": "Aircraft Systems",
-    "acs_code": null,
-    "plt_code": "PLT147",
     "figure": "Figure 48",
     "source": "pdf"
   },
@@ -495,21 +315,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0021",
-    "question": "(See Figure 65.) Which marking indicates a vehicle lane?",
-    "answers": [
-      "A.",
-      "C.",
-      "E."
-    ],
-    "correct": null,
-    "subject": "Aircraft Systems",
-    "acs_code": null,
-    "plt_code": "PLT141",
-    "figure": "Figure 65",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0022",
     "question": "Who has final authority to accept or decline any land and hold short (LAHSO) clearance?",
     "answers": [
@@ -522,21 +327,6 @@
     "acs_code": "PA.IV.B.R3b",
     "plt_code": null,
     "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0022",
-    "question": "(Refer to figure 49.) That portion of the runway identified by the letter A may be used for",
-    "answers": [
-      "landing.",
-      "taxiing and takeoff.",
-      "taxiing and landing."
-    ],
-    "correct": null,
-    "subject": "Navigation",
-    "acs_code": null,
-    "plt_code": "PLT077",
-    "figure": "Figure 49",
     "source": "pdf"
   },
   {
@@ -555,21 +345,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0023",
-    "question": "The 'yellow demarcation bar' marking indicates",
-    "answers": [
-      "runway with a displaced threshold that precedes the runway.",
-      "a hold line from a taxiway to a runway.",
-      "the beginning of available runway for landing on the approach side."
-    ],
-    "correct": null,
-    "subject": "Aircraft Systems",
-    "acs_code": null,
-    "plt_code": "PLT141",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0024",
     "question": "(Refer to FAA-CT-8080-2H, Figure 38.) Determine the total distance required to land over a 50-foot obstacle. Pressure altitude: 5,000 ft Headwind: 8 kts Temperature: 41°F Runway: Hard surface",
     "answers": [
@@ -582,21 +357,6 @@
     "acs_code": "PA.I.F.K1",
     "plt_code": null,
     "figure": "Figure 38",
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0024",
-    "question": "This sign is a visual clue that",
-    "answers": [
-      "confirms the aircraft`s location to be on taxiway \"B.\"",
-      "warns the pilot of approaching taxiway \"B.\"",
-      "indicates \"B\" holding area is ahead."
-    ],
-    "correct": null,
-    "subject": "Aircraft Systems",
-    "acs_code": null,
-    "plt_code": "PLT141",
-    "figure": null,
     "source": "pdf"
   },
   {
@@ -660,21 +420,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0028",
-    "question": "(Refer to figure 27, area 3.) When flying over Arrowwood National Wildlife Refuge, a pilot should fly no lower than",
-    "answers": [
-      "2,000 feet AGL.",
-      "2,500 feet AGL.",
-      "3,000 feet AGL."
-    ],
-    "correct": null,
-    "subject": "Airport Operations",
-    "acs_code": null,
-    "plt_code": "PLT376",
-    "figure": "Figure 27",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0029",
     "question": "(Refer to FAA-CT-8080-2H, Figure 52.) What is the recommended communications procedure for landing at Lincoln Municipal during the hours when the tower is not in operation?",
     "answers": [
@@ -720,21 +465,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0031",
-    "question": "When executing an emergency approach to land in a single-engine airplane, it is important to maintain a constant glid e speed because variations in glid e speed",
-    "answers": [
-      "increase the chances of shock cooling the engine.",
-      "assure the proper descent angle is maintained until entering the flare.",
-      "nullify all attempts at accuracy in judgment of gliding distance and landing spot."
-    ],
-    "correct": null,
-    "subject": "Aerodynamics",
-    "acs_code": null,
-    "plt_code": "PLT208",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0032",
     "question": "(Refer to FAA-CT-8080-2H, Figure 52.) When approaching Lincoln Municipal from the west at noon for the purpose of landing, initial communications should be with",
     "answers": [
@@ -747,21 +477,6 @@
     "acs_code": "PA.I.D.K1",
     "plt_code": null,
     "figure": "Figure 52",
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0032",
-    "question": "Pre-takeoff briefing of passengers for a flig ht is the responsibility of",
-    "answers": [
-      "all passengers.",
-      "the pilot.",
-      "a crewmember."
-    ],
-    "correct": null,
-    "subject": "Emergency Procedures",
-    "acs_code": null,
-    "plt_code": "PLT444",
-    "figure": null,
     "source": "pdf"
   },
   {
@@ -780,21 +495,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0033",
-    "question": "What is the antidote when a pilot has a hazardous attitude, such as 'Impulsivity'?",
-    "answers": [
-      "Do it quickly to get it over with.",
-      "It could happen to me.",
-      "Not so fast, think first."
-    ],
-    "correct": null,
-    "subject": "Aircraft Systems",
-    "acs_code": null,
-    "plt_code": "PLT103",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0034",
     "question": "A pilot and two passengers landed on a 2,100 foot east-west gravel strip with an elevation of 1,800 feet. The temperature is warmer than expected and after computing the density altitude it is determined the takeoff distance over a 50 foot obstacle is 1,980 feet. The airplane is 75 pounds under gross weight. What would be the best choice?",
     "answers": [
@@ -810,21 +510,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0034",
-    "question": "A pilo t and two passengers landed on a 2,100 foot east-west gravel strip with an elevation of 1,800 feet. The temperature is warmer than expected and after computing the density altitude it is determined the takeoff distance over a 50 foot obstacle is 1,980 feet. The airplane is 75 pounds under gross weight. What would be the best choice?",
-    "answers": [
-      "Takeoff to the west because the headwind will give the extra climb-out time needed.",
-      "Try a takeoff without the passengers to make sure the climb is adequate.",
-      "W ait until the temperature decreases, and recalculate the takeoff performance."
-    ],
-    "correct": null,
-    "subject": "Regulations",
-    "acs_code": null,
-    "plt_code": "PLT011",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0035",
     "question": "If an aircraft is equipped with a fixed-pitch propeller and a float-type carburetor, the first indication of carburetor ice would most likely be",
     "answers": [
@@ -832,25 +517,10 @@
       "engine roughness.",
       "loss of RPM."
     ],
-    "correct": null,
+    "correct": 2,
     "subject": "Emergency Operations",
     "acs_code": "PA.IX.C.K1b",
     "plt_code": null,
-    "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0035",
-    "question": "The destination airport has one runway, 08-26, and the wind is calm. The normal approach in calm wind is a left hand pattern to runway 08. There is no other traffi c at the airport. A thunderstorm about 6 miles west is beginning its mature stage, and rain is starting to reach the ground. The pilo t decides to",
-    "answers": [
-      "fly the pattern to runway 08 since the storm is too far away to affect the wind at the airport.",
-      "fly the normal pattern to runway 08 since the storm is west and moving north and any unexpected wind will be from the east or southeast toward the storm.",
-      "fly an approach to runway 26 since any unexpected wind due to the storm will be westerly."
-    ],
-    "correct": null,
-    "subject": "Aerodynamics",
-    "acs_code": null,
-    "plt_code": "PLT271",
     "figure": null,
     "source": "pdf"
   },
@@ -885,21 +555,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0037",
-    "question": "A lack of orientation with regard to the position, attitude, or movement of the aircraft in space is defined as",
-    "answers": [
-      "spatial disorientation.",
-      "hyperventilation.",
-      "hypoxia."
-    ],
-    "correct": null,
-    "subject": "Airport Operations",
-    "acs_code": null,
-    "plt_code": "PLT334",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0038",
     "question": "ATC advises, \"traffic 12 o'clock.\" This advisory is relative to your",
     "answers": [
@@ -930,21 +585,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0039",
-    "question": "(Refer to figure 26, area 5.) The navigation facility at Dallas-Ft. Worth International (DFW) is a",
-    "answers": [
-      "VOR.",
-      "VORTAC.",
-      "VOR/DME."
-    ],
-    "correct": null,
-    "subject": "Aircraft Systems",
-    "acs_code": null,
-    "plt_code": "PLT101",
-    "figure": "Figure 26",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0040",
     "question": "Deviation error of the magnetic compass is caused by",
     "answers": [
@@ -957,21 +597,6 @@
     "acs_code": "PA.VI.A.K2",
     "plt_code": null,
     "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0040",
-    "question": "(Refer to figure 53.) Where is Loup City Municipal located with relation to the city?",
-    "answers": [
-      "Northeast approximately 3 mile s.",
-      "Northwest approximately 1 mile.",
-      "East approximately 10 mile s."
-    ],
-    "correct": null,
-    "subject": "Navigation",
-    "acs_code": null,
-    "plt_code": "PLT078",
-    "figure": "Figure 53",
     "source": "pdf"
   },
   {
@@ -990,21 +615,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0041",
-    "question": "(Refer to figure 27, area 2.) The day VFR visibility and cloud clearance requirements to operate over the town of Cooperstown, after departing and climbing out of the Cooperstown Airport at or below 700 feet AGL are",
-    "answers": [
-      "1 mile and clear of clouds.",
-      "1 mile and 1,000 feet above, 500 feet below, and 2,000 feet horizontally from clouds.",
-      "3 miles and clear of clouds."
-    ],
-    "correct": null,
-    "subject": "Navigation",
-    "acs_code": null,
-    "plt_code": "PLT064",
-    "figure": "Figure 27",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0042",
     "question": "How far will an aircraft travel in 7.5 minutes with a ground speed of 114 knots?",
     "answers": [
@@ -1017,21 +627,6 @@
     "acs_code": "PA.I.D.K3a",
     "plt_code": null,
     "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0042",
-    "question": "(Refer to figure 52.) W hat information should be entered in block 12 for a VFR day flight?",
-    "answers": [
-      "The actual time enroute expressed in hours and minutes.",
-      "The estimated time in enroute expressed in hours and minutes.",
-      "The total amount of usable fuel onboard expressed in hours and minutes."
-    ],
-    "correct": null,
-    "subject": "Emergency Procedures",
-    "acs_code": null,
-    "plt_code": "PLT455",
-    "figure": "Figure 52",
     "source": "pdf"
   },
   {
@@ -1050,21 +645,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0043",
-    "question": "(Refer to figure 53.) What is the recommended communications procedure for landing at Lincoln Municipal during the hours when the tower is not in operation?",
-    "answers": [
-      "Monitor airport traffic and announce your position and intentions on 118.5 MHz.",
-      "Contact UNICOM on 122.95 MHz for traffic advisories.",
-      "Monitor ATIS for airport conditions, then announce your position on 122.95 MHz."
-    ],
-    "correct": null,
-    "subject": "Navigation",
-    "acs_code": null,
-    "plt_code": "PLT078",
-    "figure": "Figure 53",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0044",
     "question": "(Refer to FAA-CT-8080-2H, Figure 8.) What is the effect of a temperature increase from 35 to 50°F on the density altitude if the pressure altitude remains at 3,000 feet MSL?",
     "answers": [
@@ -1080,21 +660,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0044",
-    "question": "(Refer to figure 53.) When approaching Lincoln Municipal from the west at noon for the purpose of landing, initial communications should be with",
-    "answers": [
-      "Lincoln Approach Control on 124.0 MHz.",
-      "Minneapolis Center on 128.75 MHz.",
-      "Lincoln Tower on 118.5 MHz."
-    ],
-    "correct": null,
-    "subject": "Navigation",
-    "acs_code": null,
-    "plt_code": "PLT078",
-    "figure": "Figure 53",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0045",
     "question": "The Aeronautical Information Manual (AIM) specifically encourages pilots to turn on their landing lights when operating below 10,000 feet, day or night, and especially when operating",
     "answers": [
@@ -1106,21 +671,6 @@
     "subject": "Airport Operations",
     "acs_code": "PA.III.B.R1",
     "plt_code": null,
-    "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0045",
-    "question": "To use VHF/DF facilities for assistance in locating an aircraft's position, the aircraft must have a",
-    "answers": [
-      "VHF transmitter and receiver.",
-      "4096-code transponder.",
-      "VOR receiver and DME."
-    ],
-    "correct": null,
-    "subject": "Airport Operations",
-    "acs_code": null,
-    "plt_code": "PLT362",
     "figure": null,
     "source": "pdf"
   },
@@ -1140,21 +690,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0046",
-    "question": "When the course deviation indicator (CDI) needle is centered during an omnireceiver check using a VOR test signal (VOT), the omnibearing selector (OBS) and the TO/FROM indicator should read",
-    "answers": [
-      "180° FROM, only if the pilot is due north of the VOT.",
-      "0° TO or 180° FROM, regardless of the pilot's position from the VOT.",
-      "0° FROM or 180° TO, regardless of the pilot's position from the VOT."
-    ],
-    "correct": null,
-    "subject": "Aerodynamics",
-    "acs_code": null,
-    "plt_code": "PLT300",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0047",
     "question": "A pilot experiencing the effects of hyperventilation should be able to restore the proper carbon dioxide level in the body by",
     "answers": [
@@ -1170,21 +705,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0047",
-    "question": "(Refer to figure 21, area 1.) The NALF Fentress (NFE) Airport is in what type of airspace?",
-    "answers": [
-      "Class C.",
-      "Class E.",
-      "Class G."
-    ],
-    "correct": null,
-    "subject": "Navigation",
-    "acs_code": null,
-    "plt_code": "PLT064",
-    "figure": "Figure 21",
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0048",
     "question": "This sign confirms your position on",
     "answers": [
@@ -1196,21 +716,6 @@
     "subject": "Preflight Procedures",
     "acs_code": "PA.II.D.K3",
     "plt_code": null,
-    "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0048",
-    "question": "Which approach and landing objective is assured when the pilot remains on the proper glidepath of the VASI?",
-    "answers": [
-      "Runway identification and course guidance.",
-      "Safe obstruction clearance in the approach area.",
-      "Lateral course guidance to the runway."
-    ],
-    "correct": null,
-    "subject": "Aircraft Systems",
-    "acs_code": null,
-    "plt_code": "PLT147",
     "figure": null,
     "source": "pdf"
   },
@@ -1230,21 +735,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0049",
-    "question": "With respect to the certification of airmen, which is a category of aircraft?",
-    "answers": [
-      "Gyroplane, helicopter, airship, free balloon.",
-      "Airplane, rotorcraft, glider, lighter-than-air.",
-      "Single-engine land and sea, multiengine land and sea."
-    ],
-    "correct": null,
-    "subject": "Airport Operations",
-    "acs_code": null,
-    "plt_code": "PLT371",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0050",
     "question": "(Refer to FAA-CT-8080-2H, Figure 78.) What are the basic VFR weather minima required to takeoff from the Onawa, IA (K36) airport during the day?",
     "answers": [
@@ -1260,21 +750,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0050",
-    "question": "The width of a Federal Airway from either side of the centerline is",
-    "answers": [
-      "4 nautical miles.",
-      "6 nautical miles.",
-      "8 nautical miles."
-    ],
-    "correct": null,
-    "subject": "Weather",
-    "acs_code": null,
-    "plt_code": "PLT162",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0051",
     "question": "If Receiver Autonomous Integrity Monitoring (RAIM) capability is lost in-flight,",
     "answers": [
@@ -1286,21 +761,6 @@
     "subject": "Navigation",
     "acs_code": "PA.VI.B.K2",
     "plt_code": null,
-    "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0051",
-    "question": "A 100-hour inspection was due at 3302.5 hours. The 100-hour inspection was actually done at 3309.5 hours. W hen is the next 100-hour inspection due?",
-    "answers": [
-      "3312.5 hours.",
-      "3395.5 hours.",
-      "3402.5 hours."
-    ],
-    "correct": null,
-    "subject": "Airport Operations",
-    "acs_code": null,
-    "plt_code": "PLT372",
     "figure": null,
     "source": "pdf"
   },
@@ -1320,21 +780,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0052",
-    "question": "In which class of airspace is acrobatic flight prohibited?",
-    "answers": [
-      "Class E airspace not designated for Federal Airways above 1,500 feet AGL.",
-      "Class E airspace below 1,500 feet AGL.",
-      "Class G airspace above 1,500 feet AGL."
-    ],
-    "correct": null,
-    "subject": "Airport Operations",
-    "acs_code": null,
-    "plt_code": "PLT369",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0053",
     "question": "Your cousin wants you to take him flying. You must have made at least three takeoffs and three landings in your aircraft within the preceding",
     "answers": [
@@ -1346,21 +791,6 @@
     "subject": "Preflight Preparation",
     "acs_code": "PA.I.A.K1",
     "plt_code": null,
-    "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0053",
-    "question": "During operations outside controlled airspace at altitudes of more than 1,200 feet AGL, but less than 10,000 feet MSL, the minimum flight visibility for VFR flight at night is",
-    "answers": [
-      "1 mile.",
-      "3 miles.",
-      "5 miles."
-    ],
-    "correct": null,
-    "subject": "Weather",
-    "acs_code": null,
-    "plt_code": "PLT163",
     "figure": null,
     "source": "pdf"
   },
@@ -1387,7 +817,7 @@
       "friction between the wind and the surface.",
       "stronger Coriolis force at the surface."
     ],
-    "correct": null,
+    "correct": 0,
     "subject": "Preflight Preparation",
     "acs_code": "PA.I.C.K3b",
     "plt_code": null,
@@ -1402,7 +832,7 @@
       "be 30 degrees and view each sector at least 3 seconds.",
       "use peripheral vision by scanning small sectors and utilizing off-center viewing."
     ],
-    "correct": null,
+    "correct": 2,
     "subject": "Preflight Preparation",
     "acs_code": "PA.I.H.K1k",
     "plt_code": null,
@@ -1425,21 +855,6 @@
     "source": "pdf"
   },
   {
-    "id": "PVT-0057",
-    "question": "The operator of an aircraft that has been involved in an accident is required to file an NTSB accident report within how many days?",
-    "answers": [
-      "5.",
-      "7.",
-      "10."
-    ],
-    "correct": null,
-    "subject": "Airport Operations",
-    "acs_code": null,
-    "plt_code": "PLT366",
-    "figure": null,
-    "source": "pdf"
-  },
-  {
     "id": "PAR-0058",
     "question": "When warm, moist, stable air flows upslope, it",
     "answers": [
@@ -1447,25 +862,10 @@
       "causes showers and thunderstorms.",
       "develops convective turbulence."
     ],
-    "correct": null,
+    "correct": 0,
     "subject": "Preflight Preparation",
     "acs_code": "PA.I.C.K3f",
     "plt_code": null,
-    "figure": null,
-    "source": "pdf"
-  },
-  {
-    "id": "PVT-0058",
-    "question": "To determine the freezing level and areas of probable icing aloft, the pilot should refer to the",
-    "answers": [
-      "Inflight Aviation Weather Advisories.",
-      "Weather Depiction Chart.",
-      "Area Forecast."
-    ],
-    "correct": null,
-    "subject": "Aerodynamics",
-    "acs_code": null,
-    "plt_code": "PLT274",
     "figure": null,
     "source": "pdf"
   },
@@ -1511,6 +911,3081 @@
     "subject": "Preflight Preparation",
     "acs_code": "PA.I.E.K1",
     "plt_code": null,
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "EXT-1001",
+    "question": "Which aileron positions should a pilot generally use when taxiing in strong quartering headwinds?",
+    "answers": [
+      "Ailerons neutral.",
+      "Aileron down on the side from which the wind is blowing.",
+      "Aileron up on the side from which the wind is blowing."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1002",
+    "question": "What action is required when two aircraft of the same category converge, but not head-on?",
+    "answers": [
+      "Each aircraft shall give way to the right.",
+      "The aircraft on the left shall give way.",
+      "The faster aircraft shall give way."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1003",
+    "question": "What period of time must a person be hospitalized before an injury may be defined by the NTSB as a 'serious injury'?",
+    "answers": [
+      "72 hours; commencing within 10 days after date of the injury.",
+      "48 hours; commencing within 7 days after date of the injury.",
+      "10 days, with no other extenuating circumstances."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1004",
+    "question": "Under which condition will pressure altitude be equal to true altitude?",
+    "answers": [
+      "When standard atmospheric conditions exist.",
+      "When indicated altitude is equal to the pressure altitude.",
+      "When the atmospheric pressure is 29.92 inches Hg."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1005",
+    "question": "What is the difference between a normal landing and a crosswind landing?",
+    "answers": [
+      "Aileron up on the upwind wing",
+      "Aileron up on the downwind wing",
+      "Aileron down on the upwind wing"
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1006",
+    "question": "When should a pilot contact the tower of a Class C airport when departing from a satellite airport underlying the Class C?",
+    "answers": [
+      "After departure, when practical.",
+      "On the ground before departure.",
+      "You should remain on the CTAF for the departure airport."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1007",
+    "question": "Which is true with respect to a high - or low-pressure system?",
+    "answers": [
+      "A low-pressure area or trough is an area of descending air.",
+      "A high-pressure area or ridge is an area of rising air.",
+      "A high-pressure area or ridge is an area of descending air."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1008",
+    "question": "What input is required to maintain altitude during steep turns?",
+    "answers": [
+      "Back pressure on the yoke.",
+      "Aileron in the opposite direction of the turn.",
+      "Increase power."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1009",
+    "question": "How should the flight controls be held while taxiing a tricycle-gear equipped airplane into a left quartering headwind?",
+    "answers": [
+      "Left aileron up, elevator neutral.",
+      "Left aileron down, elevator neutral.",
+      "Left aileron up, elevator down."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1010",
+    "question": "Prior to takeoff, the altimeter should be set to which altitude or altimeter setting?",
+    "answers": [
+      "The current local altimeter setting, if available, or the departure airport elevation.",
+      "The corrected pressure altitude for the departure airport.",
+      "The corrected density altitude of the departure airport."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1011",
+    "question": "On landing, your tire blows and the wheel is dented. What action is required to comply with NTSB Part 830?",
+    "answers": [
+      "A report must be filed with the nearest FAA field office within 7 days.",
+      "No notification or report is required.",
+      "An immediate notification must be filed by the operator of the aircraft with the nearest NTSB field office."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1012",
+    "question": "You must notify the NTSB immediately if the following occurs:",
+    "answers": [
+      "The inability of any required flight crewmember to perform normal flight duties as a result of injury or illness.",
+      "In-flight roll upset greater than 90° of bank",
+      "Flight through a Prohibited Area without an ATC clearance"
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1013",
+    "question": "After landing at a tower-controlled airport, when should the pilot contact ground control?",
+    "answers": [
+      "Prior to turning off the runway.",
+      "After reaching a taxiway that leads directly to the parking area.",
+      "When advised by the tower to do so."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1014",
+    "question": "What is an important airspeed limitation that is not color coded on airspeed indicators?",
+    "answers": [
+      "Never-exceed speed.",
+      "Maximum structural cruising speed.",
+      "Maneuvering speed."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1015",
+    "question": "When must batteries in an emergency locator transmitter (ELT) be replaced or recharged, if rechargeable?",
+    "answers": [
+      "When the ELT can no longer be heard over the airplane's communication radio receiver.",
+      "After any inadvertent activation of the ELT.",
+      "When the ELT has been in use for more than 1 cumulative hour."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1016",
+    "question": "An abnormally high engine oil temperature indication may be caused by",
+    "answers": [
+      "the oil level being too low.",
+      "operating with an excessively rich mixture.",
+      "operating with a too high viscosity oil."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1017",
+    "question": "Cold air generally contains:",
+    "answers": [
+      "More water vapor than cold air.",
+      "More suspended water particles.",
+      "Less water vapor than warm air."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1018",
+    "question": "One in-flight condition necessary for structural icing to form is",
+    "answers": [
+      "stratiform clouds.",
+      "small temperature/dewpoint spread.",
+      "visible moisture."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1019",
+    "question": "How can you determine the stability of an air mass?",
+    "answers": [
+      "Winds aloft forecast.",
+      "Observe the cloud formations and type of precipitation.",
+      "Height of the cloud bases."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1020",
+    "question": "How should the ailerons be positioned when landing in a crosswind?",
+    "answers": [
+      "Up aileron into the wind",
+      "Neutral ailerons",
+      "Down aileron into the wind"
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1021",
+    "question": "Steady precipitation preceding a front is an indication of",
+    "answers": [
+      "stratiform clouds with moderate turbulence.",
+      "cumuliform clouds with little or no turbulence.",
+      "stratiform clouds with little or no turbulence."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1022",
+    "question": "Under what condition will true altitude be lower than indicated altitude?",
+    "answers": [
+      "When density altitude is higher than indicated altitude.",
+      "In colder than standard air temperature.",
+      "In warmer than standard air temperature."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1023",
+    "question": "Under what condition is indicated altitude the same as true altitude?",
+    "answers": [
+      "If the altimeter has no mechanical error.",
+      "When at sea level under standard conditions.",
+      "When at 18,000 feet MSL with the altimeter set at 29.92."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1024",
+    "question": "What is required for thermals to form?",
+    "answers": [
+      "High humidity",
+      "Thunderstorms",
+      "Solar heating"
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1025",
+    "question": "When squawking the VFR code (1200) on your transponder, what is the minimum mode the transponder must be in?",
+    "answers": [
+      "Mode C.",
+      "Mode F.",
+      "Mode A."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1027",
+    "question": "SIGMETs are issued as a warning of weather conditions hazardous to which aircraft?",
+    "answers": [
+      "Large aircraft only.",
+      "All aircraft.",
+      "Small aircraft only."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1028",
+    "question": "While operating under BasicMed as pilot in command, the aircraft:",
+    "answers": [
+      "Must be limited to 5 seats and not certified for more than 6,000 lbs.",
+      "Must be limited to 12 seats and not certified for more than 12,500 lbs.",
+      "Must be limited to 7 seats and not certified for more than 12,500 lbs."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1029",
+    "question": "The pitot system provides impact pressure for which instrument?",
+    "answers": [
+      "Airspeed indicator.",
+      "Altimeter.",
+      "Vertical-speed indicator."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1030",
+    "question": "While inbound to a nontowered airport without automated weather services, you listen to the CTAF and hear no other aircraft on the frequency. How can you determine the winds and active runway?",
+    "answers": [
+      "Call the nearest ATC approach or Center facility.",
+      "Call on the CTAF and request an Airport Advisory.",
+      "Fly a straight-in final approach and scan for other traffic."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1031",
+    "question": "One of the most easily recognized discontinuities across a front is",
+    "answers": [
+      "a change in temperature.",
+      "an increase in relative humidity.",
+      "an increase in cloud coverage."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1032",
+    "question": "What does a steady red light signal from an ATC control tower mean when in flight?",
+    "answers": [
+      "Exercise extreme caution",
+      "Airport unsafe, do not land",
+      "Give way and continue circling"
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1033",
+    "question": "How many GPS satellites are required to provide a three-dimensional position?",
+    "answers": [
+      "6",
+      "4",
+      "5"
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1034",
+    "question": "What is the minimum number of Global Positioning System (GPS) satellites that are observable by a user anywhere on earth?",
+    "answers": [
+      "6",
+      "5",
+      "4"
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1035",
+    "question": "(Refer to Figure 68.) On the wind triangle, the line from point C to B represents:",
+    "answers": [
+      "True heading and groundspeed.",
+      "Airspeed and heading.",
+      "Groundspeed and true course."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1036",
+    "question": "(Refer to Figure 68.) On the wind triangle, the line from point C to A represents:",
+    "answers": [
+      "Wind direction and velocity.",
+      "True heading and groundspeed.",
+      "True course and groundspeed."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1037",
+    "question": "(Refer to Figure 68.) B of the wind triangle represent?",
+    "answers": [
+      "Groundspeed and true heading.",
+      "True course and groundspeed.",
+      "True heading and airspeed."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1038",
+    "question": "In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the east if",
+    "answers": [
+      "an aircraft is accelerated while on a north heading.",
+      "a left turn is entered from a north heading.",
+      "an aircraft is decelerated while on a south heading."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1039",
+    "question": "In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the west if",
+    "answers": [
+      "a left turn is entered from a north heading.",
+      "an aircraft is accelerated while on a north heading.",
+      "a right turn is entered from a north heading."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1040",
+    "question": "In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the north if",
+    "answers": [
+      "an aircraft is decelerated while on an east or west heading.",
+      "a left turn is entered from a west heading.",
+      "an aircraft is accelerated while on an east or west heading."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1041",
+    "question": "In the Northern Hemisphere, the magnetic compass will normally indicate a turn toward the south when",
+    "answers": [
+      "a left turn is entered from an east heading.",
+      "a right turn is entered from a west heading.",
+      "the aircraft is decelerated while on a west heading."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1042",
+    "question": "In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the south if",
+    "answers": [
+      "a left turn is entered from an east heading.",
+      "a right turn is entered from a west heading.",
+      "the aircraft is decelerated while on a west heading."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1043",
+    "question": "The movement of the air affects the speed at which aircraft move:",
+    "answers": [
+      "In a turn.",
+      "Over the Earth's surface.",
+      "Through the air."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1044",
+    "question": "Inbound to an airport with no tower, FSS, or UNICOM in operation, a pilot should self-announce on MULTICOM frequency",
+    "answers": [
+      "122.7.",
+      "123.0.",
+      "122.9."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1045",
+    "question": "With certain exceptions, safety belts are required to be secured about passengers during",
+    "answers": [
+      "all flight conditions.",
+      "flight in turbulent air.",
+      "taxi, takeoffs, and landings."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1046",
+    "question": "(Refer to Figure 26, area 1.) What might you expect when flying in an MOA such as Devils Lake.",
+    "answers": [
+      "Unusual, often invisible, hazards to aircraft such as artillery firing, aerial gunnery, or guided missiles.",
+      "High volume of pilot training or an unusual type of aerial activity.",
+      "Air combat tactics, air intercepts, aerobatics, formation training, and low−altitude tactics."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1047",
+    "question": "If a person is convicted of flying an airplane while intoxicated, he or she might expect:",
+    "answers": [
+      "Denial of an application for an FAA certificate or rating.",
+      "To write a report to the FAA Civil Aviation Security Division (AMC-700) not later than 60 day after the conviction.",
+      "To write a notification of the conviction to the FAA Civil Aeromedical Institute."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1048",
+    "question": "No person may attempt to act as a crewmember of a civil aircraft with",
+    "answers": [
+      ".008 percent by weight or more alcohol in the blood.",
+      ".004 percent by weight or more alcohol in the blood.",
+      ".04 percent by weight or more alcohol in the blood."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1049",
+    "question": "Where should you perform the pre-takeoff checks at the airport?",
+    "answers": [
+      "Apron area after starting the engine.",
+      "Run-up area near the takeoff end of the runway.",
+      "On a taxiway along the way to the runway."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1050",
+    "question": "How is the wing twisted on most training airplanes to increase controllability at low speeds?",
+    "answers": [
+      "The wing is twisted to a higher AOA at the wing tip.",
+      "The wing is twisted to a lower AOA at the wing root.",
+      "The wing is twisted to a higher AOA at the wing root."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1051",
+    "question": "What is/are the aircraft inspection requirement(s) when receiving dual flight instruction in your own airplane?",
+    "answers": [
+      "100-hour inspection",
+      "Annual inspection",
+      "Annual inspection and a 100-hour inspection"
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1052",
+    "question": "Automatic Terminal Information Service (ATIS) is the continuous broadcast of recorded information concerning",
+    "answers": [
+      "pilots of radar-identified aircraft whose aircraft is in dangerous proximity to terrain or to an obstruction.",
+      "noncontrol information in selected high-activity terminal areas.",
+      "nonessential information to reduce frequency congestion."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1053",
+    "question": "When are non-rechargeable batteries of an emergency locator transmitter (ELT) required to be replaced?",
+    "answers": [
+      "At the time of each 100-hour or annual inspection.",
+      "Every 24 months.",
+      "When 50 percent of their useful life expires."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1054",
+    "question": "While operating under BasicMed, the pilot in command must have visited their primary care physician within the preceding:",
+    "answers": [
+      "48 months.",
+      "12 months.",
+      "24 months."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1055",
+    "question": "The most accurate part of a forecast occurs:",
+    "answers": [
+      "At the end of the forecast period.",
+      "Some hours after the forecast period.",
+      "At the beginning of the forecast period."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1056",
+    "question": "In the Northern Hemisphere, if an aircraft is accelerated or decelerated, the magnetic compass will normally indicate",
+    "answers": [
+      "correctly when on a north or south heading.",
+      "a turn toward the south.",
+      "a turn momentarily."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1059",
+    "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from a south heading in the Northern Hemisphere?",
+    "answers": [
+      "The compass will remain on south for a short time, then gradually catch up to the magnetic heading of the airplane.",
+      "The compass will indicate a turn to the right, but at a faster rate than is actually occurring.",
+      "The compass will initially indicate a turn to the left."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1060",
+    "question": "(Refer to Figure 9, area B.) How should the flight controls be held while taxiing a tailwheel airplane into a right quartering headwind?",
+    "answers": [
+      "Right aileron up, elevator up.",
+      "Right aileron down, elevator neutral.",
+      "Right aileron up, elevator down."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1061",
+    "question": "Which records or documents shall the owner or operator of an aircraft keep to show compliance with an applicable Airworthiness Directive?",
+    "answers": [
+      "Airworthiness Certificate and Pilot's Operating Handbook.",
+      "Airworthiness and Registration Certificates.",
+      "Aircraft maintenance records."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1062",
+    "question": "What type of turbulence would a pilot expect in a Mammatus cloud?",
+    "answers": [
+      "Moderate",
+      "Severe",
+      "Light"
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1063",
+    "question": "Which conditions result in the formation of frost?",
+    "answers": [
+      "The temperature of the surrounding air is at or below freezing when small drops of moisture fall on the collecting surface.",
+      "The temperature of the collecting surface is at or below the dewpoint of the adjacent air and the dewpoint is below freezing.",
+      "The temperature of the collecting surface is at or below freezing when small droplets of moisture fall on the surface."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1064",
+    "question": "The operator of an aircraft that has been involved in an incident is required to submit a report to the nearest field office of the NTSB",
+    "answers": [
+      "when requested.",
+      "within 10 days.",
+      "within 7 days."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1065",
+    "question": "If a recreational or private pilot had a flight review on August 8, this year, when is the next flight review required?",
+    "answers": [
+      "August 8, next year.",
+      "August 31, 1 year later.",
+      "August 31, 2 years later."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1066",
+    "question": "The purpose of the fuel tank vent system is to:",
+    "answers": [
+      "allow air to enter as fuel is consumed to maintain atmospheric pressure inside the tank.",
+      "allow for the proper air to fuel ratio when flying at higher altitudes.",
+      "increase pressure in the tank to move fuel to the engine intake."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1068",
+    "question": "The correct method of stating 10,500 feet MSL to ATC is",
+    "answers": [
+      "'ONE ZERO THOUSAND, FIVE HUNDRED.'",
+      "'TEN THOUSAND, FIVE HUNDRED FEET.'",
+      "'TEN POINT FIVE.'"
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1069",
+    "question": "You want your wind ground track and ____________to be the same.",
+    "answers": [
+      "Heading.",
+      "Drift angle.",
+      "Course."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1070",
+    "question": "When does P-factor cause the airplane to yaw to the left?",
+    "answers": [
+      "When at high airspeeds.",
+      "When at high angles of attack.",
+      "When at low angles of attack."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1071",
+    "question": "Except when necessary for takeoff or landing, what is the minimum safe altitude for a pilot to operate an aircraft anywhere?",
+    "answers": [
+      "An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.",
+      "An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet.",
+      "An altitude of 500 feet above the surface and no closer than 500 feet to any person, vessel, vehicle, or structure."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1072",
+    "question": "Except when necessary for takeoff or landing, what is the minimum safe altitude required for a pilot to operate an aircraft over other than a congested area?",
+    "answers": [
+      "An altitude of 500 feet AGL, except over open water or a sparsely populated area, which requires 500 feet from any person, vessel, vehicle, or structure.",
+      "An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet.",
+      "An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1073",
+    "question": "Except when necessary for takeoff or landing, what is the minimum safe altitude required for a pilot to operate an aircraft over congested areas?",
+    "answers": [
+      "An altitude of 1,000 feet above any person, vessel, vehicle, or structure.",
+      "An altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft.",
+      "An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet of the aircraft."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1074",
+    "question": "Which incident requires an immediate notification to the nearest NTSB field office?",
+    "answers": [
+      "A forced landing due to engine failure.",
+      "Flight control system malfunction or failure.",
+      "Landing gear damage, due to a hard landing."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1075",
+    "question": "Safety belts are required to be properly secured about which persons in an aircraft and when?",
+    "answers": [
+      "Passengers, during taxi, takeoffs, and landings only.",
+      "Pilots only, during takeoffs and landings.",
+      "Each person on board the aircraft during the entire flight."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1076",
+    "question": "What is the purpose of the taxiway directional sign?",
+    "answers": [
+      "Indicates designation and direction of exit taxiway from runway.",
+      "Indicates direction to take-off runway.",
+      "Indicates designation and direction of taxiway leading out of an intersection."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1077",
+    "question": "When the term 'light and variable' is used in reference to a Winds Aloft Forecast, the coded group and windspeed is",
+    "answers": [
+      "9999 and less than 10 knots.",
+      "9900 and less than 5 knots.",
+      "0000 and less than 7 knots."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1078",
+    "question": "There is no acceleration/deceleration error on a heading of:",
+    "answers": [
+      "East or west.",
+      "240 degrees or 60 degrees.",
+      "North or south."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1079",
+    "question": "With certain exceptions, when must each occupant of an aircraft wear an approved parachute?",
+    "answers": [
+      "When a door is removed from the aircraft to facilitate parachute jumpers.",
+      "When intentionally banking in excess of 30°.",
+      "When intentionally pitching the nose of the aircraft up or down 30° or more."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1080",
+    "question": "With respect to the certification of aircraft, which is a class of aircraft?",
+    "answers": [
+      "Normal, utility, acrobatic, limited.",
+      "Airplane, rotorcraft, glider, balloon.",
+      "Transport, restricted, provisional."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1081",
+    "question": "With respect to the certification of airmen, which is a class of aircraft?",
+    "answers": [
+      "Lighter-than-air, airship, hot air balloon, gas balloon.",
+      "Single-engine land and sea, multiengine land and sea.",
+      "Airplane, rotorcraft, glider, lighter-than-air."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1082",
+    "question": "With respect to the certification of aircraft, which is a category of aircraft?",
+    "answers": [
+      "Normal, utility, acrobatic, limited.",
+      "Airplane, rotorcraft, glider.",
+      "Landplane, seaplane."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1084",
+    "question": "The vertical limit of Class C airspace above the primary airport is normally",
+    "answers": [
+      "4,000 feet AGL.",
+      "3,000 feet AGL.",
+      "1,200 feet AGL."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1085",
+    "question": "Parasite drag increases when airspeed is:",
+    "answers": [
+      "Parasite drag always remains constant.",
+      "Increased.",
+      "Decreased."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1086",
+    "question": "Which statement is most correct regarding form drag?",
+    "answers": [
+      "Form drag increases as airspeed increases.",
+      "It decreases as the speed of the airplane increases.",
+      "It increases when the weight of the airplane increases."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1087",
+    "question": "At the beginning of a turn from a northerly heading:",
+    "answers": [
+      "The compass will lead the turn.",
+      "The compass will show a turn in the opposite direction.",
+      "The compass will show the correct heading."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1088",
+    "question": "Inland fog is most likely:",
+    "answers": [
+      "Advection fog sometimes called sea fog.",
+      "Precipitation Induced fog.",
+      "Radiation Fog sometimes called ground fog."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1089",
+    "question": "To maintain BasicMed privileges, you must complete a BasicMed medical education course within the preceding:",
+    "answers": [
+      "24 calendar months.",
+      "48 calendar months.",
+      "12 calendar months."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1090",
+    "question": "Which light signal from the control tower clears a pilot to taxi?",
+    "answers": [
+      "Flashing green.",
+      "Flashing white.",
+      "Steady green."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1091",
+    "question": "What feature is associated with a temperature inversion?",
+    "answers": [
+      "An unstable layer of air.",
+      "Chinook winds on mountain slopes.",
+      "A stable layer of air."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1092",
+    "question": "Which would most likely cause the cylinder head temperature and engine oil temperature gauges to exceed their normal operating ranges?",
+    "answers": [
+      "Operating with higher-than-normal oil pressure.",
+      "Using fuel that has a higher-than-specified fuel rating.",
+      "Using fuel that has a lower-than-specified fuel rating."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1093",
+    "question": "When flying at a very high AOA with a low airspeed and aft CG, T-tail aircraft are more susceptible to __________ ?",
+    "answers": [
+      "dutch roll",
+      "a deep stall",
+      "adverse yaw"
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1094",
+    "question": "A TAF includes:",
+    "answers": [
+      "Wind, visibility, weather phenomena, obstructions to vision, and cloud coverage.",
+      "Wind, visibility, cloud coverage, and cloud tops in feet MSL.",
+      "Wind, obstructions to vision, and cloud tops in feet MSL."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1095",
+    "question": "In order to find pictorial explanations of airport signs and markings, which publication would you consult?",
+    "answers": [
+      "Aeronautical Information Manual (AIM).",
+      "Advisory Circulars (ACs) under subject number 90.",
+      "Chart Supplements."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1096",
+    "question": "What is the maximum indicated airspeed you may fly when operating under BasicMed?",
+    "answers": [
+      "250 knots",
+      "180 knots",
+      "200 knots"
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1097",
+    "question": "When taxiing with strong quartering tailwinds, which aileron positions should be used?",
+    "answers": [
+      "Aileron down on the downwind side.",
+      "Ailerons neutral.",
+      "Aileron down on the side from which the wind is blowing."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1098",
+    "question": "When performing an approach and landing to a soft field, what is the proper approach angle?",
+    "answers": [
+      "Shallow approach angle.",
+      "Normal approach angle.",
+      "Steep approach angle."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1099",
+    "question": "A special VFR clearance authorizes the pilot of an aircraft to operate VFR while within Class D airspace when the visibility is",
+    "answers": [
+      "at least 3 miles and the aircraft can remain clear of clouds.",
+      "less than 1 mile and the ceiling is less than 1,000 feet.",
+      "at least 1 mile and the aircraft can remain clear of clouds."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1101",
+    "question": "Induced drag increases when airspeed is:",
+    "answers": [
+      "Increased.",
+      "Decreased.",
+      "Increased by a factor of two."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1102",
+    "question": "You are on the ground and see a steady red light signal from the tower. What does it indicate?",
+    "answers": [
+      "Stop.",
+      "Give way to other aircraft and continue circling.",
+      "Taxi clear of the runway in use."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1103",
+    "question": "You have been running an excessively rich mixture for some time now. As a result:",
+    "answers": [
+      "The engine will become severely damaged due to excess fuel vapors.",
+      "The throttle response is greatly increased.",
+      "The spark plugs may become fouled."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1104",
+    "question": "Unless otherwise authorized, the maximum indicated airspeed at which aircraft may be flown when at or below 2,500 feet AGL and within 4 nautical miles of the primary airport of Class C airspace is",
+    "answers": [
+      "250 knots.",
+      "200 knots.",
+      "230 knots."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1105",
+    "question": "For a given power setting with a constant-speed, variable pitch propeller:",
+    "answers": [
+      "Low pitch results in high RPM.",
+      "Low pitch results in low RPM.",
+      "High pitch results in high RPM."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1106",
+    "question": "As you are climbing to your cruise altitude, you realize you forgot to lean the mixture control. What happens to fuel/air mixture entering the engine?",
+    "answers": [
+      "The fuel-air mixture becomes richer because the density of air decreases while the amount of fuel remains constant.",
+      "The fuel-air mixture is leaner because the density of air increases while the amount of fuel remains constant.",
+      "Altitude has no effect on the fuel/air mixture in modern airplane engines."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1107",
+    "question": "The recommended entry position to an airport traffic pattern is",
+    "answers": [
+      "to enter 45° at the midpoint of the downwind leg at traffic pattern altitude.",
+      "to cross directly over the airport at traffic pattern altitude and join the downwind leg.",
+      "45° to the base leg just below traffic pattern altitude."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1108",
+    "question": "While taxiing, a pilot sees a red sign ahead with white letters showing the number “33” on it. What does this sign indicate?",
+    "answers": [
+      "The pilot is approaching an entrance to runway 33 at the approach threshold.",
+      "The pilot has 3300 feet of taxiway remaining until the end of the taxiway.",
+      "The pilot is approaching an entrance to runway 33 at the departure end."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1109",
+    "question": "Before passengers can be carried in an aircraft that has been altered in a manner that may have appreciably changed its flight characteristics, it must be flight tested by an appropriately-rated pilot who holds at least a",
+    "answers": [
+      "Commercial Pilot Certificate with an instrument rating.",
+      "Commercial Pilot Certificate and a mechanic's certificate.",
+      "Private Pilot Certificate."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1110",
+    "question": "The lateral dimensions of Class D airspace are based on",
+    "answers": [
+      "the instrument procedures for which the controlled airspace is established.",
+      "the number of airports that lie within the Class D airspace.",
+      "5 statute miles from the geographical center of the primary airport."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1111",
+    "question": "When operating under BasicMed, where do you need to retain a copy of the Comprehensive Medical Examination Checklist (CMEC)?",
+    "answers": [
+      "In your logbook (paper or electronic).",
+      "In your possession when operating as PIC on a flight.",
+      "At the office of the medical professional who performed your assessment."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1112",
+    "question": "While cruising at 9,500 feet MSL, the fuel/air mixture is properly adjusted. What will occur if a descent to 4,500 feet MSL is made without readjusting the mixture?",
+    "answers": [
+      "The fuel/air mixture may become excessively lean.",
+      "There will be more fuel in the cylinders than is needed for normal combustion, and the excess fuel will absorb heat and cool the engine.",
+      "The excessively rich mixture will create higher cylinder head temperatures and may cause detonation."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1113",
+    "question": "Where should a private pilot record preventive maintenance action performed on an airplane?",
+    "answers": [
+      "No record-keeping is required.",
+      "Maintenance logbooks",
+      "Pilot flight logbooks"
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1114",
+    "question": "What are the reporting requirements for a pilot convicted of possessing and selling marijuana?",
+    "answers": [
+      "You must send a notification letter with details of the conviction within 60 days to the Aerospace Medical Certification Division.",
+      "There are no reporting requirements related to marijuana offenses.",
+      "You must report the offense to the FAA Aeromedical Certification Division when applying for a medical certificate."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1116",
+    "question": "To operate an airplane under SPECIAL VFR (SVFR) within Class D airspace at night, which is required?",
+    "answers": [
+      "The Class D airspace must be specifically designated as a night SVFR area.",
+      "The pilot must hold an instrument rating, but the airplane need not be equipped for instrument flight, as long as the weather will remain at or above SVFR minimums.",
+      "The pilot must hold an instrument rating, and the airplane must be equipped for instrument flight."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1117",
+    "question": "Radar weather reports are of special interest to pilots because they indicate",
+    "answers": [
+      "large areas of low ceilings and fog.",
+      "location of precipitation along with type, intensity, and trend.",
+      "location of precipitation along with type, intensity, and cell movement of precipitation."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1118",
+    "question": "Airport taxiway edge lights are identified at night by",
+    "answers": [
+      "alternate red and green lights.",
+      "blue omnidirectional lights.",
+      "white directional lights."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1119",
+    "question": "The conditions necessary for the formation of cumulonimbus clouds are a lifting action and:",
+    "answers": [
+      "unstable, moist air.",
+      "either stable or unstable air.",
+      "unstable air containing an excess of condensation nuclei."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1120",
+    "question": "(Refer to Figure 51) What information should be entered in the Level field for Item 15 on the International Flight Plan form?",
+    "answers": [
+      "Cruising speed.",
+      "Fuel level.",
+      "VFR cruising altitude."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1122",
+    "question": "You can expect dangerous turbulence in mountain waves and:",
+    "answers": [
+      "Below rotor clouds.",
+      "Above rotor clouds.",
+      "Below lenticular clouds."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1123",
+    "question": "From whom should a departing VFR aircraft request radar traffic information during ground operations?",
+    "answers": [
+      "Tower, just before takeoff.",
+      "Ground control, on initial contact.",
+      "Clearance delivery."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1124",
+    "question": "What cloud types would indicate convective turbulence?",
+    "answers": [
+      "Cirrus clouds.",
+      "Towering cumulus clouds.",
+      "Nimbostratus clouds."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1125",
+    "question": "Low level inversions may cause:",
+    "answers": [
+      "Clearing of the atmosphere close to the surface.",
+      "Precipitation.",
+      "Smoke and dust to be trapped close to the surface."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1126",
+    "question": "The load factor on any airplane during a constant altitude turn is determined by:",
+    "answers": [
+      "Bank alone.",
+      "The type of aircraft being flown.",
+      "Airspeed."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1127",
+    "question": "Lateral or roll stability is normally achieved by:",
+    "answers": [
+      "The design of the horizontal stabilizer/stabilator.",
+      "The upward pitch of the wings, called dihedral.",
+      "The design of the ailerons."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1128",
+    "question": "If your GPS receiver is equipped with WAAS—Wide Area Augmentation System—your position accuracy is:",
+    "answers": [
+      "Twelve meters.",
+      "Five meters.",
+      "Less than three meters."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1129",
+    "question": "What effect does high density altitude, as compared to low density altitude, have on propeller efficiency and why?",
+    "answers": [
+      "Efficiency is increased due to less friction on the propeller blades.",
+      "Efficiency is reduced due to the increased force of the propeller in the thinner air.",
+      "Efficiency is reduced because the propeller exerts less force at high density altitudes than at low density altitudes."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1130",
+    "question": "Layered clouds are called:",
+    "answers": [
+      "Cumulus.",
+      "Mares' tails.",
+      "Stratus."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1131",
+    "question": "A steady green light signal directed from the control tower to an aircraft in flight is a signal that the pilot",
+    "answers": [
+      "is cleared to land.",
+      "should give way to other aircraft and continue circling.",
+      "should return for landing."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1132",
+    "question": "What action can a pilot take to aid in cooling an engine that is overheating during a climb?",
+    "answers": [
+      "Reduce rate of climb and increase airspeed.",
+      "Reduce climb speed and increase RPM.",
+      "Increase climb speed and increase RPM."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1133",
+    "question": "What flight visibility do you need in order to perform an acrobatic maneuver?",
+    "answers": [
+      "3 miles.",
+      "7 miles.",
+      "5 miles."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1134",
+    "question": "To obtain current information regarding cloud tops, icing, and turbulence check the:",
+    "answers": [
+      "Graphical Forecasts for Aviation (GFA).",
+      "Pilot reports (PIREPs).",
+      "Low-Level Significant Weather Prog Charts."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1135",
+    "question": "In what flight condition is torque effect the greatest in a single-engine airplane?",
+    "answers": [
+      "Low airspeed, high power, high angle of attack.",
+      "High airspeed, high power, high angle of attack.",
+      "Low airspeed, low power, low angle of attack."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1136",
+    "question": "Every physical process of weather is accompanied by, or is the result of, a:",
+    "answers": [
+      "heat exchange.",
+      "pressure differential.",
+      "movement of air."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1137",
+    "question": "After takeoff you encounter a temperature inversion. You should expect:",
+    "answers": [
+      "Wind shear.",
+      "Strong convective currents.",
+      "Strong surface winds."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1138",
+    "question": "Which combination of atmospheric conditions will reduce aircraft takeoff and climb performance?",
+    "answers": [
+      "High temperature, high relative humidity, and high density altitude.",
+      "High temperature, low relative humidity, and low density altitude.",
+      "Low temperature, low relative humidity, and low density altitude."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1139",
+    "question": "What is the minimum pilot certificate for flying in Class D airspace?",
+    "answers": [
+      "Commercial Pilot Certificate.",
+      "No minimum pilot certificate is specified for operations in Class D airspace.",
+      "Private Pilot Certificate."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1140",
+    "question": "How often must the aircraft’s ELT be inspected?",
+    "answers": [
+      "Within 12 calendar months of the last inspection",
+      "Every two years",
+      "Within 24 calendar months of the last inspection"
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1141",
+    "question": "In order to determine your distance flown, you would multiply time by:",
+    "answers": [
+      "Indicated airspeed.",
+      "Groundspeed.",
+      "Equivalent airspeed."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1142",
+    "question": "What would be a symptom of hyperventilation?",
+    "answers": [
+      "Decreased breathing rate and depth.",
+      "A feeling of suffocation and drowsiness.",
+      "Heightened awareness and feeling of well being."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1144",
+    "question": "Each person operating an aircraft at a VFR cruising altitude shall maintain an odd-thousand plus 500-foot altitude while on a",
+    "answers": [
+      "magnetic heading of 0° through 179°.",
+      "magnetic course of 0° through 179°.",
+      "true course of 0° through 179°."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1145",
+    "question": "A Third-Class Medical Certificate is issued to a 51-year-old pilot on May 3, this year. To exercise the privileges of a Private Pilot Certificate, the medical certificate will be valid until midnight on",
+    "answers": [
+      "May 3, 1 year later.",
+      "May 31, 1 year later.",
+      "May 31, 2 years later."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1146",
+    "question": "An ATC radar facility issues the following advisory to a pilot flying on a heading of 090°: 'TRAFFIC 3 O'CLOCK, 2 MILES, WESTBOUND...' Where should the pilot look for this traffic?",
+    "answers": [
+      "West.",
+      "South.",
+      "East."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1147",
+    "question": "An ATC radar facility issues the following advisory to a pilot flying on a heading of 360°: 'TRAFFIC 10 O'CLOCK, 2 MILES, SOUTHBOUND...' Where should the pilot look for this traffic?",
+    "answers": [
+      "Southwest.",
+      "Northeast.",
+      "Northwest."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1148",
+    "question": "Which aircraft has the right-of-way over the other aircraft listed?",
+    "answers": [
+      "Aircraft towing other aircraft.",
+      "Gyroplane.",
+      "Airship."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1149",
+    "question": "In which situation is advection fog most likely to form?",
+    "answers": [
+      "An air mass moving inland from the coast in winter.",
+      "A warm, moist air mass on the windward side of mountains.",
+      "A light breeze blowing colder air out to sea."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1150",
+    "question": "What does a positive indication tell you on an ammeter?",
+    "answers": [
+      "The battery will run out of electrical power soon",
+      "Amount of volts in the electrical system",
+      "The charging rate of the battery"
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1151",
+    "question": "If a pilot suspects that the engine (with a fixed-pitch propeller) is detonating during climb-out after takeoff, the initial corrective action to take would be to",
+    "answers": [
+      "apply carburetor heat",
+      "lean the mixture",
+      "lower the nose slightly to increase airspeed"
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1152",
+    "question": "What is indicated when a current CONVECTIVE SIGMET forecasts thunderstorms?",
+    "answers": [
+      "Moderate thunderstorms covering 30 percent of the area.",
+      "Moderate or severe turbulence.",
+      "Thunderstorms obscured by massive cloud layers."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1153",
+    "question": "To meet the recency of experience requirements to act as pilot in command carrying passengers at night, a pilot must have made at least three takeoffs and three landings to a full stop within the preceding 90 days in:",
+    "answers": [
+      "any aircraft.",
+      "the same category and class of aircraft to be used.",
+      "the same type of aircraft to be used."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1154",
+    "question": "Induced drag increases with:",
+    "answers": [
+      "An increase in the angle of attack.",
+      "A decrease in the angle of attack.",
+      "The speed of the airplane."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1155",
+    "question": "(Refer to Figure 21, area 3.) What type military flight operations should a pilot expect along IR 644?",
+    "answers": [
+      "IFR training flights above 1,500 feet AGL at speeds in excess of 250 knots.",
+      "VFR training flights above 1,500 feet AGL at speeds less than 250 knots.",
+      "Instrument training flights below 1,500 feet AGL at speeds in excess of 150 knots."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1156",
+    "question": "What is one of the advantages of an alternator over a generator in an airplane engine?",
+    "answers": [
+      "The electrical output of an alternator is more constant throughout a wide range of engine speeds.",
+      "Alternators produce direct current rather than alternating current.",
+      "An alternator is electrically driven."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1157",
+    "question": "Unless each occupant is provided with supplemental oxygen, no person may operate a civil aircraft of U.S. registry above a maximum cabin pressure altitude of:",
+    "answers": [
+      "14,000 feet MSL.",
+      "15,000 feet MSL.",
+      "12,500 feet MSL."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1158",
+    "question": "The most frequent type of ground or surface-based temperature inversion is that which is produced by",
+    "answers": [
+      "terrestrial radiation on a clear, relatively still night.",
+      "warm air being lifted rapidly aloft in the vicinity of mountainous terrain.",
+      "the movement of colder air under warm air, or the movement of warm air over cold air."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1159",
+    "question": "The uncontrolled firing of the fuel/air charge in advance of normal spark ignition is known as",
+    "answers": [
+      "combustion.",
+      "pre-ignition.",
+      "detonation."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1160",
+    "question": "The presence of ice pellets at the surface is evidence that there",
+    "answers": [
+      "are thunderstorms in the area.",
+      "has been a cold frontal passage.",
+      "is a temperature inversion with freezing rain at a higher altitude."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1161",
+    "question": "On the calculator side of the flight computer, time is always found on which scale(s)?",
+    "answers": [
+      "Outer scale.",
+      "Inner scale only.",
+      "Inner scale and far inner scale."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1162",
+    "question": "Select the true statement about BasicMed medical certificate requirements:",
+    "answers": [
+      "A pilot whose medical certificate expired in 2002 does not need to get a current medical to qualify for BasicMed.",
+      "If a pilot has never had a medical certificate, he or she must get one before they qualify to operate under BasicMed.",
+      "A pilot whose medical certificate has been revoked can operate under BasicMed instead of getting his or her medical reinstated."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1165",
+    "question": "(Refer to Figure 19.) How are Significant Weather Prognostic Charts best used by a pilot?",
+    "answers": [
+      "For determining areas to avoid (freezing levels and turbulence).",
+      "For overall planning at all altitudes.",
+      "For analyzing current frontal activity and cloud coverage."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1166",
+    "question": "How soon after the conviction for driving while intoxicated by alcohol or drugs shall it be reported to the FAA, Civil Aviation Security Division?",
+    "answers": [
+      "Required to be reported upon renewal of medical certificate.",
+      "No later than 30 working days after the motor vehicle action.",
+      "No later than 60 days after the motor vehicle action."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1168",
+    "question": "Under the general BasicMed rules a pilot can fly",
+    "answers": [
+      "carrying passengers or cargo for compensation or hire.",
+      "without restrictions outside of the United States.",
+      "in furtherance of a business."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1169",
+    "question": "For aviation purposes, ceiling is defined as the height above the Earth's surface of the",
+    "answers": [
+      "lowest reported obscuration and the highest layer of clouds reported as overcast.",
+      "lowest broken or overcast layer or vertical visibility into an obscuration.",
+      "lowest layer of clouds reported as scattered, broken, or thin."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1170",
+    "question": "The Air Data Computer or ADC",
+    "answers": [
+      "gathers pressure information from spinning gyros.",
+      "combines data from the pitot-static sensors and temperature sensors.",
+      "receives input from the airspeed and altitude indicators."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1171",
+    "question": "If a flight is made from an area of low pressure into an area of high pressure without the altimeter setting being adjusted, the altimeter will indicate",
+    "answers": [
+      "the actual altitude above sea level.",
+      "higher than the actual altitude above sea level.",
+      "lower than the actual altitude above sea level."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1172",
+    "question": "A stable air mass is most likely to have which characteristic?",
+    "answers": [
+      "Showery precipitation.",
+      "Turbulent air.",
+      "Smooth air."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1173",
+    "question": "If the temperature/dewpoint spread is small and decreasing, and the temperature is 62 °F, what type weather is most likely to develop?",
+    "answers": [
+      "Freezing precipitation.",
+      "Thunderstorms.",
+      "Fog or low clouds."
+    ],
+    "correct": 2,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1174",
+    "question": "Magnetic heading is",
+    "answers": [
+      "the number you want to see in the glass of the compass to fly where you want to go.",
+      "the direction the nose is pointed referenced to magnetic north.",
+      "the error in the compass due to magnetic fields in the aircraft."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1175",
+    "question": "To use an MEL a pilot",
+    "answers": [
+      "may download it from the manufacturer's website.",
+      "must receive written approval from the FAA.",
+      "may refer to it in the AFM, no further action is needed."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1176",
+    "question": "In what controlled airspace are you not required to contact ATC when flying in VMC?",
+    "answers": [
+      "TRSA.",
+      "Class C.",
+      "Class D."
+    ],
+    "correct": 0,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "EXT-1177",
+    "question": "FAA advisory circulars (some free, others at cost) are available to all pilots and are obtained by",
+    "answers": [
+      "distribution from the nearest FAA district office.",
+      "ordering those desired from the Government Printing Office.",
+      "subscribing to the Federal Register."
+    ],
+    "correct": 1,
+    "subject": "General",
+    "acs_code": null,
+    "plt_code": null,
+    "figure": null,
+    "source": "external"
+  },
+  {
+    "id": "PVT-0003",
+    "question": "(Refer to figure 36.) Determine the approximate manifold pressure setting with 2,450 RPM to achieve 65 percent maximum continuous power at 6,500 feet with a temperature of 36 °F higher than standard.",
+    "answers": [
+      "19.8 inches Hg.",
+      "20.8 inches Hg.",
+      "21.0 inches Hg."
+    ],
+    "correct": null,
+    "subject": "Aerodynamics",
+    "acs_code": null,
+    "plt_code": "PLT278",
+    "figure": "Figure 36",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0004",
+    "question": "(Refer to figure 36.) Approximately what true airspeed should a pilot expect with 65 percent maximum continuous power at 9,500 feet with a temperature of 36 °F below standard?",
+    "answers": [
+      "178 MPH.",
+      "181 MPH.",
+      "183 MPH."
+    ],
+    "correct": null,
+    "subject": "Regulations",
+    "acs_code": null,
+    "plt_code": "PLT012",
+    "figure": "Figure 36",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0005",
+    "question": "(Refer to figure 8.) What is the effect of a temperature increase from 35 to 50 °F on the density altitude if the pressure altitude remains at 3,000 feet MSL?",
+    "answers": [
+      "1,000-foot increase.",
+      "1,100-foot decrease.",
+      "1,300-foot increase."
+    ],
+    "correct": null,
+    "subject": "Aircraft Systems",
+    "acs_code": null,
+    "plt_code": "PLT124",
+    "figure": "Figure 8",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0006",
+    "question": "(Refer to figure 39.) Determine the approximate landing ground roll distance. Pressure altitude 5,000 ft Headwind Calm Temperature 101 °F",
+    "answers": [
+      "445 feet.",
+      "545 feet.",
+      "495 feet."
+    ],
+    "correct": null,
+    "subject": "Regulations",
+    "acs_code": null,
+    "plt_code": "PLT008",
+    "figure": "Figure 39",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0007",
+    "question": "(Refer to figure 39.) Determine the total distance required to land over a 50-foot obstacle. Pressure altitude 5,000 ft Headwind 8 kts Temperature 41 °F Runway Hard surface",
+    "answers": [
+      "837 feet.",
+      "956 feet.",
+      "1,076 feet."
+    ],
+    "correct": null,
+    "subject": "Regulations",
+    "acs_code": null,
+    "plt_code": "PLT008",
+    "figure": "Figure 39",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0008",
+    "question": "When activated, an emergency locator transmitter (ELT) transmits on",
+    "answers": [
+      "118.0 and 118.8 MHz.",
+      "121.5 and 243.0 MHz.",
+      "123.0 and 119.0 MHz."
+    ],
+    "correct": null,
+    "subject": "Emergency Procedures",
+    "acs_code": null,
+    "plt_code": "PLT402",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0009",
+    "question": "Unless otherwise authorized, if flying a transponder equipped aircraft, a recreational pilot should squawk which VFR code?",
+    "answers": [
+      "1200.",
+      "7600.",
+      "7700."
+    ],
+    "correct": null,
+    "subject": "Emergency Procedures",
+    "acs_code": null,
+    "plt_code": "PLT497",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0013",
+    "question": "(Refer to figure 4.) Which color identifies the normal flap operating range?",
+    "answers": [
+      "The lower limit of the white arc to the upper limit of the green arc.",
+      "The green arc.",
+      "The white arc."
+    ],
+    "correct": null,
+    "subject": "Navigation",
+    "acs_code": null,
+    "plt_code": "PLT088",
+    "figure": "Figure 4",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0014",
+    "question": "(Refer to figure 4.) Which marking identifies the never-exceed speed?",
+    "answers": [
+      "Upper limit of the green arc.",
+      "Upper limit of the white arc.",
+      "The red radial line."
+    ],
+    "correct": null,
+    "subject": "Navigation",
+    "acs_code": null,
+    "plt_code": "PLT088",
+    "figure": "Figure 4",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0016",
+    "question": "(Refer to figure 4.) What is the full flap operating range for the airplane?",
+    "answers": [
+      "60 to 100 MPH.",
+      "60 to 208 MPH.",
+      "65 to 165 MPH."
+    ],
+    "correct": null,
+    "subject": "Navigation",
+    "acs_code": null,
+    "plt_code": "PLT088",
+    "figure": "Figure 4",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0019",
+    "question": "A below glide slope indication from a pulsating approach slope indicator is a",
+    "answers": [
+      "pulsating white light.",
+      "steady white light.",
+      "pulsating red light."
+    ],
+    "correct": null,
+    "subject": "Aircraft Systems",
+    "acs_code": null,
+    "plt_code": "PLT147",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0020",
+    "question": "(Refer to figure 48.) W hile on final approach to a runway equipped with a standard 2-bar VASI, the lig hts appear as shown by illustration D. This means that the aircraft is",
+    "answers": [
+      "above the glide slope.",
+      "below the glide slope.",
+      "on the glide slope."
+    ],
+    "correct": null,
+    "subject": "Aircraft Systems",
+    "acs_code": null,
+    "plt_code": "PLT147",
+    "figure": "Figure 48",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0021",
+    "question": "(See Figure 65.) Which marking indicates a vehicle lane?",
+    "answers": [
+      "A.",
+      "C.",
+      "E."
+    ],
+    "correct": null,
+    "subject": "Aircraft Systems",
+    "acs_code": null,
+    "plt_code": "PLT141",
+    "figure": "Figure 65",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0022",
+    "question": "(Refer to figure 49.) That portion of the runway identified by the letter A may be used for",
+    "answers": [
+      "landing.",
+      "taxiing and takeoff.",
+      "taxiing and landing."
+    ],
+    "correct": null,
+    "subject": "Navigation",
+    "acs_code": null,
+    "plt_code": "PLT077",
+    "figure": "Figure 49",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0023",
+    "question": "The 'yellow demarcation bar' marking indicates",
+    "answers": [
+      "runway with a displaced threshold that precedes the runway.",
+      "a hold line from a taxiway to a runway.",
+      "the beginning of available runway for landing on the approach side."
+    ],
+    "correct": 0,
+    "subject": "Aircraft Systems",
+    "acs_code": null,
+    "plt_code": "PLT141",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0024",
+    "question": "This sign is a visual clue that",
+    "answers": [
+      "confirms the aircraft`s location to be on taxiway \"B.\"",
+      "warns the pilot of approaching taxiway \"B.\"",
+      "indicates \"B\" holding area is ahead."
+    ],
+    "correct": null,
+    "subject": "Aircraft Systems",
+    "acs_code": null,
+    "plt_code": "PLT141",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0028",
+    "question": "(Refer to figure 27, area 3.) When flying over Arrowwood National Wildlife Refuge, a pilot should fly no lower than",
+    "answers": [
+      "2,000 feet AGL.",
+      "2,500 feet AGL.",
+      "3,000 feet AGL."
+    ],
+    "correct": null,
+    "subject": "Airport Operations",
+    "acs_code": null,
+    "plt_code": "PLT376",
+    "figure": "Figure 27",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0031",
+    "question": "When executing an emergency approach to land in a single-engine airplane, it is important to maintain a constant glid e speed because variations in glid e speed",
+    "answers": [
+      "increase the chances of shock cooling the engine.",
+      "assure the proper descent angle is maintained until entering the flare.",
+      "nullify all attempts at accuracy in judgment of gliding distance and landing spot."
+    ],
+    "correct": null,
+    "subject": "Aerodynamics",
+    "acs_code": null,
+    "plt_code": "PLT208",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0032",
+    "question": "Pre-takeoff briefing of passengers for a flig ht is the responsibility of",
+    "answers": [
+      "all passengers.",
+      "the pilot.",
+      "a crewmember."
+    ],
+    "correct": null,
+    "subject": "Emergency Procedures",
+    "acs_code": null,
+    "plt_code": "PLT444",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0033",
+    "question": "What is the antidote when a pilot has a hazardous attitude, such as 'Impulsivity'?",
+    "answers": [
+      "Do it quickly to get it over with.",
+      "It could happen to me.",
+      "Not so fast, think first."
+    ],
+    "correct": null,
+    "subject": "Aircraft Systems",
+    "acs_code": null,
+    "plt_code": "PLT103",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0034",
+    "question": "A pilo t and two passengers landed on a 2,100 foot east-west gravel strip with an elevation of 1,800 feet. The temperature is warmer than expected and after computing the density altitude it is determined the takeoff distance over a 50 foot obstacle is 1,980 feet. The airplane is 75 pounds under gross weight. What would be the best choice?",
+    "answers": [
+      "Takeoff to the west because the headwind will give the extra climb-out time needed.",
+      "Try a takeoff without the passengers to make sure the climb is adequate.",
+      "W ait until the temperature decreases, and recalculate the takeoff performance."
+    ],
+    "correct": null,
+    "subject": "Regulations",
+    "acs_code": null,
+    "plt_code": "PLT011",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0035",
+    "question": "The destination airport has one runway, 08-26, and the wind is calm. The normal approach in calm wind is a left hand pattern to runway 08. There is no other traffi c at the airport. A thunderstorm about 6 miles west is beginning its mature stage, and rain is starting to reach the ground. The pilo t decides to",
+    "answers": [
+      "fly the pattern to runway 08 since the storm is too far away to affect the wind at the airport.",
+      "fly the normal pattern to runway 08 since the storm is west and moving north and any unexpected wind will be from the east or southeast toward the storm.",
+      "fly an approach to runway 26 since any unexpected wind due to the storm will be westerly."
+    ],
+    "correct": null,
+    "subject": "Aerodynamics",
+    "acs_code": null,
+    "plt_code": "PLT271",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0037",
+    "question": "A lack of orientation with regard to the position, attitude, or movement of the aircraft in space is defined as",
+    "answers": [
+      "spatial disorientation.",
+      "hyperventilation.",
+      "hypoxia."
+    ],
+    "correct": null,
+    "subject": "Airport Operations",
+    "acs_code": null,
+    "plt_code": "PLT334",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0039",
+    "question": "(Refer to figure 26, area 5.) The navigation facility at Dallas-Ft. Worth International (DFW) is a",
+    "answers": [
+      "VOR.",
+      "VORTAC.",
+      "VOR/DME."
+    ],
+    "correct": null,
+    "subject": "Aircraft Systems",
+    "acs_code": null,
+    "plt_code": "PLT101",
+    "figure": "Figure 26",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0040",
+    "question": "(Refer to figure 53.) Where is Loup City Municipal located with relation to the city?",
+    "answers": [
+      "Northeast approximately 3 mile s.",
+      "Northwest approximately 1 mile.",
+      "East approximately 10 mile s."
+    ],
+    "correct": null,
+    "subject": "Navigation",
+    "acs_code": null,
+    "plt_code": "PLT078",
+    "figure": "Figure 53",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0041",
+    "question": "(Refer to figure 27, area 2.) The day VFR visibility and cloud clearance requirements to operate over the town of Cooperstown, after departing and climbing out of the Cooperstown Airport at or below 700 feet AGL are",
+    "answers": [
+      "1 mile and clear of clouds.",
+      "1 mile and 1,000 feet above, 500 feet below, and 2,000 feet horizontally from clouds.",
+      "3 miles and clear of clouds."
+    ],
+    "correct": null,
+    "subject": "Navigation",
+    "acs_code": null,
+    "plt_code": "PLT064",
+    "figure": "Figure 27",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0042",
+    "question": "(Refer to figure 52.) W hat information should be entered in block 12 for a VFR day flight?",
+    "answers": [
+      "The actual time enroute expressed in hours and minutes.",
+      "The estimated time in enroute expressed in hours and minutes.",
+      "The total amount of usable fuel onboard expressed in hours and minutes."
+    ],
+    "correct": null,
+    "subject": "Emergency Procedures",
+    "acs_code": null,
+    "plt_code": "PLT455",
+    "figure": "Figure 52",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0043",
+    "question": "(Refer to figure 53.) What is the recommended communications procedure for landing at Lincoln Municipal during the hours when the tower is not in operation?",
+    "answers": [
+      "Monitor airport traffic and announce your position and intentions on 118.5 MHz.",
+      "Contact UNICOM on 122.95 MHz for traffic advisories.",
+      "Monitor ATIS for airport conditions, then announce your position on 122.95 MHz."
+    ],
+    "correct": null,
+    "subject": "Navigation",
+    "acs_code": null,
+    "plt_code": "PLT078",
+    "figure": "Figure 53",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0044",
+    "question": "(Refer to figure 53.) When approaching Lincoln Municipal from the west at noon for the purpose of landing, initial communications should be with",
+    "answers": [
+      "Lincoln Approach Control on 124.0 MHz.",
+      "Minneapolis Center on 128.75 MHz.",
+      "Lincoln Tower on 118.5 MHz."
+    ],
+    "correct": null,
+    "subject": "Navigation",
+    "acs_code": null,
+    "plt_code": "PLT078",
+    "figure": "Figure 53",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0045",
+    "question": "To use VHF/DF facilities for assistance in locating an aircraft's position, the aircraft must have a",
+    "answers": [
+      "VHF transmitter and receiver.",
+      "4096-code transponder.",
+      "VOR receiver and DME."
+    ],
+    "correct": null,
+    "subject": "Airport Operations",
+    "acs_code": null,
+    "plt_code": "PLT362",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0046",
+    "question": "When the course deviation indicator (CDI) needle is centered during an omnireceiver check using a VOR test signal (VOT), the omnibearing selector (OBS) and the TO/FROM indicator should read",
+    "answers": [
+      "180° FROM, only if the pilot is due north of the VOT.",
+      "0° TO or 180° FROM, regardless of the pilot's position from the VOT.",
+      "0° FROM or 180° TO, regardless of the pilot's position from the VOT."
+    ],
+    "correct": 2,
+    "subject": "Aerodynamics",
+    "acs_code": null,
+    "plt_code": "PLT300",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0047",
+    "question": "(Refer to figure 21, area 1.) The NALF Fentress (NFE) Airport is in what type of airspace?",
+    "answers": [
+      "Class C.",
+      "Class E.",
+      "Class G."
+    ],
+    "correct": null,
+    "subject": "Navigation",
+    "acs_code": null,
+    "plt_code": "PLT064",
+    "figure": "Figure 21",
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0048",
+    "question": "Which approach and landing objective is assured when the pilot remains on the proper glidepath of the VASI?",
+    "answers": [
+      "Runway identification and course guidance.",
+      "Safe obstruction clearance in the approach area.",
+      "Lateral course guidance to the runway."
+    ],
+    "correct": null,
+    "subject": "Aircraft Systems",
+    "acs_code": null,
+    "plt_code": "PLT147",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0049",
+    "question": "With respect to the certification of airmen, which is a category of aircraft?",
+    "answers": [
+      "Gyroplane, helicopter, airship, free balloon.",
+      "Airplane, rotorcraft, glider, lighter-than-air.",
+      "Single-engine land and sea, multiengine land and sea."
+    ],
+    "correct": null,
+    "subject": "Airport Operations",
+    "acs_code": null,
+    "plt_code": "PLT371",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0050",
+    "question": "The width of a Federal Airway from either side of the centerline is",
+    "answers": [
+      "4 nautical miles.",
+      "6 nautical miles.",
+      "8 nautical miles."
+    ],
+    "correct": null,
+    "subject": "Weather",
+    "acs_code": null,
+    "plt_code": "PLT162",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0051",
+    "question": "A 100-hour inspection was due at 3302.5 hours. The 100-hour inspection was actually done at 3309.5 hours. W hen is the next 100-hour inspection due?",
+    "answers": [
+      "3312.5 hours.",
+      "3395.5 hours.",
+      "3402.5 hours."
+    ],
+    "correct": null,
+    "subject": "Airport Operations",
+    "acs_code": null,
+    "plt_code": "PLT372",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0052",
+    "question": "In which class of airspace is acrobatic flight prohibited?",
+    "answers": [
+      "Class E airspace not designated for Federal Airways above 1,500 feet AGL.",
+      "Class E airspace below 1,500 feet AGL.",
+      "Class G airspace above 1,500 feet AGL."
+    ],
+    "correct": null,
+    "subject": "Airport Operations",
+    "acs_code": null,
+    "plt_code": "PLT369",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0053",
+    "question": "During operations outside controlled airspace at altitudes of more than 1,200 feet AGL, but less than 10,000 feet MSL, the minimum flight visibility for VFR flight at night is",
+    "answers": [
+      "1 mile.",
+      "3 miles.",
+      "5 miles."
+    ],
+    "correct": null,
+    "subject": "Weather",
+    "acs_code": null,
+    "plt_code": "PLT163",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0057",
+    "question": "The operator of an aircraft that has been involved in an accident is required to file an NTSB accident report within how many days?",
+    "answers": [
+      "5.",
+      "7.",
+      "10."
+    ],
+    "correct": 2,
+    "subject": "Airport Operations",
+    "acs_code": null,
+    "plt_code": "PLT366",
+    "figure": null,
+    "source": "pdf"
+  },
+  {
+    "id": "PVT-0058",
+    "question": "To determine the freezing level and areas of probable icing aloft, the pilot should refer to the",
+    "answers": [
+      "Inflight Aviation Weather Advisories.",
+      "Weather Depiction Chart.",
+      "Area Forecast."
+    ],
+    "correct": 2,
+    "subject": "Aerodynamics",
+    "acs_code": null,
+    "plt_code": "PLT274",
     "figure": null,
     "source": "pdf"
   },

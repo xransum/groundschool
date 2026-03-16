@@ -2,6 +2,7 @@
  * scrape command -- one-shot data collection.
  *
  * Downloads the FAA PAR question bank PDF from the Wayback Machine,
+ * fetches the external community question bank (github.com/hhaste/faa-knowledge-exam),
  * fetches the acronyms dataset from pplground, optionally supplements
  * with PSI portal questions, and writes the results to src/data/.
  *
@@ -15,6 +16,7 @@ import { fileURLToPath } from 'url';
 
 import { scrapePdf } from '../scraper/pdf.js';
 import { scrapePsi } from '../scraper/psi.js';
+import { fetchExternalQuestions } from '../scraper/external.js';
 import { fetchAcronyms } from '../scraper/acronyms.js';
 import { mergeQuestions, summarize } from '../scraper/normalize.js';
 
@@ -36,7 +38,7 @@ export async function runScrape(opts = {}) {
   console.log('='.repeat(50));
 
   // Step 1: PDF question bank (primary source)
-  console.log('\n[1/3] FAA PAR question bank (Wayback Machine PDF)');
+  console.log('\n[1/4] FAA PAR question bank (Wayback Machine PDF)');
   let pdfQuestions = [];
   try {
     pdfQuestions = await scrapePdf();
@@ -49,7 +51,7 @@ export async function runScrape(opts = {}) {
   // Step 2: PSI portal supplement (optional)
   let psiQuestions = [];
   if (!skipPsi) {
-    console.log('\n[2/3] PSI sample test portal (supplement)');
+    console.log('\n[2/4] PSI sample test portal (supplement)');
     try {
       psiQuestions = await scrapePsi();
     } catch (err) {
@@ -57,11 +59,22 @@ export async function runScrape(opts = {}) {
       console.warn('  Continuing with PDF data only');
     }
   } else {
-    console.log('\n[2/3] PSI sample test portal -- skipped (--skip-psi)');
+    console.log('\n[2/4] PSI sample test portal -- skipped (--skip-psi)');
   }
 
-  // Step 3: Acronyms
-  console.log('\n[3/3] Acronyms from xransum/pplground');
+  // Step 3: External community question bank (github.com/hhaste/faa-knowledge-exam)
+  console.log('\n[3/4] External community bank (hhaste/faa-knowledge-exam)');
+  let externalQuestions = [];
+  try {
+    externalQuestions = await fetchExternalQuestions();
+    console.log(`  Fetched ${externalQuestions.length} questions`);
+  } catch (err) {
+    console.warn(`  External fetch failed: ${err.message}`);
+    console.warn('  Continuing without external bank');
+  }
+
+  // Step 4: Acronyms
+  console.log('\n[4/4] Acronyms from xransum/pplground');
   let acronyms = {};
   try {
     acronyms = await fetchAcronyms();
@@ -72,7 +85,7 @@ export async function runScrape(opts = {}) {
 
   // Merge and deduplicate questions
   console.log('\nMerging and deduplicating questions...');
-  const questions = mergeQuestions([pdfQuestions, psiQuestions]);
+  const questions = mergeQuestions([pdfQuestions, psiQuestions, externalQuestions]);
 
   const stats = summarize(questions);
   console.log('\nResults:');
