@@ -1,0 +1,8 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+
+# Only dist/ and node_modules are ignored.
+# src/data/questions.json and src/data/acronyms.json ARE committed --
+# they are the one-shot scraped dataset, not generated build artifacts.
