@@ -1,0 +1,202 @@
+[
+  {
+    "id": "oral-001",
+    "topic": "Airspace",
+    "acs_code": "PA.I.B.K1",
+    "question": "What are the basic VFR weather minimums for Class B airspace?",
+    "answer": "3 statute miles visibility and clear of clouds.",
+    "references": ["14 CFR 91.155", "AIM 3-2-3"]
+  },
+  {
+    "id": "oral-002",
+    "topic": "Airspace",
+    "acs_code": "PA.I.B.K1",
+    "question": "What are the cloud clearance requirements for Class G airspace below 1,200 AGL during the day?",
+    "answer": "Clear of clouds, 1 statute mile visibility.",
+    "references": ["14 CFR 91.155"]
+  },
+  {
+    "id": "oral-003",
+    "topic": "Airspace",
+    "acs_code": "PA.I.B.K1",
+    "question": "What equipment is required to operate in Class B airspace?",
+    "answer": "Two-way radio, Mode C transponder (ADS-B Out required after Jan 1, 2020), and an operable VOR receiver or suitable RNAV system if flying on a Victor airway.",
+    "references": ["14 CFR 91.215", "14 CFR 91.225", "AIM 3-2-3"]
+  },
+  {
+    "id": "oral-004",
+    "topic": "Airspace",
+    "acs_code": "PA.I.B.K1",
+    "question": "What is the speed limit below Class B airspace and within a Class C or D surface area?",
+    "answer": "250 knots IAS below 10,000 MSL; 200 knots within 4 NM of a Class C or D airport at or below 2,500 AGL.",
+    "references": ["14 CFR 91.117"]
+  },
+  {
+    "id": "oral-005",
+    "topic": "Regulations",
+    "acs_code": "PA.I.C.K1",
+    "question": "What documents must be on board the aircraft before flight?",
+    "answer": "ARROW: Airworthiness certificate, Registration, Radio station license (required for international ops), Operating handbook (AFM/POH), Weight and balance data.",
+    "references": ["14 CFR 91.9", "14 CFR 91.203"]
+  },
+  {
+    "id": "oral-006",
+    "topic": "Regulations",
+    "acs_code": "PA.I.C.K1",
+    "question": "What inspections are required for an aircraft to be airworthy?",
+    "answer": "Annual inspection (14 CFR 91.409), 100-hour inspection if used for hire (14 CFR 91.409(b)), VOR check every 30 days (IFR), ELT battery inspection (14 CFR 91.207), and transponder every 24 calendar months (14 CFR 91.413).",
+    "references": ["14 CFR 91.409", "14 CFR 91.413"]
+  },
+  {
+    "id": "oral-007",
+    "topic": "Regulations",
+    "acs_code": "PA.I.C.K2",
+    "question": "What currency requirements must a pilot meet to carry passengers?",
+    "answer": "Three takeoffs and three landings within the preceding 90 days in the same category, class, and type (if type rating required). For night passenger operations, the landings must be to a full stop.",
+    "references": ["14 CFR 61.57"]
+  },
+  {
+    "id": "oral-008",
+    "topic": "Regulations",
+    "acs_code": "PA.I.C.K2",
+    "question": "What are the medical certificate requirements for a private pilot?",
+    "answer": "A third-class (or higher) medical is required unless operating under BasicMed. Third-class is valid for 60 calendar months for pilots under age 40 and 24 calendar months for those 40 and older.",
+    "references": ["14 CFR 61.23", "14 CFR 68"]
+  },
+  {
+    "id": "oral-009",
+    "topic": "Weather",
+    "acs_code": "PA.I.C.K3",
+    "question": "What weather products should you review during preflight planning?",
+    "answer": "METARs and TAFs for departure, en route, and destination; PIREPs; AIRMETs and SIGMETs; area forecast (FA); winds aloft forecast (FB); NOTAMs.",
+    "references": ["AIM 7-1-3", "AIM 7-1-4"]
+  },
+  {
+    "id": "oral-010",
+    "topic": "Weather",
+    "acs_code": "PA.I.C.K3",
+    "question": "What conditions are required for a SIGMET to be issued?",
+    "answer": "Severe or extreme turbulence, severe icing not associated with thunderstorms, widespread dust storms or sandstorms lowering vis below 3 miles, volcanic ash, and for Convective SIGMETs: severe thunderstorms, embedded thunderstorms, or tornadoes.",
+    "references": ["AIM 7-1-6"]
+  },
+  {
+    "id": "oral-011",
+    "topic": "Weather",
+    "acs_code": "PA.I.C.K3",
+    "question": "What is a PIREP and when should you file one?",
+    "answer": "A PIREP (Pilot Report) is an observation of actual flight conditions reported by a pilot in flight. You should file one whenever you encounter conditions significantly different from the forecast, including icing, turbulence, unusual winds, or visibility below 5 miles.",
+    "references": ["AIM 7-1-20"]
+  },
+  {
+    "id": "oral-012",
+    "topic": "Performance",
+    "acs_code": "PA.I.D.K1",
+    "question": "What factors affect aircraft takeoff performance?",
+    "answer": "Density altitude (temperature, pressure altitude, humidity), aircraft weight, headwind/tailwind component, runway surface and slope, aircraft configuration (flaps).",
+    "references": ["FAA-H-8083-25B Ch. 11"]
+  },
+  {
+    "id": "oral-013",
+    "topic": "Performance",
+    "acs_code": "PA.I.D.K1",
+    "question": "How does density altitude affect performance?",
+    "answer": "High density altitude reduces engine power output, decreases propeller efficiency, and increases the true airspeed required for liftoff -- all degrading takeoff and climb performance. It also increases landing roll. DA is highest on hot, high-elevation, humid days.",
+    "references": ["FAA-H-8083-25B Ch. 11"]
+  },
+  {
+    "id": "oral-014",
+    "topic": "Systems",
+    "acs_code": "PA.I.F.K1",
+    "question": "What are the indications of carburetor ice, and how do you deal with it?",
+    "answer": "Unexplained drop in RPM (fixed pitch) or MP (constant speed) in conditions of high humidity and temperatures between -10 C and +30 C. Apply full carburetor heat immediately. RPM may initially drop further as ice melts; continued operation with carb heat on should restore power.",
+    "references": ["FAA-H-8083-25B Ch. 7"]
+  },
+  {
+    "id": "oral-015",
+    "topic": "Systems",
+    "acs_code": "PA.I.F.K1",
+    "question": "What is the purpose of the aircraft's primer?",
+    "answer": "The primer draws fuel from the tanks and injects it directly into the cylinder intake ports (or intake manifold), providing a richer mixture for cold engine starts where the carburetor alone may not provide adequate fuel vaporization.",
+    "references": ["FAA-H-8083-25B Ch. 7"]
+  },
+  {
+    "id": "oral-016",
+    "topic": "Navigation",
+    "acs_code": "PA.VI.A.K1",
+    "question": "What is the difference between true, magnetic, and compass headings?",
+    "answer": "True heading is measured from true north. Magnetic heading corrects for magnetic variation (the difference between true and magnetic north). Compass heading further corrects for compass deviation -- error caused by the aircraft's own magnetic fields. TVMDC: True + Variation = Magnetic + Deviation = Compass (using east is least, west is best).",
+    "references": ["FAA-H-8083-25B Ch. 16"]
+  },
+  {
+    "id": "oral-017",
+    "topic": "Navigation",
+    "acs_code": "PA.VI.A.K1",
+    "question": "How do you determine fuel required for a cross-country flight?",
+    "answer": "Calculate total flight time based on distance and true airspeed. Multiply by fuel burn rate (GPH from POH performance tables at planned power setting and altitude). Add reserves: VFR day requires 30 minutes reserve; VFR night requires 45 minutes reserve.",
+    "references": ["14 CFR 91.151", "FAA-H-8083-25B Ch. 16"]
+  },
+  {
+    "id": "oral-018",
+    "topic": "Emergency Procedures",
+    "acs_code": "PA.IX.A.K1",
+    "question": "What is your procedure for an engine failure after takeoff?",
+    "answer": "Maintain best glide speed (Vg from POH). Do not attempt to return to the runway if below 1,000 AGL -- select the best available field ahead. Attempt a restart only if time permits (fuel, mixture, ignition check). Squawk 7700, declare emergency on 121.5 if time allows. Secure the aircraft before touchdown (fuel off, ignition off, mixture idle cutoff, master off, seatbelts tight).",
+    "references": ["FAA-H-8083-25B Ch. 17", "POH Emergency Section"]
+  },
+  {
+    "id": "oral-019",
+    "topic": "Emergency Procedures",
+    "acs_code": "PA.IX.A.K1",
+    "question": "What is the best glide speed and why is it important?",
+    "answer": "Best glide speed (Vg or Vbg) gives the maximum glide distance per altitude lost -- it is the speed that produces the best lift-to-drag ratio. Flying faster or slower than Vg reduces glide distance. It is found in the POH and is typically marked on the airspeed indicator.",
+    "references": ["FAA-H-8083-25B Ch. 9", "POH"]
+  },
+  {
+    "id": "oral-020",
+    "topic": "ADM",
+    "acs_code": "PA.I.A.K1",
+    "question": "What is IMSAFE and when do you use it?",
+    "answer": "A personal preflight checklist: Illness (any symptoms?), Medication (any drugs or OTC meds that affect performance?), Stress (psychological pressures?), Alcohol (8 hours bottle to throttle, BAC below 0.04, not impaired), Fatigue (well rested?), Eating/Emotion (properly nourished, emotionally stable?). Use it before every flight.",
+    "references": ["FAA-H-8083-25B Ch. 2", "AIM 8-1-1"]
+  },
+  {
+    "id": "oral-021",
+    "topic": "ADM",
+    "acs_code": "PA.I.A.K1",
+    "question": "What are the hazardous attitudes in aeronautical decision making and their antidotes?",
+    "answer": "Anti-authority (Follow the rules -- they are usually right), Impulsivity (Not so fast -- think first), Invulnerability (It could happen to me), Macho (Taking chances is foolish), Resignation (I'm not helpless -- I can make a difference).",
+    "references": ["FAA-H-8083-25B Ch. 2"]
+  },
+  {
+    "id": "oral-022",
+    "topic": "Airport Operations",
+    "acs_code": "PA.III.A.K1",
+    "question": "What is the traffic pattern altitude and direction at an uncontrolled airport?",
+    "answer": "Standard traffic pattern altitude is 1,000 AGL. Standard pattern is left-hand turns unless indicated otherwise by a segmented circle or NOTAM. Check the Chart Supplement and NOTAMs for non-standard patterns.",
+    "references": ["AIM 4-3-2", "14 CFR 91.126"]
+  },
+  {
+    "id": "oral-023",
+    "topic": "Airport Operations",
+    "acs_code": "PA.III.B.K3",
+    "question": "When should a pilot decline a LAHSO clearance?",
+    "answer": "When the pilot cannot safely complete the landing within the LAHSO distance (landing distance available, or LDA), when the aircraft performance is marginal, when the runway is wet or contaminated and stopping distance increases, when load or other conditions affect performance, or any time the pilot is uncomfortable with the operation. The pilot is not required to accept a LAHSO clearance.",
+    "references": ["AIM 4-3-11", "FAA-H-8083-25B"]
+  },
+  {
+    "id": "oral-024",
+    "topic": "Aerodynamics",
+    "acs_code": "PA.I.F.K2",
+    "question": "What is a stall, and what causes it?",
+    "answer": "A stall occurs when the wing exceeds its critical angle of attack (approximately 15-18 degrees for most general aviation aircraft). Airflow separates from the upper wing surface, destroying lift. Stalls can occur at any airspeed, any pitch attitude, and any power setting -- they are purely a function of angle of attack.",
+    "references": ["FAA-H-8083-25B Ch. 4"]
+  },
+  {
+    "id": "oral-025",
+    "topic": "Aerodynamics",
+    "acs_code": "PA.I.F.K2",
+    "question": "What is load factor and how does it change in a coordinated turn?",
+    "answer": "Load factor is the ratio of lift to the aircraft's weight (expressed in Gs). In a coordinated level turn, load factor increases as bank angle increases. At 60 degrees of bank, load factor is 2.0 Gs; at 45 degrees it is approximately 1.41 Gs. Stall speed also increases in proportion to the square root of the load factor.",
+    "references": ["FAA-H-8083-25B Ch. 4"]
+  }
+]

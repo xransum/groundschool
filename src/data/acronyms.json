@@ -1,0 +1,5314 @@
+{
+  "A&E": [
+    "Architecture and Engineering"
+  ],
+  "A/C": [
+    "Aircraft"
+  ],
+  "A/G": [
+    "Air to Ground"
+  ],
+  "A/H": [
+    "Altitude/Height"
+  ],
+  "AAA": [
+    "Airport Airspace Analysis"
+  ],
+  "AAC": [
+    "Mike Monroney Aeronautical Center",
+    "Approval, acceptance, concurrence"
+  ],
+  "AADC": [
+    "Airport Average Daily Capacity"
+  ],
+  "AAF": [
+    "Airway Facilities Service",
+    "Army Air Field"
+  ],
+  "AAF-1": [
+    "Director of Airway Facilities"
+  ],
+  "AAI": [
+    "Arrival Aircraft Interval",
+    "FAA Office of Accident Investigation"
+  ],
+  "AAL": [
+    "Alaska Region"
+  ],
+  "AAM": [
+    "Office of Aerospace Medicine"
+  ],
+  "AAMS": [
+    "Aircraft Arrival Management System"
+  ],
+  "AAP": [
+    "Advanced Automation Program"
+  ],
+  "AAR": [
+    "After Action Review",
+    "Airport Acceptance Rate",
+    "Airport and Aircraft Safety Research and Development"
+  ],
+  "AAS": [
+    "Advanced Automation System"
+  ],
+  "AASR": [
+    "Aging Aircraft Safety Rule"
+  ],
+  "AAT": [
+    "Associate Administrator for Air Traffic"
+  ],
+  "ABA": [
+    "FAA Office of Financial Services",
+    "Office of Budget"
+  ],
+  "ABDIS": [
+    "Automated Data Interchange System Service"
+  ],
+  "AC": [
+    "Advisory Circular"
+  ],
+  "ACAA": [
+    "Air Carrier Association of America"
+  ],
+  "ACAIS": [
+    "Air Carrier Activity Information System"
+  ],
+  "ACAS": [
+    "Aircraft Collision Avoidance System"
+  ],
+  "ACC": [
+    "Airports Consultants Council",
+    "Area Control Center"
+  ],
+  "ACCT": [
+    "Accounting Records"
+  ],
+  "ACD": [
+    "Automatic Call Distributor"
+  ],
+  "ACDO": [
+    "Air Carrier District Office"
+  ],
+  "ACE": [
+    "Central Region"
+  ],
+  "ACEP": [
+    "Airport Capacity Enhancement Plan"
+  ],
+  "ACF": [
+    "Area Control Facility"
+  ],
+  "ACFO": [
+    "Aircraft Certification Field Office"
+  ],
+  "ACFT": [
+    "Aircraft"
+  ],
+  "ACI-NA": [
+    "Airports Council International-North America"
+  ],
+  "ACID": [
+    "Aircraft Identification"
+  ],
+  "ACIP": [
+    "Airport Capital Improvement Plan",
+    "Automated Conformity Inspection Process"
+  ],
+  "ACLS": [
+    "Automatic Carrier Landing System"
+  ],
+  "ACLT": [
+    "Actual Landing Time Calculated"
+  ],
+  "ACO": [
+    "Aircraft Certification Office",
+    "Associate Contracting Officer",
+    "Office of Airports Compliance and Field Operations"
+  ],
+  "ACR": [
+    "FAA Office of Civil Rights"
+  ],
+  "ACRP": [
+    "Airport Cooperative Research Program"
+  ],
+  "ACS": [
+    "Airman Certification Standards"
+  ],
+  "ACSEP": [
+    "Aircraft Certification Systems Evaluation Program"
+  ],
+  "ACT": [
+    "William J. Hughes Technical Center"
+  ],
+  "AD": [
+    "Airworthiness Directive"
+  ],
+  "ADA": [
+    "Air Defense Area"
+  ],
+  "ADAP": [
+    "Airport Development Aid Program"
+  ],
+  "ADAS": [
+    "Automated Weather Observing System Data Acquisition System",
+    "AWOS Data Acquisition System"
+  ],
+  "ADC": [
+    "Air Defense Command"
+  ],
+  "ADCCP": [
+    "Advanced Data Communications Control Procedure"
+  ],
+  "ADDA": [
+    "Administrative Data"
+  ],
+  "ADDS": [
+    "Aviation Digital Data Service"
+  ],
+  "ADF": [
+    "Automatic Direction Finding"
+  ],
+  "ADI": [
+    "Automatic De-Ice and Inhibitor"
+  ],
+  "ADIC": [
+    "ATS Interfacility Data Communications"
+  ],
+  "ADIN": [
+    "AUTODIN Service"
+  ],
+  "ADIZ": [
+    "Air Defense Identification Zone"
+  ],
+  "ADL": [
+    "Aeronautical Data Link"
+  ],
+  "ADLO": [
+    "Air Defense Liaison Office"
+  ],
+  "ADLY": [
+    "Arrival Delay"
+  ],
+  "ADM": [
+    "Aeronautical Decision Making"
+  ],
+  "ADO": [
+    "Airline Dispatch Office",
+    "Airport District Office"
+  ],
+  "ADP": [
+    "Automated Data Processing"
+  ],
+  "ADS": [
+    "Automated Distribution System",
+    "Air Defense Sector",
+    "Automatic Dependent Surveillance"
+  ],
+  "ADS-B": [
+    "Automatic Dependent Surveillance-Broadcast"
+  ],
+  "ADSIM": [
+    "Airfield Delay Simulation Model"
+  ],
+  "ADSY": [
+    "Administrative Equipment Systems"
+  ],
+  "ADTN": [
+    "Administrative Data Transmission Network"
+  ],
+  "ADTN2000": [
+    "Administrative Data Transmission Network 2000"
+  ],
+  "ADVO": [
+    "Administrative Voice"
+  ],
+  "AEA": [
+    "Eastern Region"
+  ],
+  "AED": [
+    "Aircraft Evaluation Division",
+    "Automated External Defibrillator"
+  ],
+  "AEDT": [
+    "Aviation Environmental Design Tool"
+  ],
+  "AEE": [
+    "FAA Office of Environment and Energy"
+  ],
+  "AEEC": [
+    "Airlines Electronic Engineering Committee"
+  ],
+  "AEP": [
+    "FAA Office of Aviation Policy Planning and Environment"
+  ],
+  "AERA": [
+    "Automated En-Route Air Traffic Control"
+  ],
+  "AEX": [
+    "Automated Execution"
+  ],
+  "AF": [
+    "Air Force",
+    "Airway Facilities"
+  ],
+  "AFB": [
+    "Air Force Base"
+  ],
+  "AFDSS": [
+    "Air Fix Data Sub Set"
+  ],
+  "AFER": [
+    "Aircraft Fuel Expense Reconciliation System"
+  ],
+  "AFIS": [
+    "Automated Flight Inspection System"
+  ],
+  "AFMS": [
+    "Automatic Flight Management System"
+  ],
+  "AFMT": [
+    "Airway Facilities Management Team"
+  ],
+  "AFO": [
+    "Airport Field Office"
+  ],
+  "AFP": [
+    "Airspace Flow Program",
+    "Area Flight Plan"
+  ],
+  "AFRES": [
+    "Air Force Reserve Station"
+  ],
+  "AFS": [
+    "Airways Facilities Sector",
+    "Flight Standards Service"
+  ],
+  "AFSFO": [
+    "AFS Field Office"
+  ],
+  "AFSFU": [
+    "AFS Field Unit"
+  ],
+  "AFSOU": [
+    "AFS Field Office Unit (Standard is AFSFOU)"
+  ],
+  "AFSS": [
+    "Automated Flight Service Station"
+  ],
+  "AFTIL": [
+    "Airway Facilities Tower Integration Laboratory"
+  ],
+  "AFTN": [
+    "Automated Fixed Telecommunications Network"
+  ],
+  "AFZ": [
+    "Resource Management"
+  ],
+  "AGC": [
+    "FAA Office of the Chief Counsel"
+  ],
+  "AGHME": [
+    "Aircraft Geometric Height Measurement Element"
+  ],
+  "AGI": [
+    "FAA Office of Government and Industry Affairs"
+  ],
+  "AGL": [
+    "Above Ground Level",
+    "Alliance Great Lakes Region"
+  ],
+  "AHR": [
+    "FAA Office of Human Resources"
+  ],
+  "AICS": [
+    "Aircraft Inventory and Charter System"
+  ],
+  "AID": [
+    "Airport Information Desk"
+  ],
+  "AIT": [
+    "Information Technology Service",
+    "Automated Information Transfer"
+  ],
+  "AIFSS": [
+    "Automated International Flight Service"
+  ],
+  "AIG": [
+    "Airbus Industries Group"
+  ],
+  "AILS": [
+    "Automatic Instrument Landing System"
+  ],
+  "AIM": [
+    "Aeronautical Information Manual",
+    "Airman's Information Manual"
+  ],
+  "AIP": [
+    "Aeronautical Information Publication",
+    "Airport Improvement Plan",
+    "Airport Improvement Program"
+  ],
+  "AIPA": [
+    "Aeronautical Information Production Application"
+  ],
+  "AIR": [
+    "Aircraft Certification Service"
+  ],
+  "AIRMET": [
+    "Airmen's Meteorological Information"
+  ],
+  "AIRNAV": [
+    "Airports and Navigation Aids Database System"
+  ],
+  "AIRNET": [
+    "Airport Network Simulation Model"
+  ],
+  "AIRPAC": [
+    "Advisor for the Intelligent Resolution of Predicted Aircraft"
+  ],
+  "AIS": [
+    "Aeronautical Information Service",
+    "Aeronautical Information System",
+    "FAA Office of Information Systems Security"
+  ],
+  "AITS": [
+    "Automated Inventory Tracking System"
+  ],
+  "AJA": [
+    "Acquisition & Business Services, Air Traffic Organization"
+  ],
+  "AJC": [
+    "Communications Services, Air Traffic Organization"
+  ],
+  "AJE": [
+    "En Route & Oceanic Service, Air Traffic Organization"
+  ],
+  "AJF": [
+    "Finance Services, Air Traffic Organization"
+  ],
+  "AJO": [
+    "Chief Operating Officer, Air Traffic Organization"
+  ],
+  "AJP": [
+    "Operations Planning Services, Air Traffic Organization"
+  ],
+  "AJR": [
+    "System Operations Services, Air Traffic Organization"
+  ],
+  "AJS": [
+    "Safety Services, Air Traffic Organization"
+  ],
+  "AJT": [
+    "Terminal Service, Air Traffic Organization"
+  ],
+  "AJW": [
+    "Technical Operation Services, Air Traffic Organization"
+  ],
+  "ALO": [
+    "Aviation Logistics Organization"
+  ],
+  "ALP": [
+    "Airport Layout Plan"
+  ],
+  "ALPA": [
+    "Airlines Pilots Association"
+  ],
+  "ALS": [
+    "Approach Lighting System"
+  ],
+  "ALSF": [
+    "Approach Lighting System With Sequenced Flashing Lights"
+  ],
+  "ALSF1": [
+    "ALS with Sequenced Flashers I"
+  ],
+  "ALSF2": [
+    "ALS with Sequenced Flashers II"
+  ],
+  "ALSIP": [
+    "Approach Lighting System Improvement Plan"
+  ],
+  "ALTRV": [
+    "Altitude Reservation"
+  ],
+  "AMASS": [
+    "Airport Movement Area Safety System"
+  ],
+  "AMC": [
+    "Mike Monroney Aeronautical Center"
+  ],
+  "AMCC": [
+    "ACF/ARTCC Maintenance Control Center",
+    "Air Route Traffic Control Center Maintenance Control Center"
+  ],
+  "AMIC": [
+    "Area Manager in Charge"
+  ],
+  "AMIS": [
+    "Aircraft Management Information System"
+  ],
+  "AMOC": [
+    "Alternative Methods of Compliance"
+  ],
+  "AMOS": [
+    "Automated Meteorological Observation Station"
+  ],
+  "AMP": [
+    "ARINC Message Processor (OR) Airport Master Plan"
+  ],
+  "AMS": [
+    "Acquisition Management System"
+  ],
+  "AMT": [
+    "Aviation Maintenance Technician"
+  ],
+  "AMVER": [
+    "Automated Mutual Assistance Vessel Rescue System"
+  ],
+  "ANC": [
+    "Alternate Network Connectivity"
+  ],
+  "ANCA": [
+    "Airport Noise and Capacity Act"
+  ],
+  "AND": [
+    "Associate Administrator for NAS Development"
+  ],
+  "ANE": [
+    "New England Region"
+  ],
+  "ANG": [
+    "Air National Guard"
+  ],
+  "ANGB": [
+    "Air National Guard Base"
+  ],
+  "ANM": [
+    "Northwest Mountain Region"
+  ],
+  "ANMS": [
+    "Automated Network Monitoring System"
+  ],
+  "ANS": [
+    "NAS Transition and Integration Directorate",
+    "NAS Transitions and Implementation"
+  ],
+  "ANSI": [
+    "American National Standards Institute"
+  ],
+  "ANSP": [
+    "Air Navigation Service Providers"
+  ],
+  "AO": [
+    "Authorizing Official"
+  ],
+  "AOA": [
+    "Air Operations Area",
+    "FAA Office of the Administrator"
+  ],
+  "AOAS": [
+    "Advanced Oceanic Automation System"
+  ],
+  "AOC": [
+    "Airline Operational Control Center",
+    "FAA Office of Communications"
+  ],
+  "AOCC": [
+    "Atlantic Operations Control Center"
+  ],
+  "AODR": [
+    "Authorizing Official Designated Representative"
+  ],
+  "AOP": [
+    "NAS Operations"
+  ],
+  "AOPA": [
+    "Aircraft Owners and Pilots Association"
+  ],
+  "AOS": [
+    "Operational Support Service"
+  ],
+  "AOV": [
+    "Air Traffic Safety Oversight Service"
+  ],
+  "AP": [
+    "Acquisition Plan"
+  ],
+  "APB": [
+    "Acquisition Program Baselines"
+  ],
+  "APG": [
+    "Airport Planning Guidance",
+    "Agency Priority Goals"
+  ],
+  "API": [
+    "Office of Policy and International Affairs"
+  ],
+  "APL": [
+    "Policy, International Affairs and Environment"
+  ],
+  "APM": [
+    "Approach Path Monitor"
+  ],
+  "APO": [
+    "Office of Aviation Policy and Plans"
+  ],
+  "APP": [
+    "Approach",
+    "Agency Performance Plan"
+  ],
+  "APR": [
+    "Agency Performance Report"
+  ],
+  "APS": [
+    "Airport Planning Standard"
+  ],
+  "APTS": [
+    "Automated Personnel Tracking System",
+    "AVN (Aviation Systems Standards) Process Tracking System"
+  ],
+  "AQAFO": [
+    "Aeronautical Quality Assurance Field Office"
+  ],
+  "AQS": [
+    "FAA Office of Quality, Integration and Executive Services"
+  ],
+  "ARA": [
+    "Research and Acquisition",
+    "National Engagement and Regional Administration"
+  ],
+  "ARAC": [
+    "Army Radar Approach Control (AAF)",
+    "Aviation Rulemaking Advisory Committee"
+  ],
+  "ARB": [
+    "Air Reserve Base",
+    "Architectural Review Board"
+  ],
+  "ARC": [
+    "Administrator's Review Committee",
+    "Airlines Reporting Corporation",
+    "Aviation Review Committee",
+    "FAA Office of Regions and Center Operations"
+  ],
+  "ARCTR": [
+    "FAA Aeronautical Center or Academy"
+  ],
+  "AREA": [
+    "Automated En Route Air Traffic Control"
+  ],
+  "ARF": [
+    "Airport Reservation Function"
+  ],
+  "ARFF": [
+    "Aircraft Rescue and Fire Fighting"
+  ],
+  "ARINC": [
+    "Aeronautical Radio Incorporated",
+    "Aeronautical Radio, Inc."
+  ],
+  "ARLNO": [
+    "Airline Office"
+  ],
+  "ARM": [
+    "FAA Office of Rulemaking"
+  ],
+  "ARO": [
+    "Airport Reservation Office"
+  ],
+  "ARP": [
+    "Airport Reference Point",
+    "FAA Airports Organization",
+    "FAA Office of Airports"
+  ],
+  "ARS": [
+    "Air Traffic Requirements Service",
+    "Airport Surveillance Radar",
+    "Automated Reproduction System"
+  ],
+  "ARSA": [
+    "Airport Service Radar Area"
+  ],
+  "ARSR": [
+    "Air Route Surveillance Radar",
+    "Long Range Surveillance Radar"
+  ],
+  "ARTCC": [
+    "Air Route Traffic Control Center"
+  ],
+  "ARTS": [
+    "Automated Radar Terminal System"
+  ],
+  "ASAP": [
+    "Aviation Safety Action Program"
+  ],
+  "ASAS": [
+    "Aviation Safety Analysis System"
+  ],
+  "ASC": [
+    "AUTODIN Switching Center"
+  ],
+  "ASCP": [
+    "Aviation System Capacity Plan"
+  ],
+  "ASD": [
+    "Aircraft Situation Display"
+  ],
+  "ASDA": [
+    "Accelerate Stop Distance Available"
+  ],
+  "ASDE": [
+    "Area Surveillance Detection Equipment - (Radar)"
+  ],
+  "ASDE-X": [
+    "Airport Surface Detection Equipment"
+  ],
+  "ASH": [
+    "FAA Office of Security & Hazardous Materials"
+  ],
+  "ASI": [
+    "Aviation Safety Inspector"
+  ],
+  "ASIAS": [
+    "Aviation Safety Information Analysis and Sharing"
+  ],
+  "ASLAR": [
+    "Aircraft Surge Launch And Recovery"
+  ],
+  "ASM": [
+    "Available Seat Mile"
+  ],
+  "ASO": [
+    "Southern Region"
+  ],
+  "ASOS": [
+    "Automated Surface Observing System",
+    "Automated Surface Observing Systems"
+  ],
+  "ASP": [
+    "Arrival Sequencing Program"
+  ],
+  "ASPM": [
+    "Aviation System Performance Metrics"
+  ],
+  "ASQP": [
+    "Airline Service Quality Performance"
+  ],
+  "ASR": [
+    "Airport Surveillance Radar",
+    "Airways Facilities Spectrum Policy and Management",
+    "Alkali Silica Reactivity",
+    "Terminal Surveillance Radar"
+  ],
+  "ASR-WSP": [
+    "Airport Surveillance Radar-Weather System Processor"
+  ],
+  "AST": [
+    "FAA Office of Commercial Space Transportation"
+  ],
+  "ASTA": [
+    "Airport Surface Traffic Automation"
+  ],
+  "ASV": [
+    "Airline Schedule Vendor"
+  ],
+  "ASW": [
+    "Southwest Region"
+  ],
+  "ASYNC": [
+    "Asynchronous Concentrator"
+  ],
+  "AT": [
+    "Air Traffic"
+  ],
+  "AT&T": [
+    "American Telephone and Telegraph",
+    "ASDC AT&T Agency Service Delivery Center",
+    "CSA AT&T Customer Support Associate"
+  ],
+  "ATA": [
+    "Air Transport Association of America",
+    "Airline Transport Association"
+  ],
+  "ATAS": [
+    "Airspace and Traffic Advisory Service"
+  ],
+  "ATC": [
+    "Air Traffic Control"
+  ],
+  "ATCA": [
+    "Air Traffic Control Association"
+  ],
+  "ATCAA": [
+    "Air Traffic Control Assigned Airspace",
+    "ATC Assigned Airspace"
+  ],
+  "ATCBI": [
+    "Maintenance of Air Traffic Control Beacon Indicator"
+  ],
+  "ATCCC": [
+    "Air Traffic Control Command Center"
+  ],
+  "ATCO": [
+    "Air Taxi Commercial Operator"
+  ],
+  "ATCOTS": [
+    "Air Traffic Control Optimum Training Solutions"
+  ],
+  "ATCRB": [
+    "Air Traffic Control Radar Beacon"
+  ],
+  "ATCRBS": [
+    "Air Traffic Control Radar Beacon System"
+  ],
+  "ATCS": [
+    "Air Traffic Control Specialist"
+  ],
+  "ATCSCC": [
+    "Air Traffic Control Systems Command Center"
+  ],
+  "ATCT": [
+    "Airport Traffic Control Tower"
+  ],
+  "ATIDS": [
+    "Airport Surface Target Identification System"
+  ],
+  "ATIS": [
+    "Automated Terminal Information Service",
+    "Automatic Terminal Information Service"
+  ],
+  "ATISR": [
+    "ATIS Recorder"
+  ],
+  "ATM": [
+    "Air Traffic Management",
+    "Air Traffic Manager",
+    "Asynchronous Transfer Mode"
+  ],
+  "ATMAC": [
+    "Air Traffic Management Advisory Committee"
+  ],
+  "ATMS": [
+    "Advanced Traffic Management System",
+    "Automated Training Management System"
+  ],
+  "ATN": [
+    "Aeronautical Telecommunications Network"
+  ],
+  "ATO": [
+    "Air Traffic Organization"
+  ],
+  "ATODN": [
+    "AUTODIN Terminal (FUS)"
+  ],
+  "ATOMS": [
+    "Air Traffic Operations Management System"
+  ],
+  "ATOP": [
+    "Advanced Technologies and Oceanic Procedures"
+  ],
+  "ATOS": [
+    "Air Transportation Oversight System"
+  ],
+  "ATOVN": [
+    "AUOTVON (Facility)"
+  ],
+  "ATR": [
+    "Air Traffic Requirements"
+  ],
+  "ATREP": [
+    "Air Traffic Representative"
+  ],
+  "ATS": [
+    "Air Traffic Services"
+  ],
+  "ATSAP": [
+    "Air Traffic Safety Action Program"
+  ],
+  "ATSCCP": [
+    "ATS Contingency Command Post"
+  ],
+  "ATSI": [
+    "Air Traffic Safety Inspector"
+  ],
+  "ATSS": [
+    "Airway Transportation Systems Specialist"
+  ],
+  "ATTIS": [
+    "AT&T Information Systems"
+  ],
+  "AUTODIN": [
+    "DoD Automatic Digital Network"
+  ],
+  "AUTOVON": [
+    "DoD Automatic Voice Network"
+  ],
+  "AVN": [
+    "Aviation Standards National Field Office, Oklahoma City",
+    "Aviation System Standards"
+  ],
+  "AVON": [
+    "AUTOVON Service"
+  ],
+  "AVP": [
+    "Office of Accident Investigation and Prevention"
+  ],
+  "AVS": [
+    "FAA Office of Aviation Safety"
+  ],
+  "AVSI": [
+    "Aerospace Vehicle Systems Institute"
+  ],
+  "AWIS": [
+    "Airport Weather Information"
+  ],
+  "AWOS": [
+    "Automated Weather Observing System"
+  ],
+  "AWP": [
+    "Aviation Weather Processor",
+    "Western Pacific Region"
+  ],
+  "AWPG": [
+    "Aviation Weather Products Generator"
+  ],
+  "AWS": [
+    "Air Weather Station"
+  ],
+  "AWSS": [
+    "Automated Weather Sensors System"
+  ],
+  "AWTT": [
+    "Aviation Weather Technology Transfer"
+  ],
+  "AXX": [
+    "One of the 9 Regional Offices"
+  ],
+  "BA": [
+    "Budget Analyst"
+  ],
+  "BAD": [
+    "Budget Analysis Database"
+  ],
+  "BANS": [
+    "BRITE Alphanumeric System"
+  ],
+  "BART": [
+    "Billing Analysis Reporting Tool (GSA software tool)"
+  ],
+  "BASIC": [
+    "Basic Contract Observing Station"
+  ],
+  "BASOP": [
+    "Military Base Operations"
+  ],
+  "BCA": [
+    "Benefit/Cost Analysis"
+  ],
+  "BCR": [
+    "Benefit/Cost Ratio"
+  ],
+  "BDAT": [
+    "Digitized Beacon Data"
+  ],
+  "BERMS": [
+    "Beacon Environmental Remote Monitoring Subsystem"
+  ],
+  "BFO": [
+    "Backfill Overtime",
+    "Blazing Flash of the Obvious (DOD)"
+  ],
+  "BIM": [
+    "Building Information Modeling"
+  ],
+  "BIP": [
+    "Backup Interface Processor"
+  ],
+  "BMP": [
+    "Best Management Practices"
+  ],
+  "BOC": [
+    "Bell Operating Company"
+  ],
+  "BOD": [
+    "Beneficial Occupancy Date"
+  ],
+  "BP": [
+    "Business Plan"
+  ],
+  "BPB": [
+    "Business Plan Builder"
+  ],
+  "BPS": [
+    "Bits Per Second"
+  ],
+  "BRI": [
+    "Basic Rate Interface"
+  ],
+  "BRITE": [
+    "Bright Radar Indicator Terminal Equipment",
+    "Bright Radar Indicator Tower Equipment"
+  ],
+  "BRL": [
+    "Building Restriction Line"
+  ],
+  "BUEC": [
+    "Back-up Emergency Communications"
+  ],
+  "BUECE": [
+    "Back-up Emergency Communications Equipment"
+  ],
+  "C&A": [
+    "Certification and Accreditation"
+  ],
+  "C/S/S/N": [
+    "Capacity/Safety/Security/Noise"
+  ],
+  "CA": [
+    "Conflict Alert"
+  ],
+  "CAA": [
+    "Civil Airworthiness Authority",
+    "Civil Aviation Authority",
+    "Clean Air Act"
+  ],
+  "CAAFI": [
+    "Commercial Aviation Alternative Fuels Initiative"
+  ],
+  "CAASD": [
+    "Center for Advanced Aviation System Development"
+  ],
+  "CAB": [
+    "Civil Aeronautics Board"
+  ],
+  "CAD": [
+    "Computer-aided Design",
+    "Computer-aided Drawing"
+  ],
+  "CAEG": [
+    "Computer-aided Engineering Graphics"
+  ],
+  "CAI": [
+    "Contractor-Acceptance Inspection"
+  ],
+  "CAIRS": [
+    "Cable Assignment Information Retrieval System"
+  ],
+  "CAMI": [
+    "Civil Aerospace Medical Institute"
+  ],
+  "CAP": [
+    "Civil Air Patrol",
+    "Corrective Action Plan"
+  ],
+  "CAR": [
+    "Civil Aviation Regulations"
+  ],
+  "CARAT": [
+    "Center for Aviation Research and Aerospace Technology"
+  ],
+  "CARF": [
+    "Central Altitude Reservation Facility",
+    "Central Altitude Reservation Function"
+  ],
+  "CARS": [
+    "Civilian Air Routes System"
+  ],
+  "CARSR": [
+    "Common Air Route Surveillance Radar"
+  ],
+  "CARTS": [
+    "Common Automated Radar Terminal System"
+  ],
+  "CAS": [
+    "Cost Accounting System"
+  ],
+  "CASA": [
+    "Controller Automated Spacing Aid"
+  ],
+  "CASFO": [
+    "Civil Aviation Security Office"
+  ],
+  "CASS": [
+    "Continuing Analysis and Surveillance System"
+  ],
+  "CASST": [
+    "Commercial Aviation Safety Strategic Team"
+  ],
+  "CAST": [
+    "Certification Authority Software Team"
+  ],
+  "CASTLE": [
+    "Consolidated Automated System for Time and Labor Entry"
+  ],
+  "CAT": [
+    "Category",
+    "Clear Air Turbulence"
+  ],
+  "CATTS": [
+    "Computerized Air Traffic Training System"
+  ],
+  "CATX": [
+    "Categorical Exclusion"
+  ],
+  "CAU": [
+    "Crypto Ancillary Unit"
+  ],
+  "CBI": [
+    "Computer Based Instruction"
+  ],
+  "CC": [
+    "Construction Coordinator"
+  ],
+  "CC&O": [
+    "Customer Cost and Obligation"
+  ],
+  "CCC": [
+    "Communications Command Center"
+  ],
+  "CCCC": [
+    "Staff Communications"
+  ],
+  "CCCH": [
+    "Central Computer Complex Host"
+  ],
+  "CCS7-NI": [
+    "Communication Channel Signal-7 Network Interconnect"
+  ],
+  "CCSD": [
+    "Command Communications Service Designator"
+  ],
+  "CCU": [
+    "Central Control Unit"
+  ],
+  "CD": [
+    "Common Digitizer",
+    "Compact Disc"
+  ],
+  "CD-ROM": [
+    "Compact Disc Read-Only Memory"
+  ],
+  "CDA": [
+    "Continuous Descent Arrival"
+  ],
+  "CDB": [
+    "Corporate Database"
+  ],
+  "CDC": [
+    "Computer Display Channel"
+  ],
+  "CDD": [
+    "Corporate Data Dictionary"
+  ],
+  "CDL": [
+    "Configuration Deviation List"
+  ],
+  "CDM": [
+    "Collaborative Decision Making"
+  ],
+  "CDR": [
+    "Cost Detail Report"
+  ],
+  "CDRA": [
+    "Cooperative Research and Development Agreement"
+  ],
+  "CDS": [
+    "Central Dispatch System"
+  ],
+  "CDT": [
+    "Controlled Departure Time"
+  ],
+  "CDTI": [
+    "Cockpit Display of Traffic Information"
+  ],
+  "CDV": [
+    "Compressed Digital Video"
+  ],
+  "CED": [
+    "Categorical Exclusion Determination"
+  ],
+  "CENRAP": [
+    "Center Radar Arts Presentation"
+  ],
+  "CENTX": [
+    "Central Telephone Exchange"
+  ],
+  "CEP": [
+    "Capacity Enhancement Program"
+  ],
+  "CEQ": [
+    "Council on Environmental Quality"
+  ],
+  "CERAP": [
+    "Center Radar Approach Control",
+    "Central Radar Approach"
+  ],
+  "CFC": [
+    "Central Flow Control"
+  ],
+  "CFCF": [
+    "Central Flow Control Facility"
+  ],
+  "CFCS": [
+    "Central Flow Control Service"
+  ],
+  "CFI": [
+    "Certified Flight Instructor"
+  ],
+  "CFIT": [
+    "Controlled Flight Into Terrain"
+  ],
+  "CFR": [
+    "Code of Federal Regulations"
+  ],
+  "CFWP": [
+    "Central Flow Weather Processor"
+  ],
+  "CFWU": [
+    "Central Flow Weather Unit"
+  ],
+  "CG": [
+    "Center of Gravity"
+  ],
+  "CGAS": [
+    "Coast Guard Air Station"
+  ],
+  "CHI": [
+    "Computer Human Interface"
+  ],
+  "CIO": [
+    "Chief Information Officer"
+  ],
+  "CIP": [
+    "Capital Investment Plan"
+  ],
+  "CISO": [
+    "Chief Information Security Officer"
+  ],
+  "CIWS": [
+    "Corridor Integrated Weather System"
+  ],
+  "CLC": [
+    "Course Line Computer"
+  ],
+  "CLEEN": [
+    "Continuous Lower Energy, Emissions & Noise"
+  ],
+  "CLIN": [
+    "Contract Line Item"
+  ],
+  "CLT": [
+    "Calculated Landing Time"
+  ],
+  "CM": [
+    "Configuration Management"
+  ],
+  "CMAP": [
+    "Center Mapping Automation Program"
+  ],
+  "CMFO": [
+    "Certificate Management Field Office"
+  ],
+  "CMIS": [
+    "Certificate Management Information System"
+  ],
+  "CMO": [
+    "Certificate Management Office"
+  ],
+  "CMU": [
+    "Certificate Management Unit"
+  ],
+  "CNMPS": [
+    "Canadian Minimum Navigation Performance Specification Airspace"
+  ],
+  "CNS": [
+    "Communications, Navigation and Surveillance",
+    "Consolidated NOTAM System"
+  ],
+  "CNSP": [
+    "Consolidated NOTAM System Processor"
+  ],
+  "CO": [
+    "Central Office",
+    "Contracting Officer"
+  ],
+  "COE": [
+    "Center of Excellence",
+    "U.S. Army Corps of Engineers"
+  ],
+  "COMCO": [
+    "Command Communications Outlet"
+  ],
+  "CONOPS": [
+    "Concept of Operations"
+  ],
+  "CONUS": [
+    "Continental United States"
+  ],
+  "COOP": [
+    "Continuity of Operations Plan"
+  ],
+  "CORP": [
+    "Private Corporation other than ARINC or MITRE"
+  ],
+  "COTR": [
+    "Contracting Officer's Technical Representative"
+  ],
+  "COTS": [
+    "Commercial Off-the-Shelf"
+  ],
+  "CP": [
+    "Command Post",
+    "Conflict Probe"
+  ],
+  "CPC": [
+    "Certified Professional Controller"
+  ],
+  "CPCS": [
+    "Consolidated Production Control System"
+  ],
+  "CPDLC": [
+    "Controller Pilot Data Link Communications"
+  ],
+  "CPE": [
+    "Customer Premise Equipment"
+  ],
+  "CPIC": [
+    "Capital Planning and Investment Control"
+  ],
+  "CPMIS": [
+    "Consolidated Personnel Management Information System"
+  ],
+  "CPOC": [
+    "Correspondence Point-of-Contact"
+  ],
+  "CRA": [
+    "Conflict Resolution Advisory"
+  ],
+  "CRC": [
+    "Coordinating Research Council"
+  ],
+  "CRDA": [
+    "Converging Runway Display Aid",
+    "Cooperative Research & Development Agreement"
+  ],
+  "CRM": [
+    "Crew Resource Management"
+  ],
+  "CRT": [
+    "Cathode Ray Tube"
+  ],
+  "CSA": [
+    "Central Service Area",
+    "Communications Service Authorization",
+    "Comparative Safety Assessment"
+  ],
+  "CSAP": [
+    "Combined Services Access Point",
+    "Common Services Access Point"
+  ],
+  "CSC": [
+    "Central Service Center"
+  ],
+  "CSER": [
+    "Contractor Site Engineering Report"
+  ],
+  "CSIS": [
+    "Centralized Storm Information System"
+  ],
+  "CSMC": [
+    "Cyber Security Management Center"
+  ],
+  "CSO": [
+    "Customer Service Office"
+  ],
+  "CSR": [
+    "Communications Service Request"
+  ],
+  "CSS": [
+    "Central Site System"
+  ],
+  "CSTA": [
+    "Chief Scientist and Technical Advisor"
+  ],
+  "CSTI": [
+    "Corporate Short Term Incentives"
+  ],
+  "CSTWRK": [
+    "Cost Work"
+  ],
+  "CTA": [
+    "Control Area",
+    "Controlled Time of Arrival"
+  ],
+  "CTA/FIR": [
+    "Control Area/Flight Information Region"
+  ],
+  "CTAF": [
+    "Common Traffic Advisory Frequency"
+  ],
+  "CTAS": [
+    "Center TRACON Automation System"
+  ],
+  "CTMA": [
+    "Center Traffic Management Advisor"
+  ],
+  "CUPS": [
+    "Consolidated Uniform Payroll System"
+  ],
+  "CVFR": [
+    "Controlled Visual Flight Rules"
+  ],
+  "CVTS": [
+    "Compressed Video Transmission Service"
+  ],
+  "CW": [
+    "Continuous Wave"
+  ],
+  "CWO": [
+    "Contract Weather Observer"
+  ],
+  "CWP": [
+    "Central Weather Processor",
+    "Corporate Work Plan"
+  ],
+  "CWSU": [
+    "Central Weather Service Unit"
+  ],
+  "CWY": [
+    "Clearway"
+  ],
+  "D-ATIS": [
+    "Digital - Automatic Terminal Information Service"
+  ],
+  "DA": [
+    "Decision Altitude/Decision Height",
+    "Descent Advisor",
+    "Direct Access"
+  ],
+  "DA/H": [
+    "Decision Altitude/Height"
+  ],
+  "DABBS": [
+    "DITCO Automated Bulletin Board System"
+  ],
+  "DACS": [
+    "Digital Aeronautical Chart Supplement"
+  ],
+  "DADS": [
+    "Digital Aeronautical Database System"
+  ],
+  "DAFIS": [
+    "Departmental Accounting and Financial Information System"
+  ],
+  "DAIR": [
+    "Direct Altitude and Identity Readout"
+  ],
+  "DALR": [
+    "Digital Audio Legal Recorder"
+  ],
+  "DAR": [
+    "Designated Agency Representative"
+  ],
+  "DARC": [
+    "Direct Access Radar Channel"
+  ],
+  "DARP": [
+    "Dynamic Aircraft Route Planning"
+  ],
+  "DASI": [
+    "Digital Altimeter Setting Indicator"
+  ],
+  "DASR": [
+    "Digital Airport Surveillance Radar"
+  ],
+  "DB": [
+    "Database"
+  ],
+  "dB": [
+    "Decibel"
+  ],
+  "DBA": [
+    "Database Administrator"
+  ],
+  "dBA": [
+    "Decibels A-Weighted"
+  ],
+  "DBCRC": [
+    "Defense Base Closure and Realignment Commission"
+  ],
+  "DBE": [
+    "Disadvantaged Business Enterprise"
+  ],
+  "DBMS": [
+    "Data Base Management System"
+  ],
+  "DBRITE": [
+    "Digital Bright Radar Indicator Tower Equipment"
+  ],
+  "DCA": [
+    "Defense Communications Agency"
+  ],
+  "DCAA": [
+    "Dual Call, Automatic Answer Device"
+  ],
+  "DCC": [
+    "Direct Channel Complex"
+  ],
+  "DCCU": [
+    "Data Communications Control Unit"
+  ],
+  "DCE": [
+    "Data Communications Equipment"
+  ],
+  "DDA": [
+    "Dedicated Digital Access"
+  ],
+  "DDD": [
+    "Direct Distance Dialing"
+  ],
+  "DDM": [
+    "Difference in Depth of Modulation"
+  ],
+  "DDS": [
+    "Digital Data Service"
+  ],
+  "DEA": [
+    "Drug Enforcement Agency"
+  ],
+  "DEDS": [
+    "Data Entry and Display System"
+  ],
+  "DEIS": [
+    "Draft Environmental Impact Statement"
+  ],
+  "DEM": [
+    "Digital Elevation Model"
+  ],
+  "DEP": [
+    "Departure"
+  ],
+  "DEWIZ": [
+    "Distance Early Warning Identification Zone"
+  ],
+  "DF": [
+    "Direction Finder"
+  ],
+  "DFAX": [
+    "Digital Facsimile"
+  ],
+  "DFI": [
+    "Direction Finding Indicator"
+  ],
+  "DFL": [
+    "Daily Flight Log"
+  ],
+  "DFM": [
+    "Departure Flow Management"
+  ],
+  "DGNSS": [
+    "Differential Global Navigation Satellite System"
+  ],
+  "DGPS": [
+    "Differential Global Positioning Satellite (System)",
+    "Differential Global Positioning System"
+  ],
+  "DH": [
+    "Decision Height"
+  ],
+  "DHS": [
+    "Department of Homeland Security"
+  ],
+  "DIA": [
+    "Denver International Airport"
+  ],
+  "DID": [
+    "Direct Inward Dial"
+  ],
+  "DIP": [
+    "Drop and Insert Point"
+  ],
+  "DIRF": [
+    "Direction Finding"
+  ],
+  "DISU": [
+    "Drug Investigation Support Unit"
+  ],
+  "DITCO": [
+    "Defense Information Technology Contracting Office Agency"
+  ],
+  "DLAP": [
+    "Data Link Applications Processor"
+  ],
+  "DLRS": [
+    "Digital Legal Recording System"
+  ],
+  "DME": [
+    "Distance Measuring Equipment"
+  ],
+  "DME/P": [
+    "Precision Distance Measuring Equipment"
+  ],
+  "DMN": [
+    "Data Multiplexing Network"
+  ],
+  "DMRS": [
+    "Database Management Reporting System"
+  ],
+  "DMS": [
+    "Data Management System",
+    "Drawing Management System"
+  ],
+  "DNL": [
+    "Day-Night Equivalent Sound Level"
+  ],
+  "DOD": [
+    "Department of Defense",
+    "Direct Outward Dial"
+  ],
+  "DOF": [
+    "Digital Obstacle File"
+  ],
+  "DOI": [
+    "Department of Interior"
+  ],
+  "DOS": [
+    "Department of State"
+  ],
+  "DOT": [
+    "Department of Transportation"
+  ],
+  "DOTCC": [
+    "Department of Transportation Computer Center"
+  ],
+  "DOTS": [
+    "Dynamic Ocean Track System",
+    "Dynamic Ocean Tracking System"
+  ],
+  "DOVE": [
+    "DSR Oceanic VSCS En Route Implementation Working Group"
+  ],
+  "DP": [
+    "Departure Procedures"
+  ],
+  "DPE": [
+    "Designated Pilot Examiner"
+  ],
+  "DR": [
+    "Disaster Recovery"
+  ],
+  "DRP": [
+    "Disaster Recovery Plan"
+  ],
+  "DSCS": [
+    "Digital Satellite Compression Service"
+  ],
+  "DSG": [
+    "Data Services Group"
+  ],
+  "DSP": [
+    "Departure Sequencing Program"
+  ],
+  "DSR": [
+    "Display System Replacement"
+  ],
+  "DSS": [
+    "Decision Support System"
+  ],
+  "DSUA": [
+    "Dynamic Special Use Airspace"
+  ],
+  "DTED": [
+    "Digital Terrain Elevation Data"
+  ],
+  "DTM": [
+    "Digital Terrain Model"
+  ],
+  "DTS": [
+    "Dedicated Transmission Service"
+  ],
+  "DUAT": [
+    "Direct User Access Terminal"
+  ],
+  "DUATS": [
+    "Direct User Access Terminal System"
+  ],
+  "DVD": [
+    "Digital Versatile Disk"
+  ],
+  "DVFR": [
+    "Day Visual Flight Rules",
+    "Defense Visual Flight Rules"
+  ],
+  "DVOF": [
+    "Digital Vertical Obstruction File"
+  ],
+  "DVOR": [
+    "Doppler Very High Frequency Omni Directional Range",
+    "Doppler Very High Frequency Omni-- Directional Range"
+  ],
+  "DVRS": [
+    "Digital Voice Recorder System"
+  ],
+  "DYSIM": [
+    "Dynamic Simulator"
+  ],
+  "E-MSAW": [
+    "En Route Automated Minimum Safe Altitude Warning"
+  ],
+  "EA": [
+    "Enterprise Architecture",
+    "Environmental Assessment"
+  ],
+  "EARS": [
+    "En Route Analysis and Reporting System"
+  ],
+  "EARTS": [
+    "En Route Automated Radar Tracking System"
+  ],
+  "EASA": [
+    "European Aviation Safety Agency"
+  ],
+  "EBC": [
+    "Event Based Currency"
+  ],
+  "EBUS": [
+    "Enhanced Backup Surveillance"
+  ],
+  "EC": [
+    "Engineering Center"
+  ],
+  "ECG": [
+    "En Route Communications Gateway"
+  ],
+  "ECOM": [
+    "En Route Communications"
+  ],
+  "eCPIC": [
+    "Electronic Capital Planning Investment Control"
+  ],
+  "ECVFP": [
+    "Expanded Charted Visual Flight Procedures"
+  ],
+  "EDC": [
+    "Early Display Configuration",
+    "En Route Departure Capability",
+    "Enterprise Data Center"
+  ],
+  "EDCT": [
+    "Estimated Departure Control Time",
+    "Expedite Departure Path"
+  ],
+  "EDDA": [
+    "Environmental Due Diligence Audit"
+  ],
+  "EDI": [
+    "Electronic Data Interchange"
+  ],
+  "EDMS": [
+    "Electronic Document Management Systems",
+    "Emissions and Dispersion Modeling System"
+  ],
+  "EDS": [
+    "Enterprise Database System"
+  ],
+  "EEO": [
+    "Equal Employment Opportunity"
+  ],
+  "EFAS": [
+    "En Route Flight Advisory Service"
+  ],
+  "EFB": [
+    "Electronic Flight Bag"
+  ],
+  "EFC": [
+    "Expect Further Clearance"
+  ],
+  "EFIS": [
+    "Electronic Flight Information Systems"
+  ],
+  "EFSTS": [
+    "Electronic Flight Strip Transfer System"
+  ],
+  "EIAF": [
+    "Expanded Inward Access Features"
+  ],
+  "EIS": [
+    "Environmental Impact Statement"
+  ],
+  "ELD": [
+    "Electrical Load Database"
+  ],
+  "eLMS": [
+    "Electronic Learning Management System"
+  ],
+  "ELT": [
+    "Emergency Locator Transmitter"
+  ],
+  "ELWRT": [
+    "Electrowriter"
+  ],
+  "EMAS": [
+    "Engineered Materials Arresting System"
+  ],
+  "EMPS": [
+    "En Route Maintenance Processor System"
+  ],
+  "EMS": [
+    "Environmental Management System"
+  ],
+  "ENAV": [
+    "En Route Navigational Aids"
+  ],
+  "EOF": [
+    "Emergency Operating Facility"
+  ],
+  "EON": [
+    "Emergency Operations Network"
+  ],
+  "eOPF": [
+    "Electronic Official Personnel File"
+  ],
+  "EOSH": [
+    "Environmental and Occupational Safety & Health",
+    "Environmental Compliance Occupational Safety and Health"
+  ],
+  "EPA": [
+    "Environmental Protection Agency"
+  ],
+  "EPI": [
+    "Element Performance Inspection"
+  ],
+  "EPS": [
+    "Engineered Performance Standards"
+  ],
+  "EPSS": [
+    "Enhanced Packet Switched Service"
+  ],
+  "ERAD": [
+    "En Route Broadband Radar"
+  ],
+  "ERAM": [
+    "En Route Automation Modernization"
+  ],
+  "ERIDS": [
+    "En Route Information Display System"
+  ],
+  "ERIT": [
+    "Enhanced Radar Intelligent Tool"
+  ],
+  "ERM": [
+    "En Route Spacing Program"
+  ],
+  "ERMS": [
+    "Environmental Remote Monitoring System"
+  ],
+  "ES&H": [
+    "Environmental Safety and Health"
+  ],
+  "ESA": [
+    "Eastern Service Area"
+  ],
+  "ESC": [
+    "Eastern Service Center",
+    "Enterprise Service Center"
+  ],
+  "ESEC": [
+    "En Route Broadband Secondary Radar"
+  ],
+  "ESF": [
+    "Extended Superframe Format"
+  ],
+  "ESIS": [
+    "Enhanced Status Information System",
+    "Environmental Safety Information System"
+  ],
+  "ESP": [
+    "En Route Spacing Program",
+    "En Route Sequencing Program"
+  ],
+  "ESRI": [
+    "Environmental Systems Research Institute"
+  ],
+  "ESYS": [
+    "En Route Equipment Systems"
+  ],
+  "ETA": [
+    "Estimated Time of Arrival"
+  ],
+  "ETE": [
+    "Estimated Time En Route"
+  ],
+  "ETG": [
+    "Enhanced Target Generator"
+  ],
+  "ETMS": [
+    "Enhanced Traffic management Systems"
+  ],
+  "ETN": [
+    "Electronic Telecommunications Network"
+  ],
+  "ETO": [
+    "Engineering Technical Officer"
+  ],
+  "ETVCT": [
+    "En Route Training Voice Communication Tool"
+  ],
+  "ETVS": [
+    "Enhanced Terminal Voice Switch"
+  ],
+  "EUROCAE": [
+    "European Organization for Civil Aviation Equipment"
+  ],
+  "EVAS": [
+    "Enhanced Vortex Advisory System"
+  ],
+  "EVCS": [
+    "Emergency Voice Communications System"
+  ],
+  "EVFR": [
+    "Electronic Visual Flight Rules"
+  ],
+  "EVM": [
+    "Earned Value Management"
+  ],
+  "F&E": [
+    "Facilities and Equipment"
+  ],
+  "FAA": [
+    "Federal Aviation Administration"
+  ],
+  "FAAAC": [
+    "FAA Aeronautical Center"
+  ],
+  "FAACIS": [
+    "FAA Communications Information System"
+  ],
+  "FAASTeam": [
+    "FAA Safety Team"
+  ],
+  "FAATC": [
+    "FAA Technical Center",
+    "Federal Aviation Administration Technical Center"
+  ],
+  "FAATSAT": [
+    "FAA Telecommunications Satellite",
+    "Federal Aviation Administration Telecommunications Satellite"
+  ],
+  "FAC": [
+    "Facility"
+  ],
+  "FACUTL": [
+    "Facility Utilization System"
+  ],
+  "FACSFAC": [
+    "Fleet Area Control and Surveillance Facility"
+  ],
+  "FADE": [
+    "FAA/Airline Data Exchange"
+  ],
+  "FAF": [
+    "Final Approach Fix"
+  ],
+  "FAIRS": [
+    "Federal Aircraft Management Information System"
+  ],
+  "FAMIS": [
+    "Federal Air Marshal Information System"
+  ],
+  "FANS": [
+    "Future Air Navigation System"
+  ],
+  "FAP": [
+    "Final Approach Point"
+  ],
+  "FAPM": [
+    "FTS2000 Associate Program Manager"
+  ],
+  "FAQ": [
+    "Frequently Asked Questions"
+  ],
+  "FAR": [
+    "Federal Aviation Regulation"
+  ],
+  "FARM": [
+    "Fielded Automation Requirements Management"
+  ],
+  "FASC": [
+    "FAA Aviation Safety Center"
+  ],
+  "FAST": [
+    "Final Approach Spacing Tool"
+  ],
+  "FAVES": [
+    "FAA Administrative Voice Enterprise Services"
+  ],
+  "FAX": [
+    "Facsimile Equipment"
+  ],
+  "FBO": [
+    "Fixed Base Operator"
+  ],
+  "FBS": [
+    "Fall Back Switch"
+  ],
+  "FCC": [
+    "Federal Communications Commission"
+  ],
+  "FCLT": [
+    "Freeze Calculated Landing Time"
+  ],
+  "FCM": [
+    "Flight Schedule Monitor"
+  ],
+  "FCOM": [
+    "FSS Radio Voice Communications"
+  ],
+  "FCPU": [
+    "Facility Central Processing Unit"
+  ],
+  "FCT": [
+    "Federal Contract Tower"
+  ],
+  "FDAT": [
+    "Flight Data",
+    "Flight Data Entry and Printout (FDEP) and Flight Data Service"
+  ],
+  "FDE": [
+    "Flight Data Entry"
+  ],
+  "FDEP": [
+    "Flight Data Entry and Printout"
+  ],
+  "FDIO": [
+    "Flight Data Input/Output"
+  ],
+  "FDIOC": [
+    "Flight Data Input/Output Center"
+  ],
+  "FDIOR": [
+    "Flight Data Input/Output Remote"
+  ],
+  "FDM": [
+    "Frequency Division Multiplexing"
+  ],
+  "FDMSAW": [
+    "Fully Digital Minimum Safe Altitude Warning"
+  ],
+  "FDP": [
+    "Flight Data Processing"
+  ],
+  "FDP/RDP": [
+    "Flight Data Processing/Radar Data Processing"
+  ],
+  "FDR": [
+    "Federal Data Registry"
+  ],
+  "FDT": [
+    "Flight Deck Training Program"
+  ],
+  "FED": [
+    "Federal"
+  ],
+  "FEIS": [
+    "Final Environmental Impact Statement"
+  ],
+  "FEODP": [
+    "Flight Edit and On-Demand Printing"
+  ],
+  "FEP": [
+    "Front End Processor"
+  ],
+  "FERS": [
+    "Facility and Equipment Reporting System"
+  ],
+  "FFAC": [
+    "From Facility"
+  ],
+  "FFLA": [
+    "Flexible Flight Level Assignment"
+  ],
+  "FFRDC": [
+    "Federal Funded Research & Development Center"
+  ],
+  "FIAO": [
+    "Flight Inspection Area Office"
+  ],
+  "FICO": [
+    "Flight Inspection Central Office"
+  ],
+  "FIFO": [
+    "Flight Inspection Field Office"
+  ],
+  "FIG": [
+    "Flight Inspection Group"
+  ],
+  "FINO": [
+    "Flight Inspection National Field Office"
+  ],
+  "FIO": [
+    "Flight Inspection Office"
+  ],
+  "FIP": [
+    "Facility Improvement Program"
+  ],
+  "FIPS": [
+    "Federal Information Publication Standard"
+  ],
+  "FIR": [
+    "Flight Information Region"
+  ],
+  "FIRE": [
+    "Fire Station"
+  ],
+  "FIRMR": [
+    "Federal Information Resource Management Regulation"
+  ],
+  "FIRPS": [
+    "Flight Inspection Reports Processing System"
+  ],
+  "FIS": [
+    "Flight Information Services"
+  ],
+  "FISDL": [
+    "Flight Information Services Data Link"
+  ],
+  "FISMA": [
+    "Federal Information Security Management Act of 2002"
+  ],
+  "FITS": [
+    "FAA/Industry Training Standards"
+  ],
+  "FL": [
+    "Flight Level"
+  ],
+  "FLDS": [
+    "Flight Loads Data System"
+  ],
+  "FLIP": [
+    "Flight Information Publication"
+  ],
+  "FLM": [
+    "Front Line Manager"
+  ],
+  "FLOWSIM": [
+    "Traffic Flow Planning Simulation"
+  ],
+  "FLSA": [
+    "Fair Labor Standards Act"
+  ],
+  "FLTCK": [
+    "Flight Check"
+  ],
+  "FMA": [
+    "Final Monitor Aid"
+  ],
+  "FMC": [
+    "Frontline Managers Courses"
+  ],
+  "FMF": [
+    "Facility Master File"
+  ],
+  "FMIS": [
+    "FTS2000 Management Information System"
+  ],
+  "FMO": [
+    "Facility Management Office"
+  ],
+  "FMP": [
+    "Field Maintenance Party"
+  ],
+  "FMS": [
+    "Financial Management System",
+    "Flight Management System"
+  ],
+  "FNMS": [
+    "FTS2000 Network Management System"
+  ],
+  "FOD": [
+    "Foreign Object Damage"
+  ],
+  "FOIA": [
+    "Freedom of Information Act"
+  ],
+  "FOMS": [
+    "Flight Operations Management System"
+  ],
+  "FONSI": [
+    "Finding of No Significant Impact"
+  ],
+  "FOQA": [
+    "Flight Operations Quality Assurance"
+  ],
+  "FOTS": [
+    "Fiber Optics Transmission System"
+  ],
+  "FOUO": [
+    "For Official Use Only"
+  ],
+  "FP": [
+    "Flight Plan"
+  ],
+  "FP21": [
+    "Flight Plan 21"
+  ],
+  "FPI": [
+    "Fluorescent Penetrate Inspection"
+  ],
+  "FPL": [
+    "Full Performance Level"
+  ],
+  "FPO": [
+    "Flight Procedures Office"
+  ],
+  "FPPS": [
+    "Federal Personnel Payroll System"
+  ],
+  "FPS": [
+    "Military Primary Radar"
+  ],
+  "FRC": [
+    "Request Full Route Clearance"
+  ],
+  "FRD": [
+    "Facility Reference Data"
+  ],
+  "FRMS": [
+    "Facility Roster Management System"
+  ],
+  "FS": [
+    "Flight Standards"
+  ],
+  "FSAS": [
+    "Flight Service Automation System"
+  ],
+  "FSCAP": [
+    "Flight Safety Critical Aircraft Parts"
+  ],
+  "FSDO": [
+    "Flight Standards District Office"
+  ],
+  "FSDPS": [
+    "Flight Service Data Processing System"
+  ],
+  "FSEP": [
+    "Facility, Service, and Equipment Profile"
+  ],
+  "FSFO": [
+    "Flight Standards Field Office"
+  ],
+  "FSIAG": [
+    "Flight Service Information Area Group"
+  ],
+  "FSM": [
+    "Flight Schedule Monitor"
+  ],
+  "FSP": [
+    "Flight Strip Printer"
+  ],
+  "FSPD": [
+    "Freeze Speed Parameter"
+  ],
+  "FSRM": [
+    "Facility Security Risk Management"
+  ],
+  "FSS": [
+    "Flight Service Station"
+  ],
+  "FSSA": [
+    "Flight Service Station Automated Service"
+  ],
+  "FST": [
+    "Fuel Storage Tanks"
+  ],
+  "FSTS": [
+    "Federal Secure Telephone Service"
+  ],
+  "FSYS": [
+    "Flight Service Station Equipment Systems"
+  ],
+  "FTE": [
+    "Full Time Equivalent"
+  ],
+  "FTI": [
+    "FAA Telecommunications Infrastructure"
+  ],
+  "FTP": [
+    "File Transfer Protocol"
+  ],
+  "FTS": [
+    "Federal Telecommunications System"
+  ],
+  "FTS2000": [
+    "Federal Telecommunications System 2000"
+  ],
+  "FUS": [
+    "Functional Units or Systems"
+  ],
+  "FWCS": [
+    "Flight Watch Control Station"
+  ],
+  "FWS": [
+    "FAA Weather Service"
+  ],
+  "FY": [
+    "Fiscal Year"
+  ],
+  "GA": [
+    "General Aviation"
+  ],
+  "GAA": [
+    "General Aviation Activity"
+  ],
+  "GAAA": [
+    "General Aviation Activity and Avionics"
+  ],
+  "GADO": [
+    "General Aviation District Office"
+  ],
+  "GANP": [
+    "Global Air Navigation Plan"
+  ],
+  "GAO": [
+    "Government Accountability Office",
+    "Government Accounting Office"
+  ],
+  "GCA": [
+    "Ground Control Approach"
+  ],
+  "GDE": [
+    "Ground Delay Enhancements"
+  ],
+  "GDP": [
+    "Ground Delay Program"
+  ],
+  "GENOT": [
+    "General Notice"
+  ],
+  "GETS": [
+    "Government Emergency Telecommunications Service",
+    "Grievance Electronic Tracking System"
+  ],
+  "GFE": [
+    "Government Furnished Equipment"
+  ],
+  "GFM": [
+    "Government Furnished Materials"
+  ],
+  "GFP": [
+    "Government Furnished Property"
+  ],
+  "GIS": [
+    "Geographic Information System"
+  ],
+  "GLONASS": [
+    "Global Orbiting Navigational Satellite System"
+  ],
+  "GMCC": [
+    "General National Airspace System Maintenance Control Center"
+  ],
+  "GML": [
+    "Geography Markup Language"
+  ],
+  "GMS": [
+    "Grants Management System"
+  ],
+  "GNAS": [
+    "General National Airspace System"
+  ],
+  "GNSS": [
+    "Global Navigation Satellite System"
+  ],
+  "GOES": [
+    "Geostationary Operational Environmental Satellite"
+  ],
+  "GOESF": [
+    "GOES Feed Point"
+  ],
+  "GOEST": [
+    "GOES Terminal Equipment"
+  ],
+  "GPO": [
+    "Government Printing Office"
+  ],
+  "GPRA": [
+    "Government Performance and Results Act"
+  ],
+  "GPRAMA": [
+    "Government Performance and Results Modernization Act"
+  ],
+  "GPS": [
+    "Global Positioning Satellite",
+    "Global Positioning System"
+  ],
+  "GPWS": [
+    "Ground Proximity Warning System"
+  ],
+  "GRADE": [
+    "Graphical Airspace Design Environment"
+  ],
+  "GS": [
+    "Glide Slope",
+    "Glide Slope Indicator"
+  ],
+  "GSA": [
+    "General Services Administration"
+  ],
+  "GSE": [
+    "Ground Support Equipment"
+  ],
+  "GTM": [
+    "General Terrain Model"
+  ],
+  "GUI": [
+    "Graphic User Interface"
+  ],
+  "GWDS": [
+    "Graphic Weather Display System"
+  ],
+  "HAA": [
+    "Height Above Airport"
+  ],
+  "HAL": [
+    "Height Above Landing"
+  ],
+  "HARS": [
+    "High Altitude Route System"
+  ],
+  "HAT": [
+    "Height Above Touchdown"
+  ],
+  "HAZMAT": [
+    "Hazardous Materials"
+  ],
+  "HCAP": [
+    "High Capacity Carriers"
+  ],
+  "HCS": [
+    "Host Computer System"
+  ],
+  "HDME": [
+    "NDB with Distance Measuring Equipment"
+  ],
+  "HDQ": [
+    "FAA Headquarters"
+  ],
+  "HDR": [
+    "Hardware Discrepancy Report"
+  ],
+  "HELI": [
+    "Heliport"
+  ],
+  "HEMS": [
+    "Helicopter Emergency Medical Service"
+  ],
+  "HF": [
+    "High Frequency"
+  ],
+  "HI-EFAS": [
+    "High Altitude EFAS"
+  ],
+  "HID": [
+    "Host Interface Display"
+  ],
+  "HID/NAS/LAN": [
+    "Host Interface Device/National Airspace System/Local Area Network"
+  ],
+  "HIRL": [
+    "High Intensity Runway Lights"
+  ],
+  "HLDC": [
+    "High Level Data Link Control"
+  ],
+  "HMI": [
+    "Hazardously Misleading Information"
+  ],
+  "HOV": [
+    "High Occupancy Vehicle"
+  ],
+  "HQ": [
+    "FAA Headquarters"
+  ],
+  "HSI": [
+    "Horizontal Situation Indicators"
+  ],
+  "HSPD": [
+    "Homeland Security Presidential Directive"
+  ],
+  "HUD": [
+    "Heads Up Display",
+    "Housing and Urban Development"
+  ],
+  "HUMS": [
+    "Health & Usage Monitoring Systems"
+  ],
+  "HVAC": [
+    "Heating, Ventilating, and Air Conditioning"
+  ],
+  "HWAS": [
+    "Hazardous In-Flight Weather Advisory"
+  ],
+  "Hz": [
+    "Hertz"
+  ],
+  "I&I": [
+    "Impact and Implementation"
+  ],
+  "I/AFSS": [
+    "International AFSS"
+  ],
+  "IA": [
+    "Indirect Access",
+    "Information Assurance"
+  ],
+  "IAF": [
+    "Initial Approach Fix"
+  ],
+  "IAP": [
+    "Instrument Approach Procedures"
+  ],
+  "IAPA": [
+    "Instrument Approach Procedures Automation"
+  ],
+  "IAR": [
+    "Investment Analysis Report"
+  ],
+  "IAS": [
+    "Investment Analysis Staff"
+  ],
+  "IAT": [
+    "Investment Analysis Team"
+  ],
+  "IATA": [
+    "International Air Transport Association"
+  ],
+  "IBM": [
+    "International Business Machines"
+  ],
+  "IBP": [
+    "International Boundary Point"
+  ],
+  "IBR": [
+    "Intermediate Bit Rate"
+  ],
+  "IC": [
+    "Implementation Center"
+  ],
+  "ICAO": [
+    "International Civil Aviation Organization"
+  ],
+  "iCMM": [
+    "integrated Capability Maturity Model"
+  ],
+  "ICMS": [
+    "Integrated Control and Monitor System"
+  ],
+  "ICSS": [
+    "Integrated Communications Switching System",
+    "International Communications Switching Systems"
+  ],
+  "ID": [
+    "Identification"
+  ],
+  "IDAT": [
+    "Interfacility Data"
+  ],
+  "IDP": [
+    "Individual Development Plan"
+  ],
+  "IDS": [
+    "Intrusion Detection System"
+  ],
+  "IF": [
+    "Intermediate Fix"
+  ],
+  "IFB": [
+    "Invitation For Bid"
+  ],
+  "IFCP": [
+    "Interfacility Communications Processor"
+  ],
+  "IFDS": [
+    "Interfacility Data System"
+  ],
+  "IFEA": [
+    "In-Flight Emergency Assistance"
+  ],
+  "IFO": [
+    "International Field Office"
+  ],
+  "IFP": [
+    "Instrument Flight Procedures"
+  ],
+  "IFPA": [
+    "Instrument Flight Procedures Automation Program"
+  ],
+  "IFR": [
+    "Instrument Flight Rules"
+  ],
+  "IFSS": [
+    "International Flight Service Station"
+  ],
+  "IG": [
+    "Inspector General"
+  ],
+  "IGIA": [
+    "Interagency Group on International Aviation"
+  ],
+  "IIE": [
+    "Integrated Information Environment"
+  ],
+  "ILM": [
+    "Inventory Logistics and Maintenance Suite"
+  ],
+  "ILS": [
+    "Instrument Landing System"
+  ],
+  "ILSP": [
+    "Integrated Logistics Support Plan"
+  ],
+  "IM": [
+    "Inner Marker",
+    "Interim Migration"
+  ],
+  "IMC": [
+    "Instrument Meteorological Conditions"
+  ],
+  "INM": [
+    "Integrated Noise Model"
+  ],
+  "INS": [
+    "Inertial Navigation System"
+  ],
+  "IOC": [
+    "Initial Operating Capability",
+    "Initial Operating Condition"
+  ],
+  "IOT&E": [
+    "Independent Operational Test and Evaluation"
+  ],
+  "IP": [
+    "Internet Protocol"
+  ],
+  "IPDS": [
+    "Instrument Procedure Development System"
+  ],
+  "IPMS": [
+    "IT Program Management System"
+  ],
+  "IPR": [
+    "In Process Review"
+  ],
+  "IPT": [
+    "Integrated Product Team"
+  ],
+  "iRCAS": [
+    "Intranet Radio Coverage Analysis System"
+  ],
+  "IRD": [
+    "Initial Requirements Document"
+  ],
+  "IRM": [
+    "Information Resource Management"
+  ],
+  "IRMC": [
+    "Integrated Risk Management Checklist"
+  ],
+  "IRMP": [
+    "Information Resources Management Plan"
+  ],
+  "ISBP": [
+    "Information Security Business Portal"
+  ],
+  "ISC": [
+    "Initial System Capability"
+  ],
+  "ISDN": [
+    "Integrated Services Digital Network"
+  ],
+  "ISMLS": [
+    "Interim Standard Microwave Landing System"
+  ],
+  "ISO": [
+    "Information System Owner"
+  ],
+  "ISS": [
+    "Information Systems Security"
+  ],
+  "ISSCA": [
+    "Information Systems Security Certification Agent"
+  ],
+  "ISSM": [
+    "Information Systems Security Manager"
+  ],
+  "ISSO": [
+    "Information Systems Security Officer"
+  ],
+  "IST": [
+    "InterService Team"
+  ],
+  "IT": [
+    "Information Technology"
+  ],
+  "ITC": [
+    "In-Trail Climb"
+  ],
+  "ITD": [
+    "In-Trail Descent"
+  ],
+  "ITEB": [
+    "Information Technology Executive Board"
+  ],
+  "ITI": [
+    "Interactive Terminal Interface"
+  ],
+  "ITIL": [
+    "Information Technology Infrastructure Library"
+  ],
+  "ITMRA": [
+    "Information Technology Management Reform Act"
+  ],
+  "ITSM": [
+    "Information Technology Service Management"
+  ],
+  "ITWS": [
+    "Integrated Terminal Weather System"
+  ],
+  "IVRS": [
+    "Interim Voice Response System"
+  ],
+  "IVSR": [
+    "Interim Voice Switch Replacement Program"
+  ],
+  "IVT": [
+    "Interactive Video Teletraining"
+  ],
+  "IW": [
+    "Inside Wiring"
+  ],
+  "IWGDS": [
+    "Interim Weather Graphic-Display System"
+  ],
+  "J2EE": [
+    "Java 2 Enterprise Edition"
+  ],
+  "JAI": [
+    "Joint Acceptance Inspection"
+  ],
+  "JCN": [
+    "Job Control Number"
+  ],
+  "JPDO": [
+    "Joint Planning and Development Office"
+  ],
+  "JRC": [
+    "Joint Resources Council"
+  ],
+  "JSS": [
+    "Joint Surveillance System"
+  ],
+  "Kbps": [
+    "Kilobits Per Second"
+  ],
+  "KCAS": [
+    "Knots Calibrated Airspeed"
+  ],
+  "kHz": [
+    "Kilohertz"
+  ],
+  "KIAS": [
+    "Knots Indicated Airspeed"
+  ],
+  "KSN": [
+    "Knowledge Services Network"
+  ],
+  "KVDT": [
+    "Keyboard Video Display Terminal"
+  ],
+  "LAA": [
+    "Local Airport Advisory"
+  ],
+  "LAAS": [
+    "Local Area Augmentation System",
+    "Low Altitude Alert System"
+  ],
+  "LABS": [
+    "Leased A B Service",
+    "Los Angeles Basin Study"
+  ],
+  "LABSC": [
+    "LABS GS-200 Computer"
+  ],
+  "LABSR": [
+    "LABS Remote Equipment"
+  ],
+  "LABSW": [
+    "LABS Switch System"
+  ],
+  "LAC": [
+    "Logical Access Control"
+  ],
+  "LAGPS": [
+    "Local Area Global Positioning System"
+  ],
+  "LAHSO": [
+    "Land and Hold Short Operation"
+  ],
+  "LAN": [
+    "Local Area Network"
+  ],
+  "LATA": [
+    "Local Access and Transport Area"
+  ],
+  "LAWRS": [
+    "Limited Aviation Weather Reporting Service",
+    "Limited Aviation Weather Reporting System"
+  ],
+  "LBR": [
+    "LAN Based Random Access Plan Position Indicator"
+  ],
+  "LCC": [
+    "Life Cycle Cost"
+  ],
+  "LCF": [
+    "Local Control Facility"
+  ],
+  "LCGS": [
+    "Low Cost Ground Surveillance Radar"
+  ],
+  "LCN": [
+    "Local Communications Network"
+  ],
+  "LDA": [
+    "Landing Directional Aid",
+    "Localizer Directional Aid"
+  ],
+  "LDAP": [
+    "Lightweight Directory Access Protocol"
+  ],
+  "LDIN": [
+    "Lead-In Lights"
+  ],
+  "LDR": [
+    "Labor Distribution Reporting"
+  ],
+  "LEC": [
+    "Local Exchange Carrier"
+  ],
+  "LF": [
+    "Low Frequency"
+  ],
+  "LFDS": [
+    "Large Facility Demarcation System"
+  ],
+  "LFME": [
+    "Local Flow Management Enhancements"
+  ],
+  "LINCS": [
+    "Leased Interfacility NAS Communications System"
+  ],
+  "LIRL": [
+    "Low Intensity Runway Lights"
+  ],
+  "LIS": [
+    "Logistics and Inventory System"
+  ],
+  "LLWAS": [
+    "Low Level Wind Shear Alert System"
+  ],
+  "LM/MS": [
+    "Low/Medium Frequency"
+  ],
+  "LMM": [
+    "Locator Middle Marker"
+  ],
+  "LMS": [
+    "Logistics Management Specialist",
+    "LORAN Monitor Site"
+  ],
+  "LOA": [
+    "Letter of Agreement"
+  ],
+  "LOB": [
+    "Line Of Business"
+  ],
+  "LOC": [
+    "Localizer"
+  ],
+  "LOCID": [
+    "Location Identifier"
+  ],
+  "LOI": [
+    "Letter of Intent"
+  ],
+  "LOM": [
+    "Compass Locator at Outer Marker",
+    "Locator Outer Marker"
+  ],
+  "LORAN": [
+    "Long-Range Aid to Navigation"
+  ],
+  "LOV": [
+    "List of Values"
+  ],
+  "LPC": [
+    "Logistics Program Coordinator"
+  ],
+  "LPV": [
+    "Lateral Precision Performance with Vertical Guidance",
+    "Localizer Performance with Vertical Guidance"
+  ],
+  "LRCO": [
+    "Limited Remote Communications Outlet"
+  ],
+  "LRNAV": [
+    "Long Range Navigation"
+  ],
+  "LRR": [
+    "Long Range Radar"
+  ],
+  "LRRAP": [
+    "Long Range Resource Allocation Plan"
+  ],
+  "LSMS": [
+    "Line Station Maintenance Section"
+  ],
+  "M1FC": [
+    "Model 1 Full Capacity"
+  ],
+  "MAA": [
+    "Maximum Authorized Altitude"
+  ],
+  "MAC": [
+    "Maintenance Action Code",
+    "Mean Aerodynamic Cord"
+  ],
+  "MALS": [
+    "Medium-Intensity Approach Lighting System"
+  ],
+  "MALSF": [
+    "Medium-Intensuty Approach Light System with Sequenced Flashers"
+  ],
+  "MALSR": [
+    "MALS with Runway Alignment Indicator Lights",
+    "Medium-Intensity Approach Lighting System With Runway Alignment Indicator"
+  ],
+  "MAM": [
+    "Maintenance Assumed Monitoring"
+  ],
+  "MAP": [
+    "Maintenance Automation Program",
+    "Military Airport Program",
+    "Missed Approach Point",
+    "Missed Approach Procedure",
+    "Modified Access Pricing"
+  ],
+  "MAR": [
+    "Minimally Attended Radar"
+  ],
+  "MARSA": [
+    "Military Assumes Responsibility for Separation"
+  ],
+  "MCAG": [
+    "Marine Corp Air Ground Combat Center"
+  ],
+  "MASS": [
+    "Maintenance Automation System Software",
+    "More Agile Systems & Service Levels"
+  ],
+  "MBO": [
+    "Management by Objectives"
+  ],
+  "Mbps": [
+    "Megabits Per Second"
+  ],
+  "MBT": [
+    "Maneuvers Based Training"
+  ],
+  "MCA": [
+    "Minimum Crossing Altitude"
+  ],
+  "MCAS": [
+    "Marine Corps Air Station"
+  ],
+  "MRU": [
+    "Military Radar Unit"
+  ],
+  "MRUF": [
+    "Military Radar Unit Facility"
+  ],
+  "MCC": [
+    "Maintenance Control Center"
+  ],
+  "MCI": [
+    "Mode C Intruder"
+  ],
+  "MCK": [
+    "Maintenance Check"
+  ],
+  "MCL": [
+    "Middle Compass Locater"
+  ],
+  "MCS": [
+    "Maintenance and Control System"
+  ],
+  "MDA": [
+    "Minimum Descent Altitude"
+  ],
+  "MDCRS": [
+    "Metereological Data Collection and Reporting System"
+  ],
+  "MDFM": [
+    "Material Delivery Forecast Module"
+  ],
+  "MDT": [
+    "Maintenance Data Terminal"
+  ],
+  "MEA": [
+    "Minimum Enroute Altitude"
+  ],
+  "MEARTS": [
+    "Micro-EARTS"
+  ],
+  "MEL": [
+    "Minimum Equipment List"
+  ],
+  "METAR": [
+    "Aviation Routine Weather Report"
+  ],
+  "METI": [
+    "Meteorological Information"
+  ],
+  "MF": [
+    "Middle Frequency"
+  ],
+  "MFJ": [
+    "Modified Final Judgment"
+  ],
+  "MFO": [
+    "Medical Field Office"
+  ],
+  "MFT": [
+    "Meter Fix Crossing Time/Slot Time"
+  ],
+  "MHA": [
+    "Minimum Holding Altitude"
+  ],
+  "MHz": [
+    "Megahertz"
+  ],
+  "MIA": [
+    "Minimum IFR Altitudes"
+  ],
+  "MIDO": [
+    "Manufacturing Inspection District Office"
+  ],
+  "MIO": [
+    "Manufacturing Inspection Office"
+  ],
+  "MIRL": [
+    "Medium Intensity Runway Lights"
+  ],
+  "MIS": [
+    "Management Information System",
+    "Meteorological Impact Statement"
+  ],
+  "MISC": [
+    "Miscellaneous"
+  ],
+  "MISO": [
+    "Manufacturing Inspection Satellite Office"
+  ],
+  "MIT": [
+    "Miles In Trail"
+  ],
+  "MLS": [
+    "Microwave Landing System"
+  ],
+  "MM": [
+    "Middle Marker"
+  ],
+  "MMAC": [
+    "Mike Monroney Aeronautical Center"
+  ],
+  "MMC": [
+    "Maintenance Monitoring Console"
+  ],
+  "MMPI": [
+    "Minnesota Multiphase Personality Inventory"
+  ],
+  "MMR": [
+    "Multi-Mode Receiver"
+  ],
+  "MMS": [
+    "Maintenance Monitoring System"
+  ],
+  "MNPS": [
+    "Minimum Navigation Performance Specification"
+  ],
+  "MNPSA": [
+    "Minimum Navigation Performance Specifications Airspace"
+  ],
+  "MNS": [
+    "Mission Needs Statement"
+  ],
+  "MOA": [
+    "Memorandum of Agreement",
+    "Military Operations Area"
+  ],
+  "MOC": [
+    "Memorandum of Cooperation",
+    "Memorandum of Correction"
+  ],
+  "MOCA": [
+    "Minimum Obstruction Clearance Altitude"
+  ],
+  "MOCC": [
+    "Mid-States Operations Control Center"
+  ],
+  "MOD": [
+    "Memorandum of Decision"
+  ],
+  "MODE C": [
+    "Altitude Reporting Mode of Secondary Radar"
+  ],
+  "MODE S": [
+    "Mode Select; Discrete Addressable Secondary Radar System With Data Link"
+  ],
+  "MODEM": [
+    "Modulator-Demodulator"
+  ],
+  "MON": [
+    "Memorandum of Non-Compliance"
+  ],
+  "MOS": [
+    "Military Operations Specialist"
+  ],
+  "MOU": [
+    "Memorandum of Understanding"
+  ],
+  "MPAR": [
+    "Multi-function Phased Array Radar"
+  ],
+  "MPO": [
+    "Metropolitan Planning Organization"
+  ],
+  "MPS": [
+    "Maintenance Processor Subsystem (OR) Master Plan Supplement"
+  ],
+  "MRA": [
+    "Minimum Reception Altitude"
+  ],
+  "MRC": [
+    "Monthly Recurring Charge"
+  ],
+  "MRM": [
+    "Maintenance Returned Monitoring"
+  ],
+  "MSA": [
+    "Minimum Safe Altitude"
+  ],
+  "MSAW": [
+    "Minimum Safe Altitude Warning"
+  ],
+  "MSD": [
+    "Multi-Site Damage"
+  ],
+  "MSDA": [
+    "Material Safety Data Sheet"
+  ],
+  "MSDS": [
+    "Microsoft Data Engine"
+  ],
+  "MSL": [
+    "Mean Sea Level"
+  ],
+  "MSN": [
+    "Message Switching Network"
+  ],
+  "MSR": [
+    "Monthly Status Report"
+  ],
+  "MTCS": [
+    "Modular Terminal Communications System"
+  ],
+  "MTD": [
+    "Moving Target Detection"
+  ],
+  "MTI": [
+    "Moving Target Indicator"
+  ],
+  "MTR": [
+    "Military Training Route"
+  ],
+  "MUX": [
+    "Multiplexor"
+  ],
+  "MVA": [
+    "Minimum Vectoring Altitude"
+  ],
+  "MVFR": [
+    "Marginal Visual Flight Rules"
+  ],
+  "MWP": [
+    "Meteorological Weather Processor"
+  ],
+  "N/A": [
+    "Not Applicable"
+  ],
+  "NAAQS": [
+    "National Ambient Air Quality Standards"
+  ],
+  "NACG": [
+    "National Aeronautical Charting Group"
+  ],
+  "NADA": [
+    "NADIN Concentrator"
+  ],
+  "NADIN": [
+    "National Airspace Data Interchange Network"
+  ],
+  "NADSW": [
+    "NADIN Switches"
+  ],
+  "NAILS": [
+    "National Airspace Integrated Logistics Support"
+  ],
+  "NAMS": [
+    "NADIN IA"
+  ],
+  "NAP": [
+    "Needs Assessment Program"
+  ],
+  "NAPM": [
+    "National Associate Program Manager"
+  ],
+  "NAPRS": [
+    "National Airspace Performance Reporting System"
+  ],
+  "NAR": [
+    "National Airspace Review 66"
+  ],
+  "NARACS": [
+    "National Radio Communications System"
+  ],
+  "NARP": [
+    "National Aviation Research Plan"
+  ],
+  "NAS": [
+    "National Air Space",
+    "National Airspace System",
+    "National Airspace System or Naval Air Station",
+    "Naval Air Station"
+  ],
+  "NIWC": [
+    "Naval Information War Center"
+  ],
+  "NASDC": [
+    "National Aviation Safety Data"
+  ],
+  "NASE": [
+    "NAS Adaptation Services Environment"
+  ],
+  "NASP": [
+    "National Airspace System Plan"
+  ],
+  "NASPAC": [
+    "National Airspace System Performance Analysis Capability"
+  ],
+  "NASR": [
+    "National Airspace System Resources"
+  ],
+  "NASTEP": [
+    "National Airspace System Technical Evaluation Program"
+  ],
+  "NATCA": [
+    "National Air Traffic Control Association",
+    "National Air Traffic Controllers Association"
+  ],
+  "NATCO": [
+    "National Communications Switching Center"
+  ],
+  "NATS": [
+    "National Air Traffic Service"
+  ],
+  "NAVAID": [
+    "Navigation Aid"
+  ],
+  "NAVAIDS": [
+    "Navigational Aids"
+  ],
+  "NAVMN": [
+    "Navigation Monitor and Control"
+  ],
+  "NAWAU": [
+    "National Aviation Weather Advisory Unit"
+  ],
+  "NAWPF": [
+    "National Aviation Weather Processing Facility"
+  ],
+  "NBAA": [
+    "National Business Aircraft Association"
+  ],
+  "NBCAP": [
+    "National Beacon Code Allocation Plan"
+  ],
+  "NBCFAE": [
+    "National Black Coalition of Federal Aviation Employees"
+  ],
+  "NCAR": [
+    "National Center for Atmospheric Research; Boulder, CO"
+  ],
+  "NCF": [
+    "National Control Facility"
+  ],
+  "NCIU": [
+    "NEXRAD Communications Interface Unit"
+  ],
+  "NCP": [
+    "NAS Change Proposal",
+    "Noise Compatibility Program"
+  ],
+  "NCS": [
+    "National Communications System"
+  ],
+  "NSD": [
+    "Navigation System Database"
+  ],
+  "NDB": [
+    "Non-directional Beacon"
+  ],
+  "NDC": [
+    "National Data Center"
+  ],
+  "NDI": [
+    "Nondestructive Inspection"
+  ],
+  "NDNB": [
+    "NADIN II"
+  ],
+  "NDP": [
+    "National Airspace System Defense Programs"
+  ],
+  "NEC": [
+    "National Electric Code"
+  ],
+  "NED": [
+    "National Elevation Data"
+  ],
+  "NEM": [
+    "Noise Exposure Map"
+  ],
+  "NEMC": [
+    "Network Enterprise Maintenance Center"
+  ],
+  "NEPA": [
+    "National Environmental Policy Act"
+  ],
+  "NEXRAD": [
+    "Next Generation Weather Radar"
+  ],
+  "NextGen": [
+    "Next Generation Air Transportation System"
+  ],
+  "NFAX": [
+    "National Facsimile Service"
+  ],
+  "NFD": [
+    "National Flight Database"
+  ],
+  "NFDC": [
+    "National Flight Data Center"
+  ],
+  "NFDD": [
+    "National Flight Data Digest"
+  ],
+  "NFIS": [
+    "NAS Facilities Information System"
+  ],
+  "NFP": [
+    "NIMS Premier Facility"
+  ],
+  "NGA": [
+    "National Geospatial-Intelligence Agency"
+  ],
+  "NHCFAE": [
+    "National Hispanic Coalition of Federal Aviation Employees"
+  ],
+  "NI": [
+    "Network Interface"
+  ],
+  "NICS": [
+    "National Airspace System Interfacility Communications System",
+    "National Interfacility Communications System"
+  ],
+  "NIMA": [
+    "National Imagery and Mapping Agency"
+  ],
+  "NIMS": [
+    "NAS Infrastructure Management System"
+  ],
+  "NIPT": [
+    "National Infrastructure Planning Team"
+  ],
+  "NISC": [
+    "NAS Implementation Support Contract",
+    "NAS Integration Support Contractor"
+  ],
+  "NIST": [
+    "National Institute of Standards and Technologies"
+  ],
+  "NM": [
+    "Nautical Mile"
+  ],
+  "NMAC": [
+    "Near Mid Air Collision"
+  ],
+  "NMC": [
+    "National Meteorological Center"
+  ],
+  "NMCE": [
+    "Network Monitoring and Control Equipment"
+  ],
+  "NMCS": [
+    "Network Monitoring and Control System"
+  ],
+  "NOAA": [
+    "National Oceanic and Atmospheric Administration"
+  ],
+  "NOC": [
+    "Notice Of Completion"
+  ],
+  "NOCC": [
+    "National Operation Control Center"
+  ],
+  "NOD": [
+    "National Operations Development"
+  ],
+  "NOG": [
+    "National Operations Group"
+  ],
+  "NOM": [
+    "NAS Operations Manager"
+  ],
+  "NOREP": [
+    "National Oceanic Review and Enhancement Program"
+  ],
+  "NOTAM": [
+    "Notice to Airmen"
+  ],
+  "NPDES": [
+    "National Pollutant Discharge Elimination System"
+  ],
+  "NPE": [
+    "Non-primary Airport Entitlement"
+  ],
+  "NPIAS": [
+    "National Plan for Integrated Airport Systems"
+  ],
+  "NPM": [
+    "NAS Program Manager/Management"
+  ],
+  "NPR": [
+    "National Performance Review"
+  ],
+  "NPRM": [
+    "Notice of Proposed Rulemaking"
+  ],
+  "NRC": [
+    "Non-Recurring Charge"
+  ],
+  "NRCS": [
+    "National Radio Communications Systems"
+  ],
+  "NRP": [
+    "National Route Program"
+  ],
+  "NRT": [
+    "Near-Real Time"
+  ],
+  "NSAP": [
+    "National Service Assurance Plan"
+  ],
+  "NSC": [
+    "National Service Center"
+  ],
+  "NSP": [
+    "National Simulator Program"
+  ],
+  "NSRCATN": [
+    "National Strategy to Reduce Congestion on America's Transportation Network"
+  ],
+  "NSSFC": [
+    "National Severe Storms Forecast Center"
+  ],
+  "NSSL": [
+    "National Severe Storms Laboratory; Norman, OK"
+  ],
+  "NSWRH": [
+    "NWS Regional Headquarters"
+  ],
+  "NTAP": [
+    "Notices To Airmen Publication"
+  ],
+  "NTP": [
+    "National Transportation Policy",
+    "Notice to Proceed"
+  ],
+  "NTS": [
+    "NOTAM Tracking System"
+  ],
+  "NTSB": [
+    "National Transportation Safety Board"
+  ],
+  "NTZ": [
+    "No Transgression Zone"
+  ],
+  "NWP": [
+    "National Work Plan",
+    "NextGen Weather Processor"
+  ],
+  "NWS": [
+    "National Weather Service"
+  ],
+  "NWSR": [
+    "NWS Weather Excluding NXRD"
+  ],
+  "NXRD": [
+    "Advanced Weather Radar System"
+  ],
+  "O&M": [
+    "Operations and Maintenance"
+  ],
+  "O21": [
+    "Ocean21"
+  ],
+  "OAG": [
+    "Official Airline Guide"
+  ],
+  "OALT": [
+    "Operational Acceptable Level of Traffic"
+  ],
+  "OAMP": [
+    "Off-Line Aircraft Management Program"
+  ],
+  "OAP": [
+    "Oceanic Automation Program"
+  ],
+  "OAS": [
+    "Oceanic Automation System"
+  ],
+  "OASIS": [
+    "Operational and Supportability Implementation System"
+  ],
+  "OATS": [
+    "Office Automation Technology Services"
+  ],
+  "OAW": [
+    "Off-airway Weather Station"
+  ],
+  "OC4J": [
+    "Oracle Containers for Java Enterprise Edition"
+  ],
+  "OCA": [
+    "Oceanic Control Area"
+  ],
+  "OCC": [
+    "Operations Control Center"
+  ],
+  "OCDB": [
+    "Oracle Content Database"
+  ],
+  "ODAL": [
+    "Omnidirectional Approach Lighting System"
+  ],
+  "ODALS": [
+    "Omnidirectional Approach Lighting Systems"
+  ],
+  "ODAPS": [
+    "Oceanic Display and Planning System",
+    "Oceanic Display and Processing Station"
+  ],
+  "ODL": [
+    "Oceanic Data Link"
+  ],
+  "ODRA": [
+    "Office of Dispute Resolution for Acquisition"
+  ],
+  "ODS": [
+    "Operational Data Store"
+  ],
+  "OE": [
+    "Obstacle Evaluation"
+  ],
+  "OE/AAA": [
+    "Obstruction Evaluation/Airport Airspace Analysis"
+  ],
+  "OEM": [
+    "Original Equipment Manufacturer"
+  ],
+  "OEP": [
+    "Operational Evolution Plan",
+    "Operational Evolution Plan / Partnership"
+  ],
+  "OETS": [
+    "Obstacle Evaluation Tracking System"
+  ],
+  "OFA": [
+    "Object Free Area"
+  ],
+  "OFDPS": [
+    "Offshore Flight Data Processing System"
+  ],
+  "OFT": [
+    "Outer Fix Time"
+  ],
+  "OFZ": [
+    "Obstacle Free Zone"
+  ],
+  "OGC": [
+    "Open Geospatial Consortium"
+  ],
+  "OIG": [
+    "Office of the Inspector General"
+  ],
+  "OM": [
+    "Outer Marker"
+  ],
+  "OMB": [
+    "Office of Management and Budget"
+  ],
+  "OMEGA": [
+    "Very Low Radio Navigation System"
+  ],
+  "OMIC": [
+    "Operations Manager in Charge"
+  ],
+  "ONER": [
+    "Oceanic Navigational Error Report"
+  ],
+  "OPASI": [
+    "Observation of Potential Adverse Safety Impact"
+  ],
+  "OPD": [
+    "Optimum Profile Descent"
+  ],
+  "OPI": [
+    "Office of Primary Interest"
+  ],
+  "OPLT": [
+    "Operational Acceptable Level of Traffic"
+  ],
+  "OPR": [
+    "Office of Primary Responsibility"
+  ],
+  "OPS": [
+    "AF Operations",
+    "Operations"
+  ],
+  "OPSNET": [
+    "Operations Network"
+  ],
+  "OPSW": [
+    "Operational Switch"
+  ],
+  "OPX": [
+    "Off Premises Exchange"
+  ],
+  "ORD": [
+    "Operational Readiness Demonstration",
+    "Operational Readiness Demonstration - Milestone"
+  ],
+  "ORS": [
+    "Obstruction Repository System"
+  ],
+  "OS": [
+    "Operating System",
+    "Operational Shakedown & Cutover"
+  ],
+  "OSA": [
+    "Operational Safety Assessment"
+  ],
+  "OSD": [
+    "Operational Suitability Demonstration"
+  ],
+  "OSDS": [
+    "Oceanic System Development and Support"
+  ],
+  "OSHA": [
+    "Occupational Safety and Health Administration"
+  ],
+  "OSI/M": [
+    "Organizational Success Increase (OSI)/Organizational Success Measure (OSM)"
+  ],
+  "OSIP": [
+    "Office Safety Inspection Program"
+  ],
+  "OSRWG": [
+    "Oceanic Separation Reduction Working Group"
+  ],
+  "OST": [
+    "Office of the Secretary of Transportation"
+  ],
+  "OT&E": [
+    "Operational Test and Evaluation"
+  ],
+  "OTFO": [
+    "Operations Technical Field Office"
+  ],
+  "OTPS": [
+    "Oceanic Traffic Planning System"
+  ],
+  "OTR": [
+    "Oceanic Transition Route"
+  ],
+  "OTS": [
+    "Organized Track System",
+    "Out of Service"
+  ],
+  "P2R2": [
+    "Preferred Route Reduction Program"
+  ],
+  "PA": [
+    "Project Authorization"
+  ],
+  "PABX": [
+    "Private Automated Branch Exchange"
+  ],
+  "PAD": [
+    "Packet Assembler/Disassembler"
+  ],
+  "PAM": [
+    "Peripheral Adapter Module"
+  ],
+  "PAMRI": [
+    "Peripheral Adapter Module Replacement Item"
+  ],
+  "PANS": [
+    "Procedures for Air Navigation Services"
+  ],
+  "PAPI": [
+    "Precision Approach Path Indicator"
+  ],
+  "PAR": [
+    "Precision Approach Radar",
+    "Preferential Arrival Route",
+    "Performance and Accountability Report"
+  ],
+  "PAS": [
+    "Project Assignment Sheet"
+  ],
+  "PASS": [
+    "Professional Aviation Safety Specialists"
+  ],
+  "PATS": [
+    "Precision Approach Tracking System"
+  ],
+  "PATWAS": [
+    "Pilots Automatic Telephone Weather Answering Service"
+  ],
+  "PBCT": [
+    "Proposed Boundary Crossing Time"
+  ],
+  "PBRF": [
+    "Pilot Briefing"
+  ],
+  "PBX": [
+    "Private Branch Exchange"
+  ],
+  "PC": [
+    "Performance Committee APL",
+    "Personal Computer"
+  ],
+  "PCA": [
+    "Positive Control Airspace"
+  ],
+  "PCB": [
+    "Personnel Compensation and Benefits"
+  ],
+  "PCB&T": [
+    "Personnel Compensation Benefits and Travel"
+  ],
+  "PCM": [
+    "Pulse Code Modulation"
+  ],
+  "PCN": [
+    "Project Control Number"
+  ],
+  "PCPS": [
+    "Purchase Card Processing System"
+  ],
+  "PCS": [
+    "Permanent Change of Station",
+    "Power Conditioning System",
+    "Production Control System"
+  ],
+  "PDA": [
+    "Personal Digital Assistant"
+  ],
+  "PDAR": [
+    "Preferential Arrival And Departure Route"
+  ],
+  "PDC": [
+    "Pre-Departure Clearance",
+    "Program Designator Code"
+  ],
+  "PDF": [
+    "Portable Document Format"
+  ],
+  "PDN": [
+    "Public Data Network"
+  ],
+  "PDR": [
+    "Preferential Departure Route"
+  ],
+  "PDS": [
+    "Proficiency Development Specialists"
+  ],
+  "PED": [
+    "Personal Electronic Devices"
+  ],
+  "PERTI": [
+    "Plan, Execute, Review, Train and Improve"
+  ],
+  "PFAST": [
+    "Passive Final Approach Spacing Tool"
+  ],
+  "PFC": [
+    "Passenger Facility Charge",
+    "Porous Friction Course"
+  ],
+  "PgMM": [
+    "Program Management Methodology"
+  ],
+  "PGP": [
+    "Planning Grant Program"
+  ],
+  "PHA": [
+    "Preliminary Hazard Analysis"
+  ],
+  "PHL": [
+    "Preliminary Hazard List"
+  ],
+  "PIC": [
+    "Principal Interexchange Carrier"
+  ],
+  "PIDP": [
+    "Programmable Indicator Data Processor"
+  ],
+  "PII": [
+    "Personally Identifiable Information"
+  ],
+  "PIM": [
+    "Program Implementation Manager"
+  ],
+  "PIP": [
+    "Primary Interface Processor",
+    "Program Implementation Plan"
+  ],
+  "PIREP": [
+    "Pilot Weather Report"
+  ],
+  "PjMM": [
+    "Project Management Methodology"
+  ],
+  "PjSA": [
+    "Project Scope Agreement"
+  ],
+  "PKI": [
+    "Public Key Infrastructure"
+  ],
+  "PM": [
+    "Preventive Maintenance"
+  ],
+  "PMA": [
+    "Parts Manufacturer Approval"
+  ],
+  "PMC": [
+    "Project Materials Cumulative"
+  ],
+  "PML": [
+    "Project Material List"
+  ],
+  "PMS": [
+    "Program Management System"
+  ],
+  "POC": [
+    "Point-of-Contact"
+  ],
+  "POCC": [
+    "Pacific Operations Control Center"
+  ],
+  "POG": [
+    "Portfolio of Goals"
+  ],
+  "POP": [
+    "Point-0f-Presence"
+  ],
+  "POT": [
+    "Point-of-Termination"
+  ],
+  "PPE": [
+    "Personal Protective Equipment"
+  ],
+  "PPIMS": [
+    "Personal Property Information Management System"
+  ],
+  "PPR": [
+    "Personal Property Report"
+  ],
+  "PR": [
+    "Procurement Request",
+    "Project Review / Program Review"
+  ],
+  "PRI": [
+    "Primary Rate Interface"
+  ],
+  "PRM": [
+    "Precision Runway Monitor"
+  ],
+  "PSC": [
+    "Program Support Center"
+  ],
+  "PSD": [
+    "Process Support Document"
+  ],
+  "PSDN": [
+    "Public Switched Data Network"
+  ],
+  "PSL": [
+    "Projected Service Life"
+  ],
+  "PSN": [
+    "Packet Switched Network"
+  ],
+  "PSR": [
+    "Project Status Report"
+  ],
+  "PSS": [
+    "Packet Switched Service"
+  ],
+  "PSTN": [
+    "Public Switched Telephone Network"
+  ],
+  "PT": [
+    "Product Team"
+  ],
+  "PTC": [
+    "Presumed-to-Conform"
+  ],
+  "PTR": [
+    "Program Technical/Trouble Report"
+  ],
+  "PTS": [
+    "Procedures Tracking System"
+  ],
+  "PUB": [
+    "Publication"
+  ],
+  "PUP": [
+    "Principal User Processor"
+  ],
+  "PVC": [
+    "Permanent Virtual Circuit"
+  ],
+  "PVD": [
+    "Plan View Display"
+  ],
+  "PWI": [
+    "Proximity Warning Indicator"
+  ],
+  "QA": [
+    "Quality Assurance"
+  ],
+  "QAE": [
+    "Quality Assurance Evaluator"
+  ],
+  "QAR": [
+    "Quality Assurance Resource"
+  ],
+  "QC": [
+    "Quality Control"
+  ],
+  "QMS": [
+    "Quality Management System"
+  ],
+  "R&D": [
+    "Research and Development"
+  ],
+  "R,E&D": [
+    "Research, Engineering and Development"
+  ],
+  "RADLO": [
+    "Regional Air Defense Liaison Office"
+  ],
+  "RAIL": [
+    "Runway Alignment Indicator Lights"
+  ],
+  "RAPCO": [
+    "Radar Approach Control (USAF)"
+  ],
+  "RAPCON": [
+    "Radar Approach Control",
+    "Radar Approach Control (FAA)"
+  ],
+  "RAPPI": [
+    "Random Access Plan Position Indicator"
+  ],
+  "RASP": [
+    "Regional Airport System Plan"
+  ],
+  "RAWS": [
+    "Remote Automatic Weather Stations (FAA)",
+    "Radar, Airfield & Weather Systems (Air Force)"
+  ],
+  "RAT": [
+    "Risk Assessment Team"
+  ],
+  "RATCC": [
+    "Radar Air Traffic Control Center"
+  ],
+  "RATCF": [
+    "Radar Air Traffic Control Facility (USN)"
+  ],
+  "RBC": [
+    "Rotating Beam Ceilometer"
+  ],
+  "RBDPE": [
+    "Radar Beacon Data Processing Equipment"
+  ],
+  "RBPM": [
+    "Remote Beacon Performance Monitor"
+  ],
+  "RBSS": [
+    "Radar Bomb Scoring Squadron"
+  ],
+  "RCAG": [
+    "Remote Communications Air/Ground"
+  ],
+  "RCAS": [
+    "Radio Coverage Analysis System"
+  ],
+  "RCC": [
+    "Rescue Coordination Center"
+  ],
+  "RCCC": [
+    "Regional Communications Control Center"
+  ],
+  "RCE": [
+    "Radio Control Equipment"
+  ],
+  "RCF": [
+    "Remote Communications Facility"
+  ],
+  "RCIU": [
+    "Remote Control Interface Unit"
+  ],
+  "RCL": [
+    "Radio Communications Link"
+  ],
+  "RCLR": [
+    "Radio Communications Link Repeater",
+    "RCL Repeater"
+  ],
+  "RCLT": [
+    "RCL Terminal"
+  ],
+  "RCM": [
+    "Reliability Centered Maintenance"
+  ],
+  "RCO": [
+    "Remote Communications Outlet"
+  ],
+  "RCU": [
+    "Remote Control Unit"
+  ],
+  "RD": [
+    "Requirements Document"
+  ],
+  "RDP": [
+    "Radar Data Processing"
+  ],
+  "RDSIM": [
+    "Runway Delay Simulation Model"
+  ],
+  "RDVS": [
+    "Rapid Deployment Voice Switch"
+  ],
+  "RE": [
+    "Resident Engineer"
+  ],
+  "REC": [
+    "Request Evaluation Checklist"
+  ],
+  "REDAC": [
+    "Research, Engineering & Development Advisory Committee"
+  ],
+  "REDMACS": [
+    "Research, Engineering, and Development Monitoring, Analysis and Control System"
+  ],
+  "REGIS": [
+    "Regional Information System"
+  ],
+  "REIL": [
+    "Runway End Identification Light"
+  ],
+  "RF": [
+    "Radio Frequency"
+  ],
+  "RFI": [
+    "Radio Frequency Interference",
+    "Request for Information",
+    "Return on Future Investment"
+  ],
+  "RFQ": [
+    "Request for Quotes"
+  ],
+  "RIIEP": [
+    "Runway Incursion Information Evaluation Program"
+  ],
+  "RIP": [
+    "Runway Incursion Program"
+  ],
+  "RM": [
+    "Risk Management"
+  ],
+  "RMCC": [
+    "Remote Monitor Control Center"
+  ],
+  "RMCF": [
+    "Remote Monitor Control Facility"
+  ],
+  "RML": [
+    "Radar Microwave Link"
+  ],
+  "RMLR": [
+    "RML Repeater"
+  ],
+  "RMLS": [
+    "Remote Monitoring and Logging System"
+  ],
+  "RMLT": [
+    "RML Terminal"
+  ],
+  "RMM": [
+    "Remote Maintenance Monitoring"
+  ],
+  "RMMC": [
+    "Remote Maintenance Monitoring and Control"
+  ],
+  "RMMS": [
+    "Remote Maintenance Monitoring System",
+    "Remote Maintenance Monitoring Systems"
+  ],
+  "RMS": [
+    "Remote Maintenance Subsystem",
+    "Remote Monitoring Subsystem",
+    "Risk Management System"
+  ],
+  "RMSC": [
+    "Remote Monitoring Subsystem Concentrator"
+  ],
+  "RMT": [
+    "Resource Management Tool",
+    "Risk Management Team"
+  ],
+  "RNAV": [
+    "Area Navigation"
+  ],
+  "RNP": [
+    "Required Navigation Performance"
+  ],
+  "RNP-10": [
+    "Required Navigation Performance"
+  ],
+  "ROA": [
+    "Record of Assistance"
+  ],
+  "ROC": [
+    "Regional Operations Center"
+  ],
+  "ROD": [
+    "Record of Decision"
+  ],
+  "ROM": [
+    "Read-Only Memory"
+  ],
+  "ROSA": [
+    "Report of Service Activity"
+  ],
+  "ROSHM": [
+    "Regional Occupational Safety and Health Manager"
+  ],
+  "ROT": [
+    "Runway Occupancy Time"
+  ],
+  "RP": [
+    "Restoration Priority"
+  ],
+  "RPC": [
+    "Restoration Priority Code"
+  ],
+  "RPG": [
+    "Radar Processing Group"
+  ],
+  "RPI": [
+    "Real Property Inventory"
+  ],
+  "RPM": [
+    "Rational Portfolio Manager",
+    "RTP Program Manager"
+  ],
+  "RPMES": [
+    "Regional Program Manager for Environment and Safety"
+  ],
+  "RPOC": [
+    "Risk Point-of-Contact"
+  ],
+  "RPR": [
+    "Real Property Report"
+  ],
+  "RPV": [
+    "Remotely Piloted Vehicle"
+  ],
+  "RPZ": [
+    "Runway Protection Zone"
+  ],
+  "RRCS": [
+    "Remote Radio Control System"
+  ],
+  "RRH": [
+    "Remote Reading Hygrothermometer"
+  ],
+  "RRHS": [
+    "Remote Reading Hydrometer"
+  ],
+  "RRWDS": [
+    "Remote Radar Weather Display"
+  ],
+  "RRWSS": [
+    "RWDS Sensor Site"
+  ],
+  "RSA": [
+    "Runway Safety Area"
+  ],
+  "RSAP": [
+    "Runway Safety Action Plan"
+  ],
+  "RSAT": [
+    "Runway Safety Action Team"
+  ],
+  "RSL": [
+    "Runway Status Light"
+  ],
+  "RSS": [
+    "Remote Speaking System"
+  ],
+  "RT": [
+    "Remote Transmitter"
+  ],
+  "RT&BTL": [
+    "Radar Tracking and Beacon Tracking Level"
+  ],
+  "RTAD": [
+    "Remote Tower Alphanumeric Display"
+  ],
+  "RTCA": [
+    "Radio Technical Commission for Aeronautics"
+  ],
+  "RTDS": [
+    "Radar Terminal Display System"
+  ],
+  "RTE": [
+    "Route"
+  ],
+  "RTP": [
+    "Regional Transportation Plan"
+  ],
+  "RTR": [
+    "Remote Transmitter/Receiver",
+    "Remote Terminal Radar"
+  ],
+  "RTRD": [
+    "Remote Tower Radar Display"
+  ],
+  "RTS": [
+    "Return to Service"
+  ],
+  "RUC": [
+    "Rapid Update Cycle"
+  ],
+  "RVM": [
+    "Radar Video Map"
+  ],
+  "RVR": [
+    "Runway Visual Range"
+  ],
+  "RVSM": [
+    "Reduced Vertical Separation Minima"
+  ],
+  "RW": [
+    "Runway"
+  ],
+  "RWP": [
+    "Real-time Weather Processor"
+  ],
+  "RWSL": [
+    "Runway Status Lights"
+  ],
+  "RWY": [
+    "Runway"
+  ],
+  "RX": [
+    "Receiver"
+  ],
+  "S/S": [
+    "Sector Suite"
+  ],
+  "S2 PMR": [
+    "Deputy Secretary Performance Review by DOT Mode"
+  ],
+  "SA": [
+    "System Administrator"
+  ],
+  "SAC": [
+    "Strategic Air Command"
+  ],
+  "SAFI": [
+    "Semi Automatic Flight Inspection"
+  ],
+  "SAGA": [
+    "System Safety Approach for General Aviation"
+  ],
+  "SAI": [
+    "Safety Attribute Inspection"
+  ],
+  "SALS": [
+    "Short Approach Lighting System"
+  ],
+  "SAMS": [
+    "Special Use Airspace Management System"
+  ],
+  "SAN": [
+    "Storage Area Network"
+  ],
+  "SAPS": [
+    "Staffing and Personnel System"
+  ],
+  "SAR": [
+    "Search and Rescue"
+  ],
+  "SARP": [
+    "Standards and Recommended Practices"
+  ],
+  "SAS": [
+    "Safety Assurance System"
+  ],
+  "SASO": [
+    "System Approach for Safety Oversight"
+  ],
+  "SAT": [
+    "Security, Awareness, and Training System",
+    "SEOAT Analytical Team"
+  ],
+  "SATCOM": [
+    "Satellite Communications"
+  ],
+  "SAVES": [
+    "Strategic Sourcing for the Acquisition of Various Equipment and Supplies"
+  ],
+  "SAWRS": [
+    "Supplemental Aviation Weather Reporting Service",
+    "Supplementary Aviation Weather Reporting System"
+  ],
+  "SBGP": [
+    "State Block Grant Program"
+  ],
+  "SBIR": [
+    "Small Business Innovation Research"
+  ],
+  "SBM": [
+    "Strategic Business Management Module Housed in the SPIRE tool"
+  ],
+  "SBS": [
+    "Surveillance Broadcast Services"
+  ],
+  "SBT": [
+    "Scenario Based Training"
+  ],
+  "SCADA": [
+    "Supervisory Control and Data Acquisition"
+  ],
+  "SCAP": [
+    "System Certification and Accreditation Package"
+  ],
+  "SCAT": [
+    "Staffing and Cost Analysis Tool"
+  ],
+  "SCC": [
+    "System Command Center"
+  ],
+  "SCT": [
+    "Southern California Area TRACON (Metroplex)"
+  ],
+  "SCVTS": [
+    "Switched Compressed Video Telecommunications Service"
+  ],
+  "SDF": [
+    "Simplified Direction Finding",
+    "Software Defined Network"
+  ],
+  "SDIS": [
+    "Switched Digital Integrated Service"
+  ],
+  "SDLC": [
+    "Software Development Life Cycle"
+  ],
+  "SDP": [
+    "Service Delivery Point"
+  ],
+  "SDR": [
+    "Service Difficulty Report",
+    "System Documentation Release"
+  ],
+  "SDS": [
+    "Switched Data Service"
+  ],
+  "SEC": [
+    "Strategic Event Coordination"
+  ],
+  "SECM": [
+    "Safety and Environmental Compliance Manager"
+  ],
+  "SECRA": [
+    "Secondary Radar"
+  ],
+  "SEI": [
+    "Special Emphasis Item"
+  ],
+  "SEL": [
+    "Single Event Level"
+  ],
+  "SELF": [
+    "Simplified Short Approach Lighting System With Sequenced Flashing Lights"
+  ],
+  "SEOAT": [
+    "Systems Engineering Operational Analysis Team"
+  ],
+  "SERC": [
+    "Software Engineering Resource Center"
+  ],
+  "SERFI": [
+    "Special Emphasis Request for Information"
+  ],
+  "SET": [
+    "Spacing Efficiency Tool"
+  ],
+  "SETA": [
+    "System Engineering and Technical Assistance"
+  ],
+  "SFAR": [
+    "Special Federal Aviation Regulations"
+  ],
+  "SFAR-38": [
+    "Special Federal Aviation Regulation 38"
+  ],
+  "SFD": [
+    "Service Flow Diagram"
+  ],
+  "SGI": [
+    "Silicon Graphics Incorporated"
+  ],
+  "SHPO": [
+    "State Historic Preservation Officer"
+  ],
+  "SHRP": [
+    "Strategic Highway Research Program"
+  ],
+  "SIAP": [
+    "Standard Instrument Flight Procedure"
+  ],
+  "SIC": [
+    "Service Initiation Charge"
+  ],
+  "SID": [
+    "Standard Instrument Departure",
+    "Station Identifier"
+  ],
+  "SIGMET": [
+    "Significant Meteorological Information"
+  ],
+  "SITA": [
+    "Société Internationale de Télécommunications Aéronautiques"
+  ],
+  "SIMMOD": [
+    "Airspace and Airport Simulation Model"
+  ],
+  "SIP": [
+    "State Implementation Plan"
+  ],
+  "SIR": [
+    "Screening Information Request"
+  ],
+  "SLEP": [
+    "Service Life Extension Program"
+  ],
+  "SM": [
+    "Statute Mile"
+  ],
+  "SMA": [
+    "Surface Monitor Aid",
+    "Surface Movement Advisor"
+  ],
+  "SMF": [
+    "Systems Management Facility"
+  ],
+  "SMGC": [
+    "Surface Movement Guidance and Control"
+  ],
+  "SMGCS": [
+    "Surface Movement Guidance and Control System"
+  ],
+  "SMMC": [
+    "System Maintenance Monitor Console"
+  ],
+  "SMO": [
+    "System Management Office"
+  ],
+  "SMPS": [
+    "Sector Maintenance Processor Subsystem"
+  ],
+  "SMS": [
+    "Safety Management System",
+    "Simulation Modeling System"
+  ],
+  "SMT": [
+    "Schedule Management Toolset"
+  ],
+  "SNR": [
+    "Signal-to-Noise Ratio"
+  ],
+  "SNT": [
+    "Staffed NextGen Tower"
+  ],
+  "SOAR": [
+    "System of Airports Reporting"
+  ],
+  "SOC": [
+    "Service Operations Center",
+    "Service Oversight Center"
+  ],
+  "SOIR": [
+    "Simultaneous Operations On Intersecting Runways"
+  ],
+  "SOIWR": [
+    "Simultaneous Operations on Intersecting Wet Runways"
+  ],
+  "SOP": [
+    "Standard Operating Practice",
+    "Standard Operating Procedures"
+  ],
+  "SOW": [
+    "Statement of Work"
+  ],
+  "SP": [
+    "Surveillance Processing"
+  ],
+  "SPAS": [
+    "System Performance Analysis System"
+  ],
+  "SPIFR": [
+    "Single Pilot IFR"
+  ],
+  "SPORT": [
+    "Space Positional Optical Radar Tracking"
+  ],
+  "SRAP": [
+    "Sensor Receiver and Processor"
+  ],
+  "SRM": [
+    "Safety Risk Management",
+    "Single Pilot Resource Management"
+  ],
+  "SRMD": [
+    "Safety Risk Management Document"
+  ],
+  "SRMDM": [
+    "Safety Risk Management Memo"
+  ],
+  "SRS": [
+    "Shuttle Reservation System"
+  ],
+  "SRTM": [
+    "Shuttle Radar Topography Mission"
+  ],
+  "SSALF": [
+    "SSALS with Sequenced Flashers"
+  ],
+  "SSALR": [
+    "Simplified Short Approach Lighting System"
+  ],
+  "SSB": [
+    "Single Side Band"
+  ],
+  "SSC": [
+    "System Support Center",
+    "Systems Support Center"
+  ],
+  "SSD": [
+    "System Support Directive"
+  ],
+  "SSE": [
+    "Servicing Security Element"
+  ],
+  "SSM": [
+    "System Support Modification"
+  ],
+  "SSRWG": [
+    "Systems Safety Risk Working Group"
+  ],
+  "SST": [
+    "System Shakedown Testing"
+  ],
+  "ST&E": [
+    "Security Test and Evaluation"
+  ],
+  "STAMP": [
+    "Site Transition Activation Management Plan"
+  ],
+  "STAR": [
+    "Standard Terminal Arrival Route",
+    "Standard Terminal Arrivals"
+  ],
+  "STARS": [
+    "Standard Terminal Automation Replacement System"
+  ],
+  "STC": [
+    "Supplemental Type Certificate"
+  ],
+  "STD": [
+    "Standard"
+  ],
+  "STI": [
+    "Short Term Incentives"
+  ],
+  "STMP": [
+    "Special Traffic Management Program"
+  ],
+  "STMUX": [
+    "Statistical Data Multiplexer"
+  ],
+  "STOL": [
+    "Short Take - Off and Landing",
+    "Short Takeoff and Landing"
+  ],
+  "STR": [
+    "System Technical Release"
+  ],
+  "STT": [
+    "Staffing to Traffic"
+  ],
+  "STVS": [
+    "Small Tower Voice Switch"
+  ],
+  "SUA": [
+    "Special Use Airspace"
+  ],
+  "SUP": [
+    "Suspected Unapproved Parts"
+  ],
+  "SUPCOM": [
+    "Supervisors Committee (AAT AND AAF)"
+  ],
+  "SUPPS": [
+    "Supplementary Procedures"
+  ],
+  "SURPIC": [
+    "Surface Picture"
+  ],
+  "SVCA": [
+    "Service A"
+  ],
+  "SVCB": [
+    "Service B"
+  ],
+  "SVCC": [
+    "Service C"
+  ],
+  "SVCO": [
+    "Service O"
+  ],
+  "SVFB": [
+    "Interphone Service F (B)"
+  ],
+  "SVFC": [
+    "Interphone Service F (C)"
+  ],
+  "SVFD": [
+    "Interphone Service F (D)"
+  ],
+  "SVFO": [
+    "Interphone Service F (A)"
+  ],
+  "SVFR": [
+    "Special Visual Flight Rules"
+  ],
+  "SWAP": [
+    "Severe Weather Avoidance Procedure/Program"
+  ],
+  "SWIFT": [
+    "Selections Within Faster Times"
+  ],
+  "SWIM": [
+    "System Wide Information Management"
+  ],
+  "SWPPP": [
+    "Storm Water Pollution Protection Plan"
+  ],
+  "T1MUX": [
+    "T1 Multiplexer"
+  ],
+  "TAAS": [
+    "Terminal Advance Automation System"
+  ],
+  "TAC": [
+    "Tactical Air Command (USAF) Tester",
+    "Terminal Area Chart"
+  ],
+  "TACAN": [
+    "Tactical Air Navigation",
+    "Tactical Aircraft Control and Navigation"
+  ],
+  "TACR": [
+    "TACAN at VOR, TACAN only"
+  ],
+  "TAF": [
+    "Terminal Area Forecast"
+  ],
+  "TAMR": [
+    "Terminal Automation Modernization and Replacement"
+  ],
+  "TARS": [
+    "Terminal Automated Radar Service"
+  ],
+  "TAS": [
+    "True Air Speed"
+  ],
+  "TATCA": [
+    "Terminal Air Traffic Control Automation"
+  ],
+  "TAVT": [
+    "Terminal Airspace Visualization Tool"
+  ],
+  "TAWS": [
+    "Terrain Awareness and Warning System"
+  ],
+  "TBFM": [
+    "Time Based Flow Management"
+  ],
+  "TBO": [
+    "Trajectory Based Operation"
+  ],
+  "TCA": [
+    "Tactical Customer Advocate",
+    "Terminal Control Area",
+    "Traffic Control Airport or Tower Control Airport"
+  ],
+  "TCACCIS": [
+    "Transportation Coordinator Automated Command and Control Information System"
+  ],
+  "TCAP": [
+    "Traffic Count Automation Program"
+  ],
+  "TCAS": [
+    "Traffic Alert and Collision Avoidance System"
+  ],
+  "TCC": [
+    "DOT Transportation Computer Center"
+  ],
+  "TCCC": [
+    "Tower Control Computer Complex"
+  ],
+  "TCE": [
+    "Tone Control Equipment"
+  ],
+  "TCLT": [
+    "Tentative Calculated Landing Time"
+  ],
+  "TCO": [
+    "Telecommunications Certification Officer"
+  ],
+  "TCOM": [
+    "Terminal Communications"
+  ],
+  "TCS": [
+    "Tower Communications System"
+  ],
+  "TCVR": [
+    "Transceiver"
+  ],
+  "TDDS": [
+    "Terminal Data Display System"
+  ],
+  "TDLS": [
+    "Tower Data-Link Services"
+  ],
+  "TDMUX": [
+    "Time Division Data Multiplexer"
+  ],
+  "TDWR": [
+    "Terminal Doppler Weather Radar"
+  ],
+  "TELCO": [
+    "Telephone Company"
+  ],
+  "TELMS": [
+    "Telecommunications Management System"
+  ],
+  "TERP": [
+    "Terminal Instrument Procedure"
+  ],
+  "TFAC": [
+    "To Facility"
+  ],
+  "TFDM": [
+    "Tower Flight Data Manager"
+  ],
+  "TFM": [
+    "Traffic Flow Management"
+  ],
+  "TFMS": [
+    "Traffic Flow Management System"
+  ],
+  "TFR": [
+    "Temporary Flight Restriction"
+  ],
+  "TH": [
+    "Threshold"
+  ],
+  "TIB": [
+    "Technical Instruction Book"
+  ],
+  "TIMS": [
+    "Telecommunications Information Management System"
+  ],
+  "TIPH": [
+    "Taxi Into Position and Hold"
+  ],
+  "TIPS": [
+    "Terminal Information Processing System"
+  ],
+  "TL": [
+    "Taxilane"
+  ],
+  "TM&O": [
+    "Telecommunications Management and Operations"
+  ],
+  "TMA": [
+    "Traffic Management Advisor"
+  ],
+  "TMC": [
+    "Traffic Management Coordinator",
+    "Travel Management Center"
+  ],
+  "TMC/MC": [
+    "Traffic Management Coordinator/Military Coordinator"
+  ],
+  "TMCC": [
+    "Terminal Information Processing System",
+    "Traffic Management Computer Complex"
+  ],
+  "TMF": [
+    "Traffic Management Facility"
+  ],
+  "TMI": [
+    "Traffic Management Initiative"
+  ],
+  "TML": [
+    "Television Microwave Link"
+  ],
+  "TMLI": [
+    "Television Microwave Link Indicator"
+  ],
+  "TMLR": [
+    "Television Microwave Link Repeater"
+  ],
+  "TMLT": [
+    "Television Microwave Link Terminal"
+  ],
+  "TMP": [
+    "Traffic Management Processor"
+  ],
+  "TMS": [
+    "Traffic Management System"
+  ],
+  "TMSPS": [
+    "Traffic Management Specialists"
+  ],
+  "TMU": [
+    "Traffic Management Unit"
+  ],
+  "TNAV": [
+    "Terminal Navigational Aids"
+  ],
+  "TOCC": [
+    "Technical Operations Control Center"
+  ],
+  "TODA": [
+    "Takeoff Distance Available"
+  ],
+  "TOF": [
+    "Time Of Flight"
+  ],
+  "TOFMS": [
+    "Time of Flight Mass Spectrometer"
+  ],
+  "TOPS": [
+    "Telecommunications Ordering and Pricing System (GSA software tool)"
+  ],
+  "TORA": [
+    "Take-off Run Available"
+  ],
+  "TP": [
+    "Telecommunication Processor",
+    "Track Processing"
+  ],
+  "TPP": [
+    "Terminal Procedures Publication"
+  ],
+  "TPR": [
+    "Technical Performance Record"
+  ],
+  "TR": [
+    "Telecommunications Request"
+  ],
+  "TRACAB": [
+    "Terminal Radar Approach Control in Tower Cab"
+  ],
+  "TRACON": [
+    "Terminal Radar Approach Control",
+    "Terminal Radar Approach Control Facility"
+  ],
+  "TRAD": [
+    "Terminal Radar Service"
+  ],
+  "TRB": [
+    "Transportation Research Board"
+  ],
+  "TRD": [
+    "Technical Reference Data"
+  ],
+  "TRDR": [
+    "Technical Reference Data Record"
+  ],
+  "TRNG": [
+    "Training"
+  ],
+  "TS": [
+    "Top Secret"
+  ],
+  "TSA": [
+    "Taxiway Safety Area"
+  ],
+  "TSARTS": [
+    "Terminal Stand-Alone Radar Training System"
+  ],
+  "TSC": [
+    "Technical Support Center"
+  ],
+  "TSD": [
+    "Traffic Situation Display",
+    "Traffic Situational Display"
+  ],
+  "TSEC": [
+    "Terminal Secondary Radar Service"
+  ],
+  "TSO": [
+    "Technical Standard Order"
+  ],
+  "TSP": [
+    "Telecommunications Service Priority"
+  ],
+  "TSR": [
+    "Telecommunications Service Request"
+  ],
+  "TSS": [
+    "Tower Simulation System"
+  ],
+  "TSSC": [
+    "Technical Support Services Contract"
+  ],
+  "TSYS": [
+    "Terminal Equipment Systems"
+  ],
+  "TTMA": [
+    "TRACON Traffic Management Advisor"
+  ],
+  "TTWG": [
+    "Technical Transfer Working Group"
+  ],
+  "TTY": [
+    "Teletype"
+  ],
+  "TUR": [
+    "Time Utilization Report"
+  ],
+  "TVOR": [
+    "Terminal VHF Omnidirectional Range"
+  ],
+  "TVSR": [
+    "Terminal Voice Switch Replacement"
+  ],
+  "TW": [
+    "Taxiway"
+  ],
+  "TWEB": [
+    "Transcribed Weather Broadcast"
+  ],
+  "TWIP": [
+    "Terminal Weather Information for Pilots"
+  ],
+  "TWR": [
+    "Tower (non-controlled)"
+  ],
+  "TWY": [
+    "Taxiway"
+  ],
+  "TX": [
+    "Transmitter"
+  ],
+  "TY": [
+    "Type (FAACIS)"
+  ],
+  "UAS": [
+    "Uniform Accounting System",
+    "Unmanned Aircraft Systems"
+  ],
+  "UAT": [
+    "Universal Access Transceiver"
+  ],
+  "UBA": [
+    "User Benefits Applications"
+  ],
+  "UBI": [
+    "User Benefits Infrastructure"
+  ],
+  "UCR": [
+    "Unsatisfactory Condition Report"
+  ],
+  "UFAS": [
+    "Uniform Federal Accessibility Standard"
+  ],
+  "UHF": [
+    "Ultra High Frequency"
+  ],
+  "UEI": [
+    "Unique Entity ID"
+  ],
+  "UNIX": [
+    "Uniplexed Information and Computing System"
+  ],
+  "UPR": [
+    "User Preferred Route"
+  ],
+  "UPS": [
+    "Uninterruptable Power Supply"
+  ],
+  "UPT": [
+    "User Preferred Trajectory"
+  ],
+  "URA": [
+    "Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970"
+  ],
+  "URET": [
+    "User Request Evaluation Tool"
+  ],
+  "USAF": [
+    "United States Air Force"
+  ],
+  "USC": [
+    "United States Code"
+  ],
+  "USCG": [
+    "United States Coast Guard"
+  ],
+  "USG": [
+    "United States Government"
+  ],
+  "USNS": [
+    "United States Notices to Airmen System"
+  ],
+  "USOAP": [
+    "Universal Safety Oversight Audit Program"
+  ],
+  "USOC": [
+    "Uniform Service Order Code"
+  ],
+  "UTC": [
+    "Coordinated Universal Time (ZULU)"
+  ],
+  "VALE": [
+    "Voluntary Airport Low Emission",
+    "Voluntary Airport Low Emission Program"
+  ],
+  "VASI": [
+    "Visual Approach Slope Indicator"
+  ],
+  "VBScript": [
+    "Visual Basic Scripting Edition"
+  ],
+  "VDF": [
+    "Very High Frequency Direction-Finding Station"
+  ],
+  "VDL": [
+    "Very High Frequency Data Link"
+  ],
+  "VDME": [
+    "VOR with Distance Measuring Equipment"
+  ],
+  "VEARS": [
+    "VSCS Emergency Access Radio System"
+  ],
+  "VF": [
+    "Voice Frequency"
+  ],
+  "VFR": [
+    "Visual Flight Rules"
+  ],
+  "VGSI": [
+    "Visual Guidance Slope Indicator"
+  ],
+  "VHF": [
+    "Very High Frequency"
+  ],
+  "VLF": [
+    "Very Low Frequency"
+  ],
+  "VLJ": [
+    "Very Light Jet"
+  ],
+  "VMC": [
+    "Visual Meteorological Conditions"
+  ],
+  "VMS": [
+    "Virtual Memory System"
+  ],
+  "VNAV": [
+    "Visual Navigational Aids"
+  ],
+  "VNTSC": [
+    "Volpe National Transportation System Center"
+  ],
+  "VOIP": [
+    "Voice Over Internet Protocol"
+  ],
+  "VON": [
+    "Virtual On-net"
+  ],
+  "VOR": [
+    "Very High Frequency Omnidirectional Range"
+  ],
+  "VOR/DME": [
+    "Very High Frequency Omnidirectional Range Collocated with Distance Measuring Equipment",
+    "VHF Omnidirectional Range/Distance Measuring Equipment"
+  ],
+  "VORTAC": [
+    "Very High Frequency Omnidirectional Range Collocated Tactical Air",
+    "VOR collocated with TACAN"
+  ],
+  "VOT": [
+    "VOR Test Facility"
+  ],
+  "V/PD": [
+    "Vehicle/Pedestrian Deviation"
+  ],
+  "VRRP": [
+    "Voice Recorder Replacement Program"
+  ],
+  "VRS": [
+    "Voice Recording System"
+  ],
+  "VSBP": [
+    "Voice Switch Bypass"
+  ],
+  "VSCS": [
+    "Voice Switching and Control System"
+  ],
+  "VTA": [
+    "Vertex Time of Arrival"
+  ],
+  "VTAC": [
+    "VOR collocated with TACAN"
+  ],
+  "VTOL": [
+    "Vertical Take-off and landing"
+  ],
+  "VTS": [
+    "Voice Telecommunications System"
+  ],
+  "WAAS": [
+    "Wide Area Augmentation System"
+  ],
+  "WADGPS": [
+    "Wide Area Differential Global Positioning System"
+  ],
+  "WAN": [
+    "Wide Area Network"
+  ],
+  "WARP": [
+    "Weather and Radar Processor"
+  ],
+  "WASS": [
+    "Wide Area Augmentation System - GPS"
+  ],
+  "WBS": [
+    "Work Breakdown Structure"
+  ],
+  "WC": [
+    "Work Center"
+  ],
+  "WCAM": [
+    "Weather Camera"
+  ],
+  "WCIS": [
+    "Workmen's Compensation Information System"
+  ],
+  "WCP": [
+    "Weather Communications Processor"
+  ],
+  "WECO": [
+    "Western Electric Company"
+  ],
+  "WESCOM": [
+    "Western Electric Satellite Communications"
+  ],
+  "WFD": [
+    "Widespread Fatigue Damage"
+  ],
+  "WG": [
+    "Working Group"
+  ],
+  "WiFi": [
+    "Wireless Fidelity"
+  ],
+  "WJHTC": [
+    "William J. Hughes Technical Center"
+  ],
+  "WMS": [
+    "Web Map Service",
+    "Wide-area Master Station"
+  ],
+  "WMSC": [
+    "Weather Message Switching Center"
+  ],
+  "WMSCR": [
+    "Weather Message Switching Center Replacement"
+  ],
+  "WN": [
+    "Warning Notice"
+  ],
+  "WOCC": [
+    "Washington Operations Center Complex"
+  ],
+  "WRS": [
+    "Wide Area Augmentation System Reference Station",
+    "Wide-area Reference Station"
+  ],
+  "WSA": [
+    "Western Service Area"
+  ],
+  "WSC": [
+    "Western Service Center"
+  ],
+  "WSCMO": [
+    "Weather Service Contract Meteorological Observatory"
+  ],
+  "WSFO": [
+    "Weather Service Forecast Office"
+  ],
+  "WSO": [
+    "Weather Service Office"
+  ],
+  "WSP": [
+    "Weather Systems Processor"
+  ],
+  "WSR": [
+    "Weather Surveillance Radar"
+  ],
+  "WSUS": [
+    "Windows Server Update Service"
+  ],
+  "WTHR": [
+    "Weather"
+  ],
+  "WX": [
+    "Weather"
+  ],
+  "XML": [
+    "eXtensible Markup Language"
+  ],
+  "ZAB": [
+    "Albuquerque ARTCC"
+  ],
+  "ZAN": [
+    "Anchorage ARTCC"
+  ],
+  "ZAU": [
+    "Chicago ARTCC"
+  ],
+  "ZBW": [
+    "Boston ARTCC"
+  ],
+  "ZDC": [
+    "Washington ARTCC"
+  ],
+  "ZDV": [
+    "Denver ARTCC"
+  ],
+  "ZFW": [
+    "Fort Worth ARTCC"
+  ],
+  "ZHU": [
+    "Houston ARTCC"
+  ],
+  "ZID": [
+    "Indianapolis ARTCC"
+  ],
+  "ZJX": [
+    "Jacksonville ARTCC"
+  ],
+  "ZKC": [
+    "Kansas City ARTCC"
+  ],
+  "ZLA": [
+    "Los Angeles ARTCC"
+  ],
+  "ZLC": [
+    "Salt Lake City ARTCC"
+  ],
+  "ZMA": [
+    "Miami ARTCC"
+  ],
+  "ZME": [
+    "Memphis ARTCC"
+  ],
+  "ZMP": [
+    "Minneapolis ARTCC"
+  ],
+  "ZNY": [
+    "New York ARTCC"
+  ],
+  "ZOA": [
+    "Oakland ARTCC"
+  ],
+  "ZOB": [
+    "Cleveland ARTCC"
+  ],
+  "ZSE": [
+    "Seattle ARTCC"
+  ],
+  "ZTL": [
+    "Atlanta ARTCC"
+  ]
+}
