@@ -1,30 +1,31 @@
 /**
- * Fetches and normalizes the acronyms dataset from xransum/pplground.
+ * Loads and normalizes the acronyms dataset bundled with groundschool.
+ *
+ * Source data is stored in acronyms-source.json (copied from the now-archived
+ * xransum/pplground repo). To update the acronyms in the future, replace that
+ * file with an updated copy and re-run `groundschool scrape`.
  *
  * Source format: { "A": [{acronym, definition}, ...], "B": [...], ... }
- * Output format: { "ATC": ["Air Traffic Control"], "ADS-B": ["Automatic Dependent Surveillance-Broadcast"], ... }
+ * Output format: { "ATC": ["Air Traffic Control"], "ADS-B": ["..."], ... }
  *
  * Multiple definitions per acronym are preserved as an array so the UI
  * can display all of them in the tooltip.
  */
 
-import fetch from 'node-fetch';
+import { readFileSync } from 'fs';
+import { resolve, dirname } from 'path';
+import { fileURLToPath } from 'url';
 
-const ACRONYMS_URL =
-  'https://raw.githubusercontent.com/xransum/pplground/main/data/acronyms.json';
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const ACRONYMS_SOURCE = resolve(__dirname, 'acronyms-source.json');
 
 /**
- * Downloads and normalizes the acronyms JSON from the pplground repo.
+ * Reads and normalizes the bundled acronyms JSON.
  * Returns a flat lookup map: { [acronym: string]: string[] }
  */
 export async function fetchAcronyms() {
-  console.log('  Fetching acronyms.json from xransum/pplground...');
-  const res = await fetch(ACRONYMS_URL);
-  if (!res.ok) {
-    throw new Error(`Failed to fetch acronyms: ${res.status} ${res.statusText}`);
-  }
-
-  const raw = await res.json();
+  console.log('  Loading bundled acronyms-source.json...');
+  const raw = JSON.parse(readFileSync(ACRONYMS_SOURCE, 'utf8'));
   const normalized = normalizeAcronyms(raw);
   const count = Object.keys(normalized).length;
   console.log(`  Normalized ${count} unique acronyms`);
